@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "User profile with study statistics and settings",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "The unique Firebase Auth UID" },
+        "displayName": { "type": "string", "description": "User display name" },
+        "email": { "type": "string", "description": "User email address" },
+        "photoUrl": { "type": "string", "description": "Optional user avatar URL" },
+        "studySeconds": { "type": "integer", "description": "Total seconds spent studying" },
+        "quizCount": { "type": "integer", "description": "Total quiz attempts" },
+        "quizCorrect": { "type": "integer", "description": "Total correct answers in quizzes" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp of creation" },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Server timestamp of last update" }
+      },
+      "required": ["userId", "displayName", "studySeconds", "quizCount", "quizCorrect", "createdAt", "updatedAt"]
+    },
+    "QuizHistory": {
+      "title": "QuizHistory",
+      "description": "Log of a completed quiz session",
+      "type": "object",
+      "properties": {
+        "quizId": { "type": "string", "description": "Unique quiz history record ID" },
+        "userId": { "type": "string", "description": "Owner user UID" },
+        "category": { "type": "string", "description": "Quiz category (VOCABULARY, KANJI, etc.)" },
+        "lesson": { "type": "integer", "description": "Lesson number" },
+        "score": { "type": "integer", "description": "Correct answers score" },
+        "totalQuestions": { "type": "integer", "description": "Total questions in quiz" },
+        "percentage": { "type": "integer", "description": "Percentage score (0-100)" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp when quiz completed" }
+      },
+      "required": ["quizId", "userId", "category", "lesson", "score", "totalQuestions", "percentage", "createdAt"]
+    },
+    "Bookmark": {
+      "title": "Bookmark",
+      "description": "User bookmarked vocabulary, kanji, or grammar item for review",
+      "type": "object",
+      "properties": {
+        "bookmarkId": { "type": "string", "description": "Unique bookmark record ID" },
+        "userId": { "type": "string", "description": "Owner user UID" },
+        "itemId": { "type": "string", "description": "ID of bookmarked item" },
+        "category": { "type": "string", "description": "Category of item" },
+        "japanese": { "type": "string", "description": "Japanese text" },
+        "romaji": { "type": "string", "description": "Romaji reading" },
+        "bangla": { "type": "string", "description": "Bangla meaning" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Timestamp when bookmarked" }
+      },
+      "required": ["bookmarkId", "userId", "itemId", "category", "japanese", "romaji", "bangla", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "Stores user profile and study progress stats"
+    },
+    "/users/{userId}/quiz_history/{quizId}": {
+      "schema": "QuizHistory",
+      "description": "Subcollection recording user completed quizzes"
+    },
+    "/users/{userId}/bookmarks/{bookmarkId}": {
+      "schema": "Bookmark",
+      "description": "Subcollection of user bookmarked items"
+    }
+  }
+}

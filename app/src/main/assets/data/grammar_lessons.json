@@ -1,0 +1,1165 @@
+[
+  {
+    "lesson": 1,
+    "title": "Lesson 01 (Grammar)",
+    "subtitle": "7 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "N1 + は + N2 + です",
+        "formula": "",
+        "explanation": "এখানে, N1 = Subject, বাক্যে Sub এর পর \"は\" Particle ব্যবহার হয়। N2 = Topic, Verb নেই এমন বাক্যের শেষে \"です\" হয়।",
+        "exampleJp": "わたしは 19さいです。",
+        "exampleRomaji": "Watashi wa juukyuusai desu.",
+        "exampleBangla": "আমি ১৯ বছর বয়স।"
+      },
+      {
+        "pattern": "です ⇒ じゃありません",
+        "formula": "",
+        "explanation": "です এর পরিবর্তে じゃありません / ではありません ব্যবহার করলে বাক্যটি Affirmative থেকে Negative হবে।",
+        "exampleJp": "わたしは 19さいじゃありません。",
+        "exampleRomaji": "Watashi wa juukyuusai ja arimasen.",
+        "exampleBangla": "আমি ১৯ বছর বয়স না।"
+      },
+      {
+        "pattern": "～か",
+        "formula": "",
+        "explanation": "যে কোনো বাক্যের শেষে \"か\" যুক্ত করলে বাক্যটি প্রশ্নবোধক হয়।",
+        "exampleJp": "あなたは 19さいですか。\nあなたは なんさいですか。",
+        "exampleRomaji": "Anata wa juukyuusai desu ka?\nAnata wa nansai desu ka?",
+        "exampleBangla": "আপনার কি ১৯ বছর বয়স।\nআপনার কত বছর বয়স?"
+      },
+      {
+        "pattern": "～さん",
+        "formula": "",
+        "explanation": "নিজের নাম এবং পরিবারের নাম ছাড়া, অন্য কারো নাম উচ্চারণের সময়, নামের পরে \"さん\" বলতে হয়।",
+        "exampleJp": "ミラーさんは アメリカじん です。",
+        "exampleRomaji": "Miraa-san wa amerikajin desu.",
+        "exampleBangla": "জনাব মিলার আমেরিকার নাগরিক।"
+      },
+      {
+        "pattern": "も",
+        "formula": "",
+        "explanation": "বাংলায় \"+ও\" যেখানে বলা হয়, জাপানিজ নিয়ম অনুযায়ী সেখানে \"も\" Particle ব্যবহার হয়।",
+        "exampleJp": "わたしは 19さいです。ミラーさんも 19さいです。",
+        "exampleRomaji": "Watashi wa juukyuusai desu. Miraa-san mo juukyuusai desu.",
+        "exampleBangla": "আমি ১৯ বছর বয়স। জনাব মিলারও ১৯ বছর বয়স।"
+      },
+      {
+        "pattern": "N1 + の + N2",
+        "formula": "",
+        "explanation": "বাংলায় \"এর / +র\" উচ্চারণ হয়, জাপানিজ নিয়ম অনুযায়ী সেখানে \"の\" Particle ব্যবহার হয়।",
+        "exampleJp": "わたしは ABC だいがくの がくせいです。",
+        "exampleRomaji": "Watashi wa ABC daigaku no gakusei desu.",
+        "exampleBangla": "আমি ABC বিশ্ববিদ্যালয়ের ছাত্র।"
+      },
+      {
+        "pattern": "です ⇒ でした。",
+        "formula": "",
+        "explanation": "বাক্যের শেষে です এর পরিবর্তে \"でした\" ব্যবহার করলে বাক্যটি অতীত হয়।",
+        "exampleJp": "わたしは ABC だいがくの がくせいでした。",
+        "exampleRomaji": "Watashi wa ABC daigaku no gakusei deshita.",
+        "exampleBangla": "আমি ABC বিশ্ববিদ্যালয়ের ছাত্র ছিলাম।"
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "title": "Lesson 02 (Grammar)",
+    "subtitle": "7 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "これ、それ、あれ",
+        "formula": "",
+        "explanation": "これ、それ、あれ যথাক্রমে ১ম পক্ষের কাছে, ২য় পক্ষের কাছে এবং ১ম ও ২য় পক্ষ উভয়ের দূরের বস্তুকে ইঙ্গিত করে কথা বলতে ব্যবহার হয়ে থাকে।",
+        "exampleJp": "それは ざっしです。",
+        "exampleRomaji": "Sore wa zasshi desu.",
+        "exampleBangla": "সেটা ম্যাগাজিন।"
+      },
+      {
+        "pattern": "この、その、あの",
+        "formula": "",
+        "explanation": "ব্যক্তি/বস্তুর ক্ষেত্রে ব্যবহার হয়, এবং এদের পরে Noun হয়।",
+        "exampleJp": "このほんは せんせいのです。",
+        "exampleRomaji": "Kono hon wa sensei no desu.",
+        "exampleBangla": "এই বইটি শিক্ষকের।"
+      },
+      {
+        "pattern": "そう です ／ そう じゃありません",
+        "formula": "",
+        "explanation": "Confirmation Question এর জবাব দিতে এগুলোর ব্যবহার হয়।",
+        "exampleJp": "それは めいしですか。\n…はい、そうです。\n…いいえ、そうじゃありません。",
+        "exampleRomaji": "Sore wa meishi desu ka?\n...Hai, sou desu.\n...Iie, sou ja arimasen.",
+        "exampleBangla": "সেটি কি বিজনেস কার্ড?\n… হ্যাঁ, তাই। / … না, তা নয়।"
+      },
+      {
+        "pattern": "Sentence1 か、Sentence2 か。",
+        "formula": "",
+        "explanation": "২টি বাক্যের শেষে か ব্যবহার করলে, বাংলায় \"নাকি\" যুক্ত ১টি Alternative Question তৈরি হয়।",
+        "exampleJp": "これは ほんですか、ざっしですか。",
+        "exampleRomaji": "Kore wa hon desu ka, zasshi desu ka?",
+        "exampleBangla": "এটা কি বই নাকি ম্যাগাজিন?"
+      },
+      {
+        "pattern": "N1 の N2",
+        "formula": "",
+        "explanation": "বাংলায় \"এর / র\" যুক্ত শব্দের স্থানে, জাপানিজ নিয়মে の Particle ব্যবহার হয়।",
+        "exampleJp": "あれは せんせいの かさです。",
+        "exampleRomaji": "Are wa sensei no kasa desu.",
+        "exampleBangla": "ঐটা শিক্ষকের ছাতা।"
+      },
+      {
+        "pattern": "そう ですか",
+        "formula": "",
+        "explanation": "আশ্চর্যমূলক ঘটনা এবং কোনো তথ্য প্রথমবার শুনলে そうですか বলা হয়।",
+        "exampleJp": "A: このくるまは わたしのです。 B: そうですか。\nA: このくるまは あなたのですか。 B: いいえ、せんせいのです。 A: そうですか。",
+        "exampleRomaji": "A: Kono kuruma wa watashi no desu. B: Sou desu ka.\nA: Kono kuruma wa anata no desu ka? B: Iie, sensei no desu. A: Sou desu ka.",
+        "exampleBangla": "এই গাড়িটি আমার। তাই নাকি!\nএই গাড়িটি কি তোমার? না, শিক্ষকের। তাই নাকি।"
+      },
+      {
+        "pattern": "お～",
+        "formula": "",
+        "explanation": "কিছু Noun এর পূর্বে \"お\" ব্যবহারে ঐ Noun-কে সম্মান দেয়া বুঝায়।",
+        "exampleJp": "[お]みやげ ／ [お]みず ／ [お]くに",
+        "exampleRomaji": "[o]miyage / [o]mizu / [o]kuni",
+        "exampleBangla": "[お]みやげ = গিফট | [お]みず = পানি | [お]くに = দেশ"
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "title": "Lesson 03 (Grammar)",
+    "subtitle": "4 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "ここ／そこ／あそこ、こちら／そちら／あちら",
+        "formula": "",
+        "explanation": "১ম পক্ষের কাছে হলে ここ ও こちら, ২য় পক্ষের কাছে হলে そこ ও そちら, উভয়ের দূরে হলে あそこ ও あちら ব্যবহার হয়। এগুলো দিয়ে যথাক্রমে স্থান ও দিক বুঝায়।",
+        "exampleJp": "しょくどうは あそこです。",
+        "exampleRomaji": "Shokudou wa asoko desu.",
+        "exampleBangla": "ক্যান্টিন ঐখানে।"
+      },
+      {
+        "pattern": "N1 は N2 です",
+        "formula": "",
+        "explanation": "কোনো ব্যক্তি / বস্তুর অবস্থান বুঝাতে, N2 অনেক ক্ষেত্রে Place হিসেবে কাজ করে।",
+        "exampleJp": "せんせいは きょうしつです。",
+        "exampleRomaji": "Sensei wa kyoushitsu desu.",
+        "exampleBangla": "শিক্ষক ক্লাসরুমে।"
+      },
+      {
+        "pattern": "どこ ／ どちら",
+        "formula": "",
+        "explanation": "Place সম্পর্কে প্রশ্ন করতে どこ, দিক সম্পর্কে প্রশ্ন করতে どちら ব্যবহার হয়।",
+        "exampleJp": "トイレは どこですか。\nエレベーターは どちらですか。",
+        "exampleRomaji": "Toire wa doko desu ka?\nErebeetaa wa dochira desu ka?",
+        "exampleBangla": "টয়লেট কোথায়?\nলিফট কোনদিকে?"
+      },
+      {
+        "pattern": "どこ の N2",
+        "formula": "",
+        "explanation": "কোনো জিনিস / পন্য \"কোথাকার\", এমন প্রশ্ন করতে どこの ব্যবহার করতে হয়।",
+        "exampleJp": "これは どこの コンピューターですか。\n… ワルトンの [コンピューター] です。\n… アメリカの [コンピューター] です。",
+        "exampleRomaji": "Kore wa doko no konpyuutaa desu ka?\n...Waruton no [konpyuutaa] desu.\n...Amerika no [konpyuutaa] desu.",
+        "exampleBangla": "এটা কোথাকার কম্পিউটার?\n...ওয়ালটনের (কম্পিউটার)।\n...আমেরিকার (কম্পিউটার)।"
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "title": "Lesson 04 (Grammar)",
+    "subtitle": "7 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "いま ～じ ～ぷん／ふん です",
+        "formula": "",
+        "explanation": "বর্তমান সময় করে বলার ক্ষেত্রে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "にほんは いま ごご 3じはんです。",
+        "exampleRomaji": "Nihon wa ima gogo sanjihan desu.",
+        "exampleBangla": "জাপান এখন বিকেল সাড়ে তিনটা বাজে।"
+      },
+      {
+        "pattern": "Vます → Vません → Vました → Vませんでした",
+        "formula": "",
+        "explanation": "এগুলো দিয়ে Verb এর Tense নির্ণয় করা হয়।\nます = বর্তমান ভবিষ্যৎ - হ্যা বোধক, (Main Verb)\nません = বর্তমান ভবিষ্যৎ - না বোধক,\nました = অতীত - হ্যা বোধক,\nませんでした = অতীত - না বোধক।",
+        "exampleJp": "わたしは あした べんきょうします。\nわたしは あした べんきょうしません。\nわたしは きのう べんきょうしました。\nわたしは きのう べんきょうしませんでした。",
+        "exampleRomaji": "Watashi wa ashita benkyou shimasu. / shimasen.\nWatashi wa kinou benkyou shimashita. / shimasen deshita.",
+        "exampleBangla": "আমি আগামীকাল পড়বো। / আমি আগামীকাল পড়বো না।\nআমি গতকাল পড়েছি। / আমি গতকাল পড়িনি।"
+      },
+      {
+        "pattern": "Verb + か",
+        "formula": "",
+        "explanation": "Verb যুক্ত বাক্যের শেষে \"か\" যুক্ত করলে বাক্যটি প্রশ্নবোধক হবে।",
+        "exampleJp": "きのうのばん べんきょうしましたか。",
+        "exampleRomaji": "Kinou no ban benkyou shimashita ka?",
+        "exampleBangla": "গতরাতে পড়াশুনা করেছিলেন কি?"
+      },
+      {
+        "pattern": "Time (N) に + Verb",
+        "formula": "",
+        "explanation": "নির্দিষ্ট করে কোনো সময় বলার ক্ষেত্রে, সময়ের পরে \"に\" Particle যুক্ত করতে হয়।",
+        "exampleJp": "わたしは けさ 6じに おきました。",
+        "exampleRomaji": "Watashi wa kesa rokuji ni okimashita.",
+        "exampleBangla": "আমি আজ সকাল ৬টায় ঘুম থেকে উঠেছি।"
+      },
+      {
+        "pattern": "N1 から N2 まで",
+        "formula": "",
+        "explanation": "\"থেকে\" বুঝাতে \"から\" এবং \"পর্যন্ত\" বুঝাতে \"まで\" Particle ব্যবহার হয়।",
+        "exampleJp": "わたしは 9じから 5じまで はたらきます。",
+        "exampleRomaji": "Watashi wa kuji kara goji made hatarakimasu.",
+        "exampleBangla": "আমি ৯টা থেকে ৫টা পর্যন্ত কাজ করি।"
+      },
+      {
+        "pattern": "N1 と N2",
+        "formula": "",
+        "explanation": "একই সম্পর্কের ২টি Noun-এর মাঝে \"と\" Particle \"এবং\" অর্থ প্রকাশ করে।",
+        "exampleJp": "ぎんこうの やすみは どようび と にちようびです。",
+        "exampleRomaji": "Ginkou no yasumi wa doyoubi to nichiyoubi desu.",
+        "exampleBangla": "ব্যাংকের ছুটি শনি এবং রবিবার।"
+      },
+      {
+        "pattern": "～ね",
+        "formula": "",
+        "explanation": "সহানুভূতি প্রকাশের ক্ষেত্রে বাক্যের শেষে \"ね\" ব্যবহার হয়।",
+        "exampleJp": "それは たいへんですね。",
+        "exampleRomaji": "Sore wa taihen desu ne.",
+        "exampleBangla": "সেটা (সেই কাজটি) অনেক কষ্টকর ব্যাপার।"
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "title": "Lesson 05 (Grammar)",
+    "subtitle": "7 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "N1 は N2 へ いきます／きます／かえります",
+        "formula": "",
+        "explanation": "Movement Verb যুক্ত বাক্যের ক্ষেত্রে, যে স্থানে Move করা হয়, সেই স্থানের পরে \"へ\" Particle ব্যবহার হয়। উচ্চারণ হবে \"এ\"।",
+        "exampleJp": "とうきょうへ いきます。\nうちへ かえりました。",
+        "exampleRomaji": "Toukyou e ikimasu.\nUchi e kaerimashita.",
+        "exampleBangla": "টোকিও যাবো।\nবাড়ি ফিরেছি।"
+      },
+      {
+        "pattern": "どこも + いきません／いきませんでした",
+        "formula": "",
+        "explanation": "কোনো বিষয়কে যখন সবমিলিয়ে অস্বীকার করা হয়, তখন どこ, だれ, なに এর পরে \"も\" Particle ব্যবহার করা হয়।",
+        "exampleJp": "きのう どこへ いきましたか。\n… どこも いきませんでした。",
+        "exampleRomaji": "Kinou doko e ikimashita ka?\n...Doko mo ikimasen deshita.",
+        "exampleBangla": "গতকাল কোথায় গিয়েছিলেন?\n...কোথাও যাইনি।"
+      },
+      {
+        "pattern": "N (Vehicle) で + いきます／きます／かえります",
+        "formula": "",
+        "explanation": "Movement Verb যুক্ত বাক্যে, যখন কোনো যানবাহন দিয়ে Move করা বুঝায়, তখন সেই যানবাহনের পরে \"で\" Particle ব্যবহার হয়।\nপায়ে হেটে Move করলে \"で\" Particle ব্যবহার হবে না।",
+        "exampleJp": "ひこうきで にほんへ きました。\nあるいて がっこうへ きました。",
+        "exampleRomaji": "Hikouki de Nihon e kimashita.\nAruite gakkou e kimashita.",
+        "exampleBangla": "বিমান দিয়ে জাপান এসেছি।\nপায়ে হেটে স্কুলে এসেছি।"
+      },
+      {
+        "pattern": "N (Person / Animal) と Verb",
+        "formula": "",
+        "explanation": "Noun ও Verb / Noun ও Noun (যেখানে ২টি Noun-এর সম্পর্ক এক নয়), এমন ক্ষেত্রে \"と\" Particle-টি \"সাথে\" অর্থ প্রকাশ করে।",
+        "exampleJp": "けさ ともだちと がっこうへ きました。",
+        "exampleRomaji": "Kesa tomodachi to gakkou e kimashita.",
+        "exampleBangla": "আজ সকালে বন্ধুর সাথে স্কুলে এসেছি।"
+      },
+      {
+        "pattern": "いつ",
+        "formula": "",
+        "explanation": "\"いつ\" এর অর্থ \"কখন\"। সময়কাল সম্পর্কে প্রশ্ন করার ক্ষেত্রে \"いつ\" ব্যবহার হয়।",
+        "exampleJp": "いつ うちへ かえりますか。",
+        "exampleRomaji": "Itsu uchi e kaerimasu ka?",
+        "exampleBangla": "কখন বাসায় ফিরবে?"
+      },
+      {
+        "pattern": "～よ",
+        "formula": "",
+        "explanation": "কোনো তথ্য জোড় দিয়ে বলতে বাক্যের শেষে \"よ\" বলা হয়।",
+        "exampleJp": "この バスは とうきょうへ いきませんよ。",
+        "exampleRomaji": "Kono basu wa Toukyou e ikimasen yo.",
+        "exampleBangla": "এই বাসটি টোকিওতে যাবেনা।"
+      },
+      {
+        "pattern": "そうですね",
+        "formula": "",
+        "explanation": "কারো কথার সাথে সহমত প্রকাশ করার ক্ষেত্রে \"そうですね\" ব্যবহার হয়।",
+        "exampleJp": "きょうは もくようびです。\n… そうですね。",
+        "exampleRomaji": "Kyou wa mokuyoubi desu.\n...Sou desu ne.",
+        "exampleBangla": "আজ বৃহস্পতিবার।\n...ঠিক বলেছেন।"
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "title": "Lesson 06 (Grammar)",
+    "subtitle": "8 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "N を V(transitive)",
+        "formula": "",
+        "explanation": "Target Noun এবং Transitive Verb এর মাঝে を-Particle হয়।",
+        "exampleJp": "みずを のみます。\nてがみを かきました。",
+        "exampleRomaji": "Mizu o nomimasu.\nTegami o kakimashita.",
+        "exampleBangla": "পানি পান করবো।\nচিঠি লিখেছি।"
+      },
+      {
+        "pattern": "N を します",
+        "formula": "",
+        "explanation": "Noun-কে Verb করতে, সেই Noun-এর পরে \"を します\" যুক্ত করতে হয়।",
+        "exampleJp": "サッカーを します。\nかいぎを しました。",
+        "exampleRomaji": "Sakkaa o shimasu.\nKaigi o shimashita.",
+        "exampleBangla": "ফুটবল খেলবো।\nমিটিং করেছি।"
+      },
+      {
+        "pattern": "なに を しますか",
+        "formula": "",
+        "explanation": "কারো কাজ সম্পর্কে প্রশ্ন করতে なにを しますか ব্যবহার হয়। এর অর্থ \"কি করবেন?\"",
+        "exampleJp": "きのう なにを しましたか。",
+        "exampleRomaji": "Kinou nani o shimashita ka?",
+        "exampleBangla": "গতকাল কি করেছেন?"
+      },
+      {
+        "pattern": "なん and なに",
+        "formula": "",
+        "explanation": "で、と、の Particle এর পরে এবং বিভিন্ন গননার প্রশ্নবোধক শব্দে \"なん\" ব্যবহার হয়। অন্য সকল ক্ষেত্রে \"なに\" ব্যবহার হয়। (তবে কিছু ক্ষেত্রে ব্যতিক্রম হয়)",
+        "exampleJp": "なんで いきますか。なんの ほんですか。なんさいですか。",
+        "exampleRomaji": "Nan de ikimasu ka? Nan no hon desu ka? Nansai desu ka?",
+        "exampleBangla": "কি দিয়ে যাবেন? কিসের বই? বয়স কত?"
+      },
+      {
+        "pattern": "Noun (Place) で + Verb",
+        "formula": "",
+        "explanation": "কোনো স্থানে কোনো কাজ হলে, সেই Action Place এর পরে \"で\" Particle হবে।",
+        "exampleJp": "えきで コーヒーを のみました。",
+        "exampleRomaji": "Eki de koohii o nomimashita.",
+        "exampleBangla": "স্টেশনে কফি পান করেছি।"
+      },
+      {
+        "pattern": "V + ませんか",
+        "formula": "",
+        "explanation": "কাউকে কোনো কিছুর / কাজের অফার করতে Verb+ませんか ব্যবহার হয়।",
+        "exampleJp": "いっしょに えいがを みませんか。",
+        "exampleRomaji": "Issho ni eiga o mimasen ka?",
+        "exampleBangla": "একসাথে মুভি দেখবে নাকি?"
+      },
+      {
+        "pattern": "V + ましょう",
+        "formula": "",
+        "explanation": "২জনে মিলে কোনো কাজ করার জন্য অফার করা বুঝাতে V+ましょう ব্যবহার হয়।",
+        "exampleJp": "ちょっと やすみましょう。",
+        "exampleRomaji": "Chotto yasumimashou.",
+        "exampleBangla": "চলুন বিশ্রাম করা যাক।"
+      },
+      {
+        "pattern": "～か",
+        "formula": "",
+        "explanation": "বাক্যের শেষে か অনেক সময় そうですか এর মত আশ্চর্যজনক অর্থ প্রকাশ করে।",
+        "exampleJp": "あした にほんへ いきます。\n…にほんですか。",
+        "exampleRomaji": "Ashita Nihon e ikimasu.\n...Nihon desu ka.",
+        "exampleBangla": "আগামীকাল জাপান যাবো।\n...জাপান!"
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "title": "Lesson 07 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "N (tool/means) + で + V",
+        "formula": "",
+        "explanation": "কোনো মাধ্যম / যন্ত্রপাতি দিয়ে কোনো কাজ করা হলে, সেই মাধ্যম / যন্ত্রপাতির পরে で Particle ব্যবহার হয়।",
+        "exampleJp": "わたしは はしで ごはんを たべます。",
+        "exampleRomaji": "Watashi wa hashi de gohan o tabemasu.",
+        "exampleBangla": "আমি চপস্টিক দিয়ে ভাত খাই।"
+      },
+      {
+        "pattern": "\"Word / sentence\" は ～ごで なん ですか。",
+        "formula": "",
+        "explanation": "কোনো শব্দ / বাক্যকে অন্য ভাষায় কি বলা হয়, এমন প্রশ্নে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "「Goodbye」は にほんごで なん ですか。",
+        "exampleRomaji": "\"Goodbye\" wa nihongo de nan desu ka?",
+        "exampleBangla": "「Goodbye」 জাপানিজ ভাষায় কি?"
+      },
+      {
+        "pattern": "Noun1 (person) に Noun2 を あげます。",
+        "formula": "",
+        "explanation": "বিভিন্ন দেওয়া Verb এর ক্ষেত্রে, যে পায় তার সাথে に Particle ব্যবহার হবে। আর যে দেয় তার সাথে は Particle ব্যবহার হয়। এখানে に Particle অর্থ=\"কে\"।",
+        "exampleJp": "わたしは さとうさんに はなを あげました。",
+        "exampleRomaji": "Watashi wa Satou-san ni hana o agemashita.",
+        "exampleBangla": "আমি ছাতোকে ফুল দিয়েছি।"
+      },
+      {
+        "pattern": "Noun1 (Person) に Noun2 を もらいます。",
+        "formula": "",
+        "explanation": "বিভিন্ন নেওয়া Verb এর ক্ষেত্রে, যে দেয় তার সাথে に Particle ব্যবহার হবে। আর যে পায় তার সাথে は Particle ব্যবহার হয়। এখানে に Particle অর্থ=\"থেকে\"।",
+        "exampleJp": "さとうさんは わたしに はなを もらいました。",
+        "exampleRomaji": "Satou-san wa watashi ni hana o moraimashita.",
+        "exampleBangla": "ছাতো আমার থেকে ফুল পেয়েছে।"
+      },
+      {
+        "pattern": "もう + V (Past Form)",
+        "formula": "",
+        "explanation": "কোনো কাজ ইতিমধ্যে হয়ে গেছে বুঝাতে もう ব্যবহার হয়।",
+        "exampleJp": "もう にもつを おくりましたか。",
+        "exampleRomaji": "Mou nimotsu o okurimashita ka?",
+        "exampleBangla": "ইতিমধ্যে পার্সেল পাঠিয়েছেন কি।"
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "title": "Lesson 08 (Grammar)",
+    "subtitle": "9 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Adjective কাকে বলে? (けいようし)",
+        "formula": "",
+        "explanation": "Adjective ২ ধরনের। ⓐ い-adj, ⓑ な-adj",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "Noun + は + Adj + です。",
+        "formula": "",
+        "explanation": "Adjective দিয়ে বাক্য গঠনের সূত্র হচ্ছে এই গঠনটি।",
+        "exampleJp": "きょうは あついです。 ／ あつくないです。\nたなかさんは しんせつです。 ／ しんせつ じゃありません。",
+        "exampleRomaji": "Kyou wa atsui desu. / atsukunai desu.\nTanaka-san wa shinsetsu desu. / shinsetsu ja arimasen.",
+        "exampleBangla": "আজ গরম। / গরম না।\nতানাকা দয়ালু। / দয়ালু না।"
+      },
+      {
+        "pattern": "Adj + Noun",
+        "formula": "",
+        "explanation": "な-adj এর পর Noun থাকলে অতিরিক্ত [な] যুক্ত করতে হবে।",
+        "exampleJp": "たかい やまです。 ／ しんせつな ひとです。",
+        "exampleRomaji": "Takai yama desu. / Shinsetsu na hito desu.",
+        "exampleBangla": "উঁচু পাহাড়। / দয়ালু মানুষ।"
+      },
+      {
+        "pattern": "Sentence1 が、Sentence2",
+        "formula": "",
+        "explanation": "২টি পরস্পর বিরোধী বাক্যের মাঝে \"が\" Particle ব্যবহার হয়। এখানে \"が\" = \"কিন্তু\"।",
+        "exampleJp": "このへやは きれいですが、ちいさいです。",
+        "exampleRomaji": "Kono heya wa kirei desu ga, chiisai desu.",
+        "exampleBangla": "এই রুমটি সুন্দর, কিন্তু ছোট।"
+      },
+      {
+        "pattern": "とても／あまり",
+        "formula": "",
+        "explanation": "とても যুক্ত বাক্য Affirmative এবং あまり যুক্ত বাক্য Negative হয়।",
+        "exampleJp": "とても さむいです。 ／ あまり さむくないです。",
+        "exampleRomaji": "Totemo samui desu. / Amari samukunai desu.",
+        "exampleBangla": "অনেক ঠাণ্ডা। / তেমন ঠাণ্ডা না।"
+      },
+      {
+        "pattern": "N は どう ですか。",
+        "formula": "",
+        "explanation": "কোনো বিষয়ে ২য় পক্ষের মতামত জানতে চাওয়ার ক্ষেত্রে どう দিয়ে প্রশ্ন করা হয়।",
+        "exampleJp": "にほんの せいかつは どうですか。",
+        "exampleRomaji": "Nihon no seikatsu wa dou desu ka?",
+        "exampleBangla": "জাপানের জীবনযাপন কেমন?"
+      },
+      {
+        "pattern": "N1 は どんな N2 ですか。",
+        "formula": "",
+        "explanation": "কোনো ব্যক্তি / স্থান / বস্তুর অবস্থা সম্পর্কে প্রশ্ন করতে どんな ব্যবহার হয়।",
+        "exampleJp": "ならは どんな まち ですか。",
+        "exampleRomaji": "Nara wa donna machi desu ka?",
+        "exampleBangla": "নারা কি ধরণের শহর?"
+      },
+      {
+        "pattern": "そうですね。",
+        "formula": "",
+        "explanation": "উত্তরদাতা নিজের চিন্তাধারা প্রকাশ করতে そうですね ব্যবহার করতে পারেন।",
+        "exampleJp": "おしごとは どうですか。\n… そうですね。いそがしい ですが、たのしい です。",
+        "exampleRomaji": "Oshigoto wa dou desu ka?\n...Sou desu ne. Isogashii desu ga, tanoshii desu.",
+        "exampleBangla": "কাজ কেমন?\n...সত্যি বলতে, ব্যস্ত কিন্তু আনন্দের।"
+      },
+      {
+        "pattern": "どれ",
+        "formula": "",
+        "explanation": "অনেকগুলোর মধ্যে \"কোনটি\", এমন প্রশ্ন করতে \"どれ\" ব্যবহার হয়।",
+        "exampleJp": "せんせいの かさは どれですか。",
+        "exampleRomaji": "Sensei no kasa wa dore desu ka?",
+        "exampleBangla": "শিক্ষকের ছাতা কোনটি?"
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "title": "Lesson 09 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "N が あります／わかります／おわります\nN が すき／きらい／じょうず／へた",
+        "formula": "",
+        "explanation": "এই Verb এবং Adjective গুলোর পূর্বে Target Noun থাকলে, সেই Target Noun এর সাথে が-Particle ব্যবহার হবে।",
+        "exampleJp": "わたしは にほんごが わかります。\nわたしは にほんりょうりが すきです。",
+        "exampleRomaji": "Watashi wa nihongo ga wakarimasu.\nWatashi wa nihonryouri ga suki desu.",
+        "exampleBangla": "আমি জাপানিজ ভাষা বুঝি।\nআমি জাপানিজ খাবার পছন্দ করি।"
+      },
+      {
+        "pattern": "どんな + Noun",
+        "formula": "",
+        "explanation": "কোনো Common Noun এর মধ্যে থেকে ১টি Single Noun নির্বাচন করতে প্রশ্ন করার জন্য どんな দিয়ে প্রশ্ন করতে হয়।",
+        "exampleJp": "どんな スポーツが すきですか。",
+        "exampleRomaji": "Donna supootsu ga suki desu ka?",
+        "exampleBangla": "কি ধরণের খেলাধুলা পছন্দ?"
+      },
+      {
+        "pattern": "よく、だいたい、たくさん、すこし\nあまり、ぜんぜん",
+        "formula": "",
+        "explanation": "Adverb-গুলো Verb এর পূর্বে বসে, সেই Verb এর পরিমান ও তুলনা নির্ণয় করে।",
+        "exampleJp": "わたしは にほんごが よく／だいたい／すこし わかります。\nわたしは にほんごが あまり／ぜんぜん わかりません。\nわたしは おかねが たくさん／すこし あります。\nわたしは おかねが あまり／ぜんぜん ありません。",
+        "exampleRomaji": "Watashi wa nihongo ga yoku / daitai / sukoshi wakarimasu.\nWatashi wa nihongo ga amari / zenzen wakarimasen.\nWatashi wa okane ga takusan / sukoshi arimasu.\nWatashi wa okane ga amari / zenzen arimasen.",
+        "exampleBangla": "আমি জাপানিজ ভাষা ভাল / মুটামুটি / অল্প বুঝি।\nআমি জাপানিজ ভাষা তেমন / একেবারে বুঝিনা।\nআমার টাকা অনেক / অল্প আছে।\nআমার টাকা তেমন / একেবারে নেই।"
+      },
+      {
+        "pattern": "Sentence1 から、Sentence2",
+        "formula": "",
+        "explanation": "১ম বাক্যকে ২য় বাক্যের কারন হিসেবে বুঝাতে, দুইটি বাক্যের মাঝে \"から\" ব্যবহার হয়। এখানে から = একারনে / এজন্যে / তাই।",
+        "exampleJp": "じかんが ありませんから、しんぶんを よみません。",
+        "exampleRomaji": "Jikan ga arimasen kara, shinbun o yomimasen.",
+        "exampleBangla": "সময় নেই এজন্য পত্রিকা পড়িনা।"
+      },
+      {
+        "pattern": "どうして",
+        "formula": "",
+        "explanation": "কোনো কিছুর \"কারন\" জানার জন্য どうして দিয়ে প্রশ্ন করা হয়।",
+        "exampleJp": "どうして しんぶんを よみませんか。",
+        "exampleRomaji": "Doushite shinbun o yomimasen ka?",
+        "exampleBangla": "কেন পত্রিকা পড়েন না।"
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "title": "Lesson 10 (Grammar)",
+    "subtitle": "6 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Noun が あります／います",
+        "formula": "",
+        "explanation": "います／あります এর পূর্বে ব্যক্তি / বস্তু / প্রাণী থাকলে মাঝে が Particle হবে।",
+        "exampleJp": "せんせいが います。 ／ こうえんが あります。",
+        "exampleRomaji": "Sensei ga imasu. / Kouen ga arimasu.",
+        "exampleBangla": "শিক্ষক আছেন। / পার্ক আছে।"
+      },
+      {
+        "pattern": "Place に Noun が あります／います",
+        "formula": "",
+        "explanation": "কোনো নির্দিষ্ট স্থানে ব্যক্তি / বস্তু / প্রাণী আছে বুঝাতে, স্থানের পর に Particle হবে।",
+        "exampleJp": "きょうしつに せんせいが います。\nじむしょに コンピューターが あります。",
+        "exampleRomaji": "Kyoushitsu ni sensei ga imasu.\nJimusho ni konpyuutaa ga arimasu.",
+        "exampleBangla": "ক্লাসে শিক্ষক আছেন।\nঅফিসে কম্পিউটার আছে।"
+      },
+      {
+        "pattern": "Noun は Place に あります／います",
+        "formula": "",
+        "explanation": "が Particle যুক্ত Object-কে Subject করলে, が → は Particle-এ পরিবর্তন হবে।",
+        "exampleJp": "せんせいは きょうしつに います。\nコンピューターは じむしょに あります。",
+        "exampleRomaji": "Sensei wa kyoushitsu ni imasu.\nKonpyuutaa wa jimusho ni arimasu.",
+        "exampleBangla": "শিক্ষক ক্লাসে আছেন।\nকম্পিউটার অফিসে আছে।"
+      },
+      {
+        "pattern": "N1 の N2",
+        "formula": "",
+        "explanation": "এখানে, N1 (ব্যক্তি / বস্তু / স্থান / প্রাণী) の N2 (দিক নির্দেশক Noun), পুরোটা স্থান।",
+        "exampleJp": "いすの したに ねこが います。\nえきの まえに ぎんこうが あります。",
+        "exampleRomaji": "Isu no shita ni neko ga imasu.\nEki no mae ni ginkou ga arimasu.",
+        "exampleBangla": "চেয়ারের নিচে বিড়াল আছে।\nস্টেশনের সামনে ব্যাংক আছে।"
+      },
+      {
+        "pattern": "N1 や N2",
+        "formula": "",
+        "explanation": "や Particle \"এবং\" অর্থ প্রকাশ করে। পাশাপাশি \"ইত্যাদি\" অর্থও বুঝায়।",
+        "exampleJp": "はこの なかに てがみや しゃしんや ほん [など] が あります。",
+        "exampleRomaji": "Hako no naka ni tegami ya shashin ya hon [nado] ga arimasu.",
+        "exampleBangla": "বক্সের ভেতর চিঠি, ছবি, বই ইত্যাদি আছে।"
+      },
+      {
+        "pattern": "～ですか。",
+        "formula": "",
+        "explanation": "উত্তরে কোনো তথ্য দেয়ার ক্ষেত্রে, \"ですか\" Reconfirmation হিসেবে কাজ করে।",
+        "exampleJp": "とうきょうえきは どこですか。\n… とうきょうえきですか。あそこです。",
+        "exampleRomaji": "Toukyou eki wa doko desu ka?\n...Toukyou eki desu ka. Asoko desu.",
+        "exampleBangla": "টোকিও স্টেশন কোথায়?\n...টোকিও স্টেশন? ঐদিকে।"
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "title": "Lesson 11 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "বিভিন্ন জিনিসকে কিভাবে গণনা করতে হয়:",
+        "formula": "",
+        "explanation": "বিভিন্ন জিনিসে গণনায় ভিন্নতা আছে। গণনা বই থেকে সবগুলো গণনা শিখে নিবেন।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "বাক্যের গণনা কোথায় কিভাবে ব্যবহার হয়:",
+        "formula": "",
+        "explanation": "• গণনামূলক সংখ্যা সাধারণত বাক্যের শেষে Noun + Particle এর পরে বসে।\n• সময়ের দৈর্ঘের ক্ষেত্রে এই নিয়ম নয়:\n• এই নিয়মের অনেকগুলো ঘটনাকে একত্রে বলার ক্ষেত্রে と Particle এর ব্যবহার হবে:\n• গণনামূলক প্রশ্নবোধক শব্দে, একই স্থানে なん+ counter suffixes ব্যবহার হবে:\n• সময়ের দৈর্ঘ সম্পর্কে প্রশ্ন করতে どのくらい ব্যবহার হবে। অর্থঃ \"কতসময়?\":\n• সময়ের দৈর্ঘের পরে প্রয়োজনে ぐらい ব্যবহার করা যায়। এর অর্থ \"প্রায়\":\n• নির্দিষ্ট চলমান সময় বুঝানোর ক্ষেত্রে সময়ের পরে \"ごろ\" ব্যবহার হয়:",
+        "exampleJp": "がっこうに にほんごの せんせいが ごにん います。\nくにで ろっかげつ にほんごを ならいました。\nりんごを みっつと みかんを よっつと ほんを にさつ かいました。\nがっこうに にほんごの せんせいが なんにん いますか。\nくにで どのくらい にほんごを ならいましたか。\nくにで ろっかげつぐらい にほんごを ならいました。\nかいぎは さんじごろに はじまります。",
+        "exampleRomaji": "Gakkou ni nihongo no sensei ga gonin imasu.\nKuni de rokkagetsu nihongo o naraimashita.\nRingo o mittsu to mikan o yottsu to hon o nisatsu kaimashita.\nGakkou ni nihongo no sensei ga nannin imasu ka?\nKuni de dono kurai nihongo o naraimashita ka?\nKuni de rokkagetsu gurai nihongo o naraimashita.\nKaigi wa sanjigoro ni hajimarimasu.",
+        "exampleBangla": "স্কুলে ৫জন জাপানিজ ভাষার শিক্ষক আছেন। / দেশে ৬মাস জাপানিজ ভাষা শিখেছি। / আমি ৩টি আপেল, ৪টি কমলা ও ২টি বই কিনেছি। / স্কুলে জাপানিজ ভাষার শিক্ষক কতজন আছেন? / দেশে কতসময় জাপানিজ ভাষা শিখেছি। / দেশে প্রায় ৬মাস জাপানিজ ভাষা শিখেছি। / মিটিং প্রায় ৩টায় শুরু হবে।"
+      },
+      {
+        "pattern": "Time period + に + ～かい + Verb",
+        "formula": "",
+        "explanation": "কোনো নির্দিষ্ট সময়ে কতবার কোনো কাজ করা হয়, এমন বাক্যে এই গঠনটি হয়।",
+        "exampleJp": "いっしゅうかんに 2かい サッカーを します。",
+        "exampleRomaji": "Isshuukan ni nikai sakkaa o shimasu.",
+        "exampleBangla": "সপ্তাহে ২বার ফুটবল খেলি।"
+      },
+      {
+        "pattern": "だけ",
+        "formula": "",
+        "explanation": "অর্থঃ শুধুমাত্র। এটি Affirmative বাক্য তৈরি করে।",
+        "exampleJp": "けさ パンだけ たべました。",
+        "exampleRomaji": "Kesa pan dake tabemashita.",
+        "exampleBangla": "আজ সকালে শুধুমাত্র রুটি খেয়েছি।"
+      },
+      {
+        "pattern": "しか",
+        "formula": "",
+        "explanation": "অর্থঃ ছাড়া। এটি Negative বাক্য তৈরি করে।",
+        "exampleJp": "がっこうに がくせいが ひとりしか いません。",
+        "exampleRomaji": "Gakkou ni gakusei ga hitori shika imasen.",
+        "exampleBangla": "স্কুলে ১জন ছাড়া ছাত্র নেই।"
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "title": "Lesson 12 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "な-Adjective (affirmative and negative)",
+        "formula": "",
+        "explanation": "な-adj + でした = Past Affirmative\nな-adj + じゃありませんでした = Past Negative",
+        "exampleJp": "ABCがっこうは ゆうめい でした。\nABCがっこうは ゆうめい じゃありませんでした。",
+        "exampleRomaji": "ABC gakkou wa yuumei deshita.\nABC gakkou wa yuumei ja arimasen deshita.",
+        "exampleBangla": "ABC স্কুল বিখ্যাত ছিলো।\nABC স্কুল বিখ্যাত ছিলো না।"
+      },
+      {
+        "pattern": "い-Adjective (affirmative and negative)",
+        "formula": "",
+        "explanation": "い-adj (い বাদ) + かった です = Past Affirmative\nい-adj (い বাদ) + くなかった です = Past Negative",
+        "exampleJp": "きのうは あつかった です。\nきのうは あつくなかった です。",
+        "exampleRomaji": "Kinou wa atsukatta desu.\nKinou wa atsukunakatta desu.",
+        "exampleBangla": "গতকাল গরম ছিলো।\nগতকাল গরম ছিলো না।"
+      },
+      {
+        "pattern": "N1 は N2 より Adj です。",
+        "formula": "",
+        "explanation": "এই নিয়মে ১ম Noun-কে সাথে ২য় Noun-এর সাথে তুলনা করা হয়।",
+        "exampleJp": "このへやは あのへやより きれいです。",
+        "exampleRomaji": "Kono heya wa ano heya yori kirei desu.",
+        "exampleBangla": "এই রুম ঐ রুমের চেয়ে সুন্দর।"
+      },
+      {
+        "pattern": "N1 と N2 と どちらが adj ですか。\nN1/N2 の ほうが adj です。",
+        "formula": "",
+        "explanation": "২টি Noun এর মধ্যে তুলনামূলক প্রশ্ন করার ক্ষেত্রে এই প্রশ্নের গঠনটি ব্যবহার হয়।",
+        "exampleJp": "はると なつと どちらが すきですか。\n… はるの ほうが すきです。",
+        "exampleRomaji": "Haru to natsu to dochira ga suki desu ka?\n...Haru no hou ga suki desu.",
+        "exampleBangla": "বসন্ত এবং গ্রীষ্ম (এর মধ্যে) কোনটি পছন্দ?\n… বসন্ত পছন্দ।"
+      },
+      {
+        "pattern": "N1 (のなか) で なに、どこ、だれ、いつ が いちばん Adj ですか。\nN2 が いちばん Adj です。",
+        "formula": "",
+        "explanation": "কোনো Common Noun এর মধ্যে থেকে, একটি Single Noun নির্বাচন করার জন্য বলার ক্ষেত্রে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "にほんりょうりで なにが いちばん すきですか。\nてんぷらが いちばん すきです。",
+        "exampleRomaji": "Nihonryouri de nani ga ichiban suki desu ka?\nTenpura ga ichiban suki desu.",
+        "exampleBangla": "জাপানিজ খাবারের মধ্যে কি সবচেয়ে বেশি পছন্দ?\nতেনপুরা সবচেয়ে বেশি পছন্দ।"
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "title": "Lesson 13 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Sub は + Noun が + ほしい + です。",
+        "formula": "",
+        "explanation": "কোনো কিছুর প্রয়োজন বুঝাতে এই গঠনটির ব্যবহার হয়।",
+        "exampleJp": "わたしは コンピューターが ほしいです。",
+        "exampleRomaji": "Watashi wa konpyuutaa ga hoshii desu.",
+        "exampleBangla": "আমার কম্পিউটার প্রয়োজন।"
+      },
+      {
+        "pattern": "Main Verb + たいです。(ます বাদ)",
+        "formula": "",
+        "explanation": "Verb+たいです যুক্ত করলে, \"কাজটি + করতে চাই\" অর্থ প্রকাশ করে।",
+        "exampleJp": "わたしは にほんへ いきたいです。",
+        "exampleRomaji": "Watashi wa Nihon e ikitai desu.",
+        "exampleBangla": "আমি জাপান যেতে চাই।"
+      },
+      {
+        "pattern": "N1 (Place) へ + V ます / N2 + に + Movement Verb",
+        "formula": "",
+        "explanation": "কোনো উদ্দেশ্যে কোথাও যাওয়া-আসা বুঝাতে এই গঠনটি ব্যবহার হয়। (উদ্দেশ্য + に)",
+        "exampleJp": "にほんへ べんきょうに きました。",
+        "exampleRomaji": "Nihon e benkyou ni kimashita.",
+        "exampleBangla": "জাপানে পড়াশুনা করতে এসেছি।"
+      },
+      {
+        "pattern": "どこか ／ なにか",
+        "formula": "",
+        "explanation": "どこか = কোথাও, なにか = কোনো কিছু / কিছু। প্রশ্ন এবং প্রশ্ন ছাড়াও ব্যবহার হয়।",
+        "exampleJp": "あした なにか[を] しますか。\nのどが かわきましたから、なにか のみたいです。",
+        "exampleRomaji": "Ashita nani ka [o] shimasu ka?\nNodo ga kawakimashita kara, nani ka nomitai desu.",
+        "exampleBangla": "আগামীকাল কিছু করবে?\nতৃষ্ণার্ত তাই কোনো কিছু পান করতে চাই।"
+      },
+      {
+        "pattern": "ご～",
+        "formula": "",
+        "explanation": "\"ご\" ব্যবহার করে ২য় ব্যক্তিকে সম্মান দিয়ে কথা বলা বুঝায়।",
+        "exampleJp": "ごかぞくは？ ／ ごちゅうもんは？",
+        "exampleRomaji": "Gokazoku wa? / Gochuumon wa?",
+        "exampleBangla": "পরিবারে কে কে? / অর্ডার বলুন প্লিজ?"
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "title": "Lesson 14 (Grammar)",
+    "subtitle": "7 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Verb এর গ্রুপ নির্ণয়:",
+        "formula": "",
+        "explanation": "গ্রুপ০১: ます-এর পূর্বে কমপক্ষে ২টি বর্ণমালা এবং ます-এর পূর্বের বর্ণ い কলামের হবে।\nগ্রুপ০২: ます-এর পূর্বে ১টি বর্ণ, ます-এর পূর্বের বর্ণ え কলামের, ৬টি স্পেশাল ক্রিয়া।\nগ্রুপ০৩: きます (আসা), します (করা)।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "Verb এর て Form গঠন",
+        "formula": "",
+        "explanation": "গ্রুপ০১: ます-এর পূর্বের বর্ণটি গানের মত করে পরিবর্তন করতে হবে। ます উঠে যাবে।\nগ্রুপ০২: ます উঠে て যুক্ত হবে।\nগ্রুপ০৩: ます উঠে て যুক্ত হবে।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "て Form + ください",
+        "formula": "",
+        "explanation": "কাউকে কোনো কাজ করার জন্য বিনীত ভাবে অনুরোধ করা বুঝায়।",
+        "exampleJp": "ボールペンで かいて ください。",
+        "exampleRomaji": "Boorupen de kaite kudasai.",
+        "exampleBangla": "বলপেন দিয়ে লিখুন প্লিজ।"
+      },
+      {
+        "pattern": "て Form + います",
+        "formula": "",
+        "explanation": "Present Continuous Tense বুঝায়, যা বর্তমানে চলমান ঘটনাকে ইঙ্গিত করে।",
+        "exampleJp": "いま あさごはんを たべています。",
+        "exampleRomaji": "Ima asagohan o tabete imasu.",
+        "exampleBangla": "এখন সকালের নাস্তা খাচ্ছি।"
+      },
+      {
+        "pattern": "Verb + ましょうか。(ます বাদ)",
+        "formula": "",
+        "explanation": "নিজে থেকে কাউকে সহযোগীতার হাত বাড়ানোর ক্ষেত্রে ব্যবহার হয়।",
+        "exampleJp": "にもつを もちましょうか。",
+        "exampleRomaji": "Nimotsu o mochimashou ka?",
+        "exampleBangla": "লাগেজ ধরবো কি?"
+      },
+      {
+        "pattern": "Noun + が + Verb",
+        "formula": "",
+        "explanation": "প্রাকৃতিক ঘটনায় が Particle হবে। বাক্যের শেষে ね যুক্ত করে সম্মতিমূলক প্রশ্ন করা যায়। এক্ষেত্রে ね = \"তাইনা?\" অর্থ প্রকাশ করে।",
+        "exampleJp": "あめが ふっていますね。",
+        "exampleRomaji": "Ame ga futte imasu ne.",
+        "exampleBangla": "বৃষ্টি পরছে তাইনা?"
+      },
+      {
+        "pattern": "すみませんが ／ しつれいですが",
+        "formula": "",
+        "explanation": "প্রশ্ন করার ক্ষেত্রে, কোনো কাজে অনুরোধ করার ক্ষেত্রে এগুলোর ব্যবহার করা হয়।",
+        "exampleJp": "しつれいですが、おなまえは？\nすみませんが、しおを とってください。",
+        "exampleRomaji": "Shitsurei desu ga, onamae wa?\nSumimasen ga, shio o totte kudasai.",
+        "exampleBangla": "দুঃখিত, আপনার নাম?\nদুঃখিত, লবণটি দিন প্লিজ।"
+      }
+    ]
+  },
+  {
+    "lesson": 15,
+    "title": "Lesson 15 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Verb এর て Form + もいいですか。",
+        "formula": "",
+        "explanation": "কোনো কাজের অনুমতি চাইতে \"て Form + もいいですか\" ব্যবহার হয়।",
+        "exampleJp": "せんせい、はいっても いいですか。",
+        "exampleRomaji": "Sensei, haitte mo ii desu ka?",
+        "exampleBangla": "প্রবেশ করতে পারি কি?"
+      },
+      {
+        "pattern": "Verb এর て Form + は いけません。",
+        "formula": "",
+        "explanation": "কাউকে কোনো কাজে নিষেধ করতে \"て Form + は いけません\" ব্যবহার হয়।",
+        "exampleJp": "きょうしつに はいっては いけません。",
+        "exampleRomaji": "Kyoushitsu ni haitte wa ikemasen.",
+        "exampleBangla": "ক্লাসে প্রবেশ করা নিষেধ।"
+      },
+      {
+        "pattern": "Verb এর て Form + います。",
+        "formula": "",
+        "explanation": "অতীতের কোনো কাজের ফলাফল এখনো চলমান রয়েছে, ভবিষ্যতেও চলমান থাকতে পারে। এমন ঘটনায় \"て Form + います\" ব্যবহার হয়।",
+        "exampleJp": "ミラーさんは けっこんしています。",
+        "exampleRomaji": "Miraa-san wa kekkon shite imasu.",
+        "exampleBangla": "জনাব মিরা বিবাহিত।"
+      },
+      {
+        "pattern": "Noun + に + Verb",
+        "formula": "",
+        "explanation": "বিভিন্ন \"in Verb\" এর পূর্বে Target Noun থাকলে, সেই Target Noun এর সাথে \"に\" Particle ব্যবহার হবে।",
+        "exampleJp": "やまださんは でんしゃに のります。",
+        "exampleRomaji": "Yamada-san wa densha ni norimasu.",
+        "exampleBangla": "জনাব ইয়ামাদা ট্রেনে চড়বে।"
+      },
+      {
+        "pattern": "N1 に N2 を Verb (Transitive)",
+        "formula": "",
+        "explanation": "একটি নির্দিষ্ট স্থানে কোনো কাজ শুরু হয়ে, ঐ নির্দিষ্ট স্থানে সাথে সাথে কাজটি শেষ হলে, সেই স্থানের পরে \"に\" Particle হয়।",
+        "exampleJp": "ここに くるまを とめてください。",
+        "exampleRomaji": "Koko ni kuruma o tomete kudasai.",
+        "exampleBangla": "অনুগ্রহ করে এখানে গাড়ি থামান।"
+      }
+    ]
+  },
+  {
+    "lesson": 16,
+    "title": "Lesson 16 (Grammar)",
+    "subtitle": "6 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "How to join 2 or more sentence together:",
+        "formula": "",
+        "explanation": "অনেকগুলো বাক্য মিলিয়ে ১টি বাক্য তৈরি করতে, শেষের বাক্যটি অপরিবর্তীত রেখে, আগের সকল বাক্যগুলোর Verb=て Form, い-adj=くて, な-adj & Noun=で যুক্ত করে পরিবর্তন করতে হবে। শেষের বাক্যটি Tense নির্ণয় করবে।",
+        "exampleJp": "リーさんは しんせつで、あたまが よくて、いい がくせいで、まいにち がっこうへ いきます。",
+        "exampleRomaji": "Rii-san wa shinsetsu de, atama ga yokute, ii gakusei de, mainichi gakkou e ikimasu.",
+        "exampleBangla": "জনাব লি দয়ালু, বুদ্ধিমান, ভাল ছাত্র, এবং প্রতিদিন স্কুলে যায়।"
+      },
+      {
+        "pattern": "V1 て form + から + V2",
+        "formula": "",
+        "explanation": "একটি কাজ শেষ করে আরেকটি কাজ করা হবে বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "うちへ かえってから シャワーを あびます。",
+        "exampleRomaji": "Uchi e kaette kara shawaa o abimasu.",
+        "exampleBangla": "বাসায় ফেরার পরে গোসল করবো।"
+      },
+      {
+        "pattern": "N1 は N2 が adj",
+        "formula": "",
+        "explanation": "কোনো দেশ / শহর / মানুষের দোষ-গুন বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "ミラーさんは かみが ながいです。",
+        "exampleRomaji": "Miraa-san wa kami ga nagai desu.",
+        "exampleBangla": "জনাব মিলারের চুল লম্বা।"
+      },
+      {
+        "pattern": "Noun を Verb",
+        "formula": "",
+        "explanation": "বিভিন্ন \"Out Verb\" এর পূর্বে Target Noun থাকলে, সেই Target Noun এর সাথে \"を\" Particle ব্যবহার হবে।",
+        "exampleJp": "うえのえきで でんしゃを おります。",
+        "exampleRomaji": "Ueno eki de densha o orimasu.",
+        "exampleBangla": "উয়েনো স্টেশনে ট্রেন থেকে নামবো।"
+      },
+      {
+        "pattern": "どうやって",
+        "formula": "",
+        "explanation": "কোনো কাজ \"কিভাবে?\" করা হবে, জানার জন্য \"どうやって\" দিয়ে প্রশ্ন করতে হয়।",
+        "exampleJp": "ABだいがくまで どうやって いきますか。",
+        "exampleRomaji": "AB daigaku made douyatte ikimasu ka?",
+        "exampleBangla": "AB বিশ্ববিদ্যালয় পর্যন্ত কিভাবে যাবো?"
+      },
+      {
+        "pattern": "どの + Noun",
+        "formula": "",
+        "explanation": "\"どの\" এর পরে অবশ্যই Noun ব্যবহার করতে হবে। অর্থ দাঁড়াবে \"কোন Noun টি\"।",
+        "exampleJp": "サントスさんは どのひと ですか。",
+        "exampleRomaji": "Santosu-san wa dono hito desu ka?",
+        "exampleBangla": "জনাব ছানতোছু কোন লোকটি?"
+      }
+    ]
+  },
+  {
+    "lesson": 17,
+    "title": "Lesson 17 (Grammar)",
+    "subtitle": "6 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Verb ない Form",
+        "formula": "",
+        "explanation": "গ্রুপ ০১: ます এর পূর্বের বর্ণ い → あ হবে, ます উঠে ない যুক্ত হবে। তবে い → わ হবে।\nগ্রুপ ০২: \"ます\" উঠে \"ない\" যুক্ত হবে।\nগ্রুপ ০৩: きます = こない এবং します = しない হবে।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "ない Form + で ください",
+        "formula": "",
+        "explanation": "কাউকে বিনয়ের সাথে কোনো কাজে নিষেধ করতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "ここで しゃしんを とらないで ください。",
+        "exampleRomaji": "Koko de shashin o toranaide kudasai.",
+        "exampleBangla": "এখানে ছবি তুলবেন না প্লিজ।"
+      },
+      {
+        "pattern": "Verb - ない Form + なければ なりません (ない বাদ)",
+        "formula": "",
+        "explanation": "কোনো কাজ করতেই হবে, এমন বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "あした テストが ありますから、こんばん べんきょうしなければ なりません。",
+        "exampleRomaji": "Ashita tesuto ga arimasu kara, konban benkyou shinakereba narimasen.",
+        "exampleBangla": "আগামীকাল পরীক্ষা আছে এজন্য, আজরাতে পড়াশুনা না করলেই নয়।"
+      },
+      {
+        "pattern": "Verb - ない Form + なくても いい です (ない বাদ)",
+        "formula": "",
+        "explanation": "কোনো কাজ না করলেও হবে, এমন বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "しけんが おわりましたから、きょうは べんきょうしなくても いいです。",
+        "exampleRomaji": "Shiken ga owarimashita kara, kyou wa benkyou shinakute mo ii desu.",
+        "exampleBangla": "পরীক্ষা শেষ হয়েছে তাই, আজ পড়াশুনা না করলেও চলবে।"
+      },
+      {
+        "pattern": "\"を\" Particle যখন Object থেকে Subject হয়",
+        "formula": "",
+        "explanation": "Object+ \"を\" Particle-টি, Subject+ \"は\" Particle-এ পরিবর্তন করা যায়।",
+        "exampleJp": "がっこうの しょくどうで ひるごはんを たべます。\nひるごはんは がっこうの しょくどうで たべます。",
+        "exampleRomaji": "Gakkou no shokudou de hirugohan o tabemasu.\nHirugohan wa gakkou no shokudou de tabemasu.",
+        "exampleBangla": "স্কুলের ক্যান্টিনে দুপুরের খাবার খাবো।\nদুপুরের খাবার স্কুলের ক্যান্টিনে খাবো।"
+      },
+      {
+        "pattern": "Noun (time) までに Verb",
+        "formula": "",
+        "explanation": "কোনো কাজের সময়সীমা নির্ধারন করতে \"までに\" ব্যবহার হয়। までに = (মধ্যে)।",
+        "exampleJp": "10じまでに クラスに はいらなければ なりません。",
+        "exampleRomaji": "Juuji made ni kurasu ni hairanakereba narimasen.",
+        "exampleBangla": "১০টার মধ্যে ক্লাসে প্রবেশ না করলেই নয়।"
+      }
+    ]
+  },
+  {
+    "lesson": 18,
+    "title": "Lesson 18 (Grammar)",
+    "subtitle": "6 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Verb Dictionary Form",
+        "formula": "",
+        "explanation": "গ্রুপ০১: ます-এর পূর্বের বর্ণটি い → う সারিতে পরিবর্তন হবে। এবং ます উঠে যাবে।\nগ্রুপ০২: ます উঠে る যুক্ত হবে।\nগ্রুপ০৩: きます = くる, এবং します = する",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "Noun / Noun+Verb(dic)こと が できます。",
+        "formula": "",
+        "explanation": "কোনো কাজ করতে পারার সামর্থ বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "にほんごが できます。 ／ にほんごで はなすことが できます。",
+        "exampleRomaji": "Nihongo ga dekimasu. / Nihongo de hanasu koto ga dekimasu.",
+        "exampleBangla": "জাপানিজ ভাষা পারি। / জাপানিজ ভাষায় কথা বলতে পারি।"
+      },
+      {
+        "pattern": "わたしの しゅみは Noun / Noun+Verb(dic)こと です。",
+        "formula": "",
+        "explanation": "শখ বলার ক্ষেত্রে এই গঠনটি ব্যবহার হয়ে থাকে।",
+        "exampleJp": "わたしの しゅみは りょこうです。 ／ わたしの しゅみは りょこうをする ことです。",
+        "exampleRomaji": "Watashi no shuumi wa ryokou desu. / Watashi no shuumi wa ryokou o suru koto desu.",
+        "exampleBangla": "আমার শখ ভ্রমণ। / আমার শখ ভ্রমণ করা।"
+      },
+      {
+        "pattern": "Verb1 (dic) / Noun + の / Time Period + まえに + Verb2",
+        "formula": "",
+        "explanation": "একটি কাজের আগে আরেকটি কাজ করা বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "ねる まえに ほんを よみます。\nしょくじの まえに てを あらってください。\n3ねん まえに にほんへ きました。",
+        "exampleRomaji": "Neru mae ni hon o yomimasu.\nShokuji no mae ni te o aratte kudasai.\nSannen mae ni Nihon e kimashita.",
+        "exampleBangla": "ঘুমানোর পূর্বে বই পড়ি。\nখাওয়ার পূর্বে হাত ধুয়ে নিন প্লিজ。\n৩ বছর আগে জাপানে এসেছি।"
+      },
+      {
+        "pattern": "なかなか",
+        "formula": "",
+        "explanation": "なかなか যুক্ত বাক্য Negative হয়। অর্থ: তেমন না / খুব একটা না।",
+        "exampleJp": "わたしは なかなか かんじが できません。",
+        "exampleRomaji": "Watashi wa nakanaka kanji ga dekimasen.",
+        "exampleBangla": "আমি খুব চেষ্টা করেও কানজী পারিনা।"
+      },
+      {
+        "pattern": "ぜひ",
+        "formula": "",
+        "explanation": "কোনো কিছু জোড় করে আশা করার ক্ষেত্রে \"ぜひ\" ব্যবহার হয়ে থাকে।",
+        "exampleJp": "やすみのひに ぜひ あそびに きてください。",
+        "exampleRomaji": "Yasumi no hi ni zehi asobi ni kite kudasai.",
+        "exampleBangla": "ছুটির দিনে অবশ্যই বেড়াতে আসবেন প্লিজ।"
+      }
+    ]
+  },
+  {
+    "lesson": 19,
+    "title": "Lesson 19 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Verb এর た form",
+        "formula": "",
+        "explanation": "গ্রুপ০১: ます-এর পূর্বের বর্ণটি গানের মত করে পরিবর্তন করতে হবে। ます উঠে যাবে।\nগ্রুপ০২: ます উঠে た যুক্ত হবে।\nগ্রুপ০৩: ます উঠে た যুক্ত হবে।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "Verb た form + ことが あります。",
+        "formula": "",
+        "explanation": "অতীতে কোনো কাজের অভিজ্ঞতা আছে বুঝাতে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "すしを たべた ことが あります。",
+        "exampleRomaji": "Sushi o tabeta koto ga arimasu.",
+        "exampleBangla": "ছুসি খাওয়ার অভিজ্ঞতা আছে।"
+      },
+      {
+        "pattern": "た form り + た form り + た form り + します ／ しました",
+        "formula": "",
+        "explanation": "অনেকগুলো ঘটনার মধ্যে ২-৩টি মূল ঘটনা দিয়ে বাক্য শেষ করতে এই গঠন ব্যবহার হয়। এর দ্বারা \"ইত্যাদি\" অর্থ বুঝানো হয়।",
+        "exampleJp": "にちようび えいがを みたり、テニスを したり、にほんごを べんきょうしたり しました。",
+        "exampleRomaji": "Nichiyoubi eiga o mitari, tenisu o shitari, nihongo o benkyou shitari shimashita.",
+        "exampleBangla": "রবিবার মুভি দেখেছি, টেনিস খেলেছি, জাপানীজ ভাষা পড়েছি, ইত্যাদি করেছি।"
+      },
+      {
+        "pattern": "い-adj (い বাদ)く / な-adj (な বাদ)に / Noun に + なります／なりました",
+        "formula": "",
+        "explanation": "কোনো ব্যাক্তি / বস্তু / প্রাণীর অবস্থার পরিবর্তন বুঝাতে গঠনটি ব্যবহার হয়।",
+        "exampleJp": "わたしは 12じに ねむく なります。\nやまださんは げんきに なりました。\nきょねん わたしは 22さいに なりました。",
+        "exampleRomaji": "Watashi wa juuniji ni nemuku narimasu.\nYamada-san wa genki ni narimashita.\nKyonen watashi wa nijuunisai ni narimashita.",
+        "exampleBangla": "আমার ১২টায় ঘুম ঘুম ভাব হয়।\nজনাব ইয়ামাদা সুস্থ হয়েছেন।\nগতবছর আমার ২২বছর হয়েছিলো।"
+      },
+      {
+        "pattern": "そうですね。",
+        "formula": "",
+        "explanation": "বক্তার কথার সাথে সহমত প্রকাশের ক্ষেত্রে শ্রোতা \"そうですね\" বলে থাকে।",
+        "exampleJp": "さむく なりましたね。 ／ … そうですね。",
+        "exampleRomaji": "Samuku narimashita ne. / ...Sou desu ne.",
+        "exampleBangla": "ঠাণ্ডা পরেছে তাইনা? / … ঠিক বলেছেন।"
+      }
+    ]
+  },
+  {
+    "lesson": 20,
+    "title": "Lesson 20 (Grammar)",
+    "subtitle": "5 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "Polite style and Plain style",
+        "formula": "",
+        "explanation": "সকল গঠনের Polite থেকে Plain করার নিয়ম শীট থেকে চর্চা করবে।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "Use of plain and polite",
+        "formula": "",
+        "explanation": "• Polite: অচেনা কেউ, বয়সে বড়, পদমর্যাদায় উঁচু, সম্মানিত ব্যক্তি।\n• Plain: বন্ধু, সহকর্মী, ছোট, পদমর্যাদায় ছোট, পরিবার।",
+        "exampleJp": "",
+        "exampleRomaji": "",
+        "exampleBangla": ""
+      },
+      {
+        "pattern": "Plain Conversation",
+        "formula": "",
+        "explanation": "• প্রশ্ন করার ক্ষেত্রে \"?\" প্রশ্নবোধক চিহ্ন ব্যবহার হয়।\n• কথা বলার ক্ষেত্রে অপ্রয়োজনীয় পার্টিকেলের ব্যবহার না করলেও হয়।",
+        "exampleJp": "コーヒー [を] のむ？ — …うん、のむ。 / …ううん、のまない。\nあした いそがしい？ — …うん、いそがしい。 / …ううん、いそがしくない。\nこんばん ひま？ — …うん、ひま。 / …ううん、ひま じゃない。",
+        "exampleRomaji": "Koohii [o] nomu? ...Un, nomu. / ...Uun, nomanai.\nAshita isogashii? ...Un, isogashii. / ...Uun, isogashikunai.\nKonban hima? ...Un, hima. / ...Uun, hima ja nai.",
+        "exampleBangla": "কফি পান করবে? হ্যাঁ / না। আগামীকাল ব্যস্ত? হ্যাঁ / না। আজরাতে অবসর? হ্যাঁ / না।"
+      },
+      {
+        "pattern": "て Form + います ⇒ て Form + いる。",
+        "formula": "",
+        "explanation": "এমন বাক্য Plain Form করতে \"います\" → \"いる\" / \"る\" করতে হবে।",
+        "exampleJp": "じしょ [を] もっている ／ もってる？\n…うん、もっている ／ もってる。\n…ううん、もっていない ／ もってない。",
+        "exampleRomaji": "Jisho [o] motte iru / motteru?\n...Un, motte iru / motteru.\n...Uun, motte inai / motte nai.",
+        "exampleBangla": "অভিধান সাথে আছে?\n… হ্যাঁ, আছে।\n… না, সাথে নেই।"
+      },
+      {
+        "pattern": "けど",
+        "formula": "",
+        "explanation": "けど = \"কিন্তু\"। Plain Form এর ক্ষেত্রে \"が\" এর পরিবর্তে \"けど\" ব্যবহার হবে।",
+        "exampleJp": "その カレー [は] おいしい？ ／ … うん、おいしい けど、からい。",
+        "exampleRomaji": "Sono karee [wa] oishii? / ...Un, oishii kedo, karai.",
+        "exampleBangla": "ঐ কারিটি কি মজার? / … হ্যাঁ, মজার কিন্তু ঝাল।"
+      }
+    ]
+  },
+  {
+    "lesson": 21,
+    "title": "Lesson 21 (Grammar)",
+    "subtitle": "7 Rules • Short Grammar",
+    "rules": [
+      {
+        "pattern": "All Plain Form + と おもいます",
+        "formula": "",
+        "explanation": "অনুমান করে কোনো কথা বলার ক্ষেত্রে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "あした あめが ふると おもいます。",
+        "exampleRomaji": "Ashita ame ga furu to omoimasu.",
+        "exampleBangla": "আগামীকাল বৃষ্টি হতে পারে।"
+      },
+      {
+        "pattern": "Sentence / Plain Form + と + いいます ／ いいました",
+        "formula": "",
+        "explanation": "একজনের কথা অন্যজনকে বলার ক্ষেত্রে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "リーさんは 「あした がっこうへ いきません」 と いいました。\nリーさんは あした がっこうへ いかない と いいました。",
+        "exampleRomaji": "Rii-san wa \"ashita gakkou e ikimasen\" to iimashita.\nRii-san wa ashita gakkou e ikanai to iimashita.",
+        "exampleBangla": "জনাব লি বলেছিলেন \"আগামীকাল স্কুলে যাবেন না\"।\nজনাব লি বলেছিলেন আগামীকাল স্কুলে যাবেন না।"
+      },
+      {
+        "pattern": "Verb (dic from) / い-adj / な-adj だ / Noun だ + でしょう？",
+        "formula": "",
+        "explanation": "কোনো ঘটনা অন্যকে Reconfirm করার ক্ষেত্রে এই গঠনটি ব্যবহার হয়।",
+        "exampleJp": "ほっかいどは さむかったでしょう？",
+        "exampleRomaji": "Hokkaidou wa samukatta deshou?",
+        "exampleBangla": "হোকাইদো ঠান্ডা ছিল তাইনা?"
+      },
+      {
+        "pattern": "Noun1 で Noun2 が あります",
+        "formula": "",
+        "explanation": "কোথাও অনুষ্ঠান, দূর্ঘটনা, খেলা অনুষ্ঠিত হলে, Action Place এর পর で ব্যবহার হবে।",
+        "exampleJp": "とうきょうで にほんと ブラジルの サッカーの しあいが あります。",
+        "exampleRomaji": "Toukyou de Nihon to Burajiru no sakkaa no shiai ga arimasu.",
+        "exampleBangla": "টোকিওতে জাপান এবং ব্রাজিলের ফুটবলের ম্যাচ অনুষ্ঠিত হবে।"
+      },
+      {
+        "pattern": "Noun (occasion) で",
+        "formula": "",
+        "explanation": "মিটিং/অনুষ্ঠানে কোনো ভূমিকা রাখলে, Action Place হিসেবে で Particle ব্যবহার হবে।",
+        "exampleJp": "かいぎで なにか いけんを いいましたか。",
+        "exampleRomaji": "Kaigi de nani ka iken o iimashita ka?",
+        "exampleBangla": "মিটিংয়ে কোনো মতামত রেখেছেন?"
+      },
+      {
+        "pattern": "Noun でも Verb",
+        "formula": "",
+        "explanation": "কোনো সুপারিশ / আশা করার ক্ষেত্রে এই গঠনটির ব্যবহার হয়। যা \"অন্তত\" অর্থ বুঝায়।",
+        "exampleJp": "コーヒーでも のみませんか。",
+        "exampleRomaji": "Koohii de mo nomimasen ka?",
+        "exampleBangla": "অন্তত কফি পান করুন।"
+      },
+      {
+        "pattern": "ない Form + と",
+        "formula": "",
+        "explanation": "\"なければなりません\" এর Short Form হিসেবে এই গঠনটি ব্যবহার করা যায়।",
+        "exampleJp": "もう 9じですから、かえらないと。。。",
+        "exampleRomaji": "Mou kuji desu kara, kaeranai to...",
+        "exampleBangla": "ইতিমধ্যে ৯টা বেজেছে তাই ফিরতে হবে।"
+      }
+    ]
+  }
+]

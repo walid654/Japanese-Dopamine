@@ -1,0 +1,6 @@
+{
+  "name": "Japanese Dopamine",
+  "description": "JLPT N5 Japanese learning app with vocabulary, kanji, grammar, listening, and audio flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

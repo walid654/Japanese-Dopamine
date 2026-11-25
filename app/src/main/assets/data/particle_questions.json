@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pq_1",
+    "number": 1,
+    "sentenceJp": "[このまち] ( ) ラーメンは おいしいです。",
+    "sentenceRomaji": "[Kono machi] ( ) raamen wa oishii desu.",
+    "sentenceBangla": "এই শহরের রামেন সুস্বাদু।",
+    "options": [
+      "1. に",
+      "2. の",
+      "3. を",
+      "4. へ"
+    ],
+    "correctIndex": 1,
+    "explanation": "এখানে 'এই শহরের রামেন' (Possession / Attributive Relation) বোঝাতে の পার্টিকেল বসবে।"
+  },
+  {
+    "id": "pq_2",
+    "number": 2,
+    "sentenceJp": "わたしには きょうだいが ２にん います。おとうと ( ) わたしです。",
+    "sentenceRomaji": "Watashi ni wa kyoudai ga futari imasu. Otouto ( ) watashi desu.",
+    "sentenceBangla": "আমার দুইজন ভাইবোন আছে। ছোট ভাই এবং আমি।",
+    "options": [
+      "1. は",
+      "2. も",
+      "3. と",
+      "4. か"
+    ],
+    "correctIndex": 2,
+    "explanation": "দুইটি বিশেষ্যকে 'এবং' অর্থে যুক্ত করতে と পার্টিকেল ব্যবহৃত হয়।"
+  },
+  {
+    "id": "pq_3",
+    "number": 3,
+    "sentenceJp": "やました「たなかさん ( ) きのう どこかに でかけましたか。」 たなか「いいえ、いえに いました。」",
+    "sentenceRomaji": "Yamashita: 'Tanaka-san ( ) kinou dokoka ni dekakemashita ka?' Tanaka: 'Iie, ie ni imashita.'",
+    "sentenceBangla": "ইয়ামাশিতা: 'তানাকা সাহেব, গতকাল কোথাও বের হয়েছিলেন?' তানাকা: 'না, বাসায় ছিলাম।'",
+    "options": [
+      "1. で",
+      "2. は",
+      "3. を",
+      "4. に"
+    ],
+    "correctIndex": 1,
+    "explanation": "তানাকা সাহেবকে টপিক বা সম্বোধন করে প্রশ্ন করা হয়েছে, তাই টপিক মার্কার は বসবে।"
+  },
+  {
+    "id": "pq_4",
+    "number": 4,
+    "sentenceJp": "A「つぎの かどを みぎ ( ) まがってください。」 B「わかりました。」",
+    "sentenceRomaji": "A: 'Tsugi no kado o migi ( ) magatte kudasai.' B: 'Wakarimashita.'",
+    "sentenceBangla": "A: 'পরবর্তী মোড় থেকে ডানে ঘুরুন।' B: 'বুঝেছি।'",
+    "options": [
+      "1. が",
+      "2. や",
+      "3. か",
+      "4. に"
+    ],
+    "correctIndex": 3,
+    "explanation": "ঘোরার দিক বা নির্দিষ্ট অভিমুখ নির্দেশ করতে 右に (ডানে) に পার্টিকেল ব্যবহৃত হয়।"
+  },
+  {
+    "id": "pq_5",
+    "number": 5,
+    "sentenceJp": "きのう、わたしは ひとり ( ) えいがを みにいきました。",
+    "sentenceRomaji": "Kinou, watashi wa hitori ( ) eiga o mi ni ikimashita.",
+    "sentenceBangla": "গতকাল আমি একা একা সিনেমা দেখতে গিয়েছিলাম।",
+    "options": [
+      "1. が",
+      "2. を",
+      "3. で",
+      "4. は"
+    ],
+    "correctIndex": 2,
+    "explanation": "একাকী কোনো কাজ সম্পন্ন করার সংখ্যা বা অবস্থা নির্দেশ করতে 一人で (একাকী) で পার্টিকেল বসে।"
+  },
+  {
+    "id": "pq_6",
+    "number": 6,
+    "sentenceJp": "やました「きょう パーティーが ありますから、たなかさん ( ) きてください。」",
+    "sentenceRomaji": "Yamashita: 'Kyou paatii ga arimasu kara, Tanaka-san ( ) kite kudasai.'",
+    "sentenceBangla": "ইয়ামাশিতা: 'আজ পার্টি আছে, তানাকা সাহেব আপনিও আসুন।'",
+    "options": [
+      "1. も",
+      "2. で",
+      "3. を",
+      "4. に"
+    ],
+    "correctIndex": 0,
+    "explanation": "'আপনিও' (Also / Too) অর্থে সাদৃশ্য প্রকাশের জন্য も পার্টিকেল ব্যবহার হবে।"
+  },
+  {
+    "id": "pq_7",
+    "number": 7,
+    "sentenceJp": "A「あの ぼうしは やまださん ( ) ですか。」 やまだ「はい。」",
+    "sentenceRomaji": "A: 'Ano boushi wa Yamada-san ( ) desu ka?' Yamada: 'Hai.'",
+    "sentenceBangla": "A: 'ঐ টুপিটি কি ইয়ামাদা সাহেবের?' ইয়ামাদা: 'হ্যাঁ।'",
+    "options": [
+      "1. の",
+      "2. に",
+      "3. は",
+      "4. で"
+    ],
+    "correctIndex": 0,
+    "explanation": "মালিকানা (ইয়ামাদা সাহেবের) নির্দেশ করতে の পার্টিকেল বসে।"
+  },
+  {
+    "id": "pq_8",
+    "number": 8,
+    "sentenceJp": "わたしは まいあさ 7じ ( ) いえを でます。",
+    "sentenceRomaji": "Watashi wa maiasa shichiji ( ) ie o demasu.",
+    "sentenceBangla": "আমি প্রতিদিন সকাল ৭টায় বাসা থেকে বের হই।",
+    "options": [
+      "1. で",
+      "2. に",
+      "3. を",
+      "4. へ"
+    ],
+    "correctIndex": 1,
+    "explanation": "নির্দিষ্ট সময় বা ঘণ্টার পর সর্বদা に পার্টিকেল বসে।"
+  },
+  {
+    "id": "pq_9",
+    "number": 9,
+    "sentenceJp": "えきまで バス ( ) いきます。",
+    "sentenceRomaji": "Eki made basu ( ) ikimasu.",
+    "sentenceBangla": "স্টেশন পর্যন্ত বাসে করে যাই।",
+    "options": [
+      "1. に",
+      "2. で",
+      "3. を",
+      "4. へ"
+    ],
+    "correctIndex": 1,
+    "explanation": "যাতায়াতের মাধ্যম বা যানবাহনের পরে で পার্টিকেল ব্যবহৃত হয়।"
+  },
+  {
+    "id": "pq_10",
+    "number": 10,
+    "sentenceJp": "にほんご ( ) てがみを かきました。",
+    "sentenceRomaji": "Nihongo ( ) tegami o kakimashita.",
+    "sentenceBangla": "জাপানি ভাষায় চিঠি লিখেছি।",
+    "options": [
+      "1. で",
+      "2. に",
+      "3. を",
+      "4. と"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোনো ভাষা বা উপকরণের মাধ্যমে কাজ সম্পন্ন হলে で পার্টিকেল বসে।"
+  },
+  {
+    "id": "pq_11",
+    "number": 11,
+    "sentenceJp": "だれ ( ) きましたか。ミラーさんが きました。",
+    "sentenceRomaji": "Dare ( ) kimashita ka? Miraa-san ga kimashita.",
+    "sentenceBangla": "কে এসেছে? মিলার সাহেব এসেছেন।",
+    "options": [
+      "1. は",
+      "2. が",
+      "3. を",
+      "4. に"
+    ],
+    "correctIndex": 1,
+    "explanation": "প্রশ্নবোধক শব্দ (だれ - কে) যখন বাক্যের সাবজেক্ট হয়, তখন সবসময় が বসে।"
+  },
+  {
+    "id": "pq_12",
+    "number": 12,
+    "sentenceJp": "としょかん ( ) ほんを かりました。",
+    "sentenceRomaji": "Toshokan ( ) hon o karimashita.",
+    "sentenceBangla": "লাইব্রেরি থেকে বই ধার নিয়েছি।",
+    "options": [
+      "1. から",
+      "2. まで",
+      "3. へ",
+      "4. と"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোনো প্রতিষ্ঠান বা ব্যক্তি থেকে ধার নেওয়ার উৎস বোঝাতে から পার্টিকেল বসে।"
+  },
+  {
+    "id": "pq_13",
+    "number": 13,
+    "sentenceJp": "つくえの うえに ペン ( ) ノートなどが あります。",
+    "sentenceRomaji": "Tsukue no ue ni pen ( ) nooto nado ga arimasu.",
+    "sentenceBangla": "টেবিলের উপর কলম ও খাতা ইত্যাদি আছে।",
+    "options": [
+      "1. と",
+      "2. や",
+      "3. も",
+      "4. に"
+    ],
+    "correctIndex": 1,
+    "explanation": "অসম্পূর্ণ তালিকা নির্দেশ করতে এবং সাথে など থাকলে や পার্টিকেল বসে।"
+  },
+  {
+    "id": "pq_14",
+    "number": 14,
+    "sentenceJp": "ここで しゃしんを とって ( ) いいですか。",
+    "sentenceRomaji": "Koko de shashin o totte ( ) ii desu ka?",
+    "sentenceBangla": "এখানে ছবি তুললে কি ভালো হয়? (ছবি তোলা যাবে কি?)",
+    "options": [
+      "1. は",
+      "2. も",
+      "3. が",
+      "4. を"
+    ],
+    "correctIndex": 1,
+    "explanation": "অনুমতি চাওয়ার ব্যাকরণিক গঠন: Verb-て + も + いいですか।"
+  },
+  {
+    "id": "pq_15",
+    "number": 15,
+    "sentenceJp": "きょうしつに はいって ( ) いけません。",
+    "sentenceRomaji": "Kyoushitsu ni haitte ( ) ikemasen.",
+    "sentenceBangla": "শ্রেণিকক্ষে প্রবেশ করা নিষেধ।",
+    "options": [
+      "1. は",
+      "2. も",
+      "3. で",
+      "4. に"
+    ],
+    "correctIndex": 0,
+    "explanation": "নিষেধাজ্ঞা প্রকাশের ব্যাকরণিক নিয়ম: Verb-て + は + いけません।"
+  },
+  {
+    "id": "pq_16",
+    "number": 16,
+    "sentenceJp": "この ほんは あの ほん ( ) おもしろいです。",
+    "sentenceRomaji": "Kono hon wa ano hon ( ) omoshiroi desu.",
+    "sentenceBangla": "এই বইটি ঐ বইটির চেয়ে বেশি মজাদার।",
+    "options": [
+      "1. より",
+      "2. から",
+      "3. ほど",
+      "4. と"
+    ],
+    "correctIndex": 0,
+    "explanation": "দুইটি জিনিসের তুলনায় 'চেয়ে' অর্থ প্রকাশ করতে より বসে।"
+  }
+]

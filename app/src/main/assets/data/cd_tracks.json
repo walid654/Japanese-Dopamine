@@ -1,0 +1,3476 @@
+[
+  {
+    "id": "cd_1",
+    "cdNumber": 1,
+    "lessonNumber": 1,
+    "lesson": "Lesson 1",
+    "title": "CD 01: Lesson 1 Kaiwa (কথোপকথন)",
+    "subtitle": "初めまして (প্রথম সাক্ষাৎ ও আত্মপরিচয় (Self Introduction))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_01",
+    "script": [
+      {
+        "speaker": "佐藤 (সাতো)",
+        "japanese": "おはようございます。",
+        "romaji": "Ohayou gozaimasu.",
+        "bangla": "শুভ সকাল।"
+      },
+      {
+        "speaker": "山田 (ইয়ামাদা)",
+        "japanese": "おはようございます。佐藤さん、こちらはマイク・ミラーさんです。",
+        "romaji": "Ohayou gozaimasu. Satou-san, kochira wa Maiku Miraa-san desu.",
+        "bangla": "শুভ সকাল। সাতো সাহেব, ইনি মাইক মিলার সাহেব।"
+      },
+      {
+        "speaker": "ミラー (মিলার)",
+        "japanese": "初めまして。マイク・ミラーです。アメリカから来ました。どうぞよろしく。",
+        "romaji": "Hajimemashite. Maiku Miraa desu. Amerika kara kimashita. Douzo yoroshiku.",
+        "bangla": "প্রথম দেখা হলো। আমি মাইক মিলার। আমেরিকা থেকে এসেছি। অনুগ্রহপূর্বক আমাকে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "佐藤 (সাতো)",
+        "japanese": "佐藤けいこです。どうぞよろしく。",
+        "romaji": "Satou Keiko desu. Douzo yoroshiku.",
+        "bangla": "আমি কেইকো সাতো। আপনার সাথে পরিচিত হয়ে আনন্দিত হলাম।"
+      }
+    ]
+  },
+  {
+    "id": "cd_2",
+    "cdNumber": 2,
+    "lessonNumber": 1,
+    "lesson": "Lesson 1",
+    "title": "CD 02: Lesson 1 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "初めまして (প্রথম সাক্ষাৎ ও আত্মপরিচয় (Self Introduction))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_02",
+    "script": [
+      {
+        "speaker": "例 (উদাহরণ)",
+        "japanese": "あなたは先生ですか。",
+        "romaji": "Anata wa sensei desu ka.",
+        "bangla": "আপনি কি শিক্ষক?"
+      },
+      {
+        "speaker": "1번 (১)",
+        "japanese": "あなたはサントスさんですか。",
+        "romaji": "Anata wa Santosu-san desu ka.",
+        "bangla": "আপনি কি সান্তোস সাহেব?"
+      },
+      {
+        "speaker": "2번 (২)",
+        "japanese": "お名前は？",
+        "romaji": "Onamae wa?",
+        "bangla": "আপনার নাম কি?"
+      },
+      {
+        "speaker": "3번 (৩)",
+        "japanese": "何歳ですか？",
+        "romaji": "Nansai desu ka.",
+        "bangla": "আপনার বয়স কত?"
+      },
+      {
+        "speaker": "4번 (৪)",
+        "japanese": "アメリカ人ですか？",
+        "romaji": "Amerikajin desu ka.",
+        "bangla": "আপনি কি আমেরিকান?"
+      },
+      {
+        "speaker": "5번 (৫)",
+        "japanese": "会社員ですか？",
+        "romaji": "Kaishain desu ka.",
+        "bangla": "আপনি কি কোম্পানির চাকরিজীবী?"
+      }
+    ]
+  },
+  {
+    "id": "cd_3",
+    "cdNumber": 3,
+    "lessonNumber": 1,
+    "lesson": "Lesson 1",
+    "title": "CD 03: Lesson 1 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "初めまして (প্রথম সাক্ষাৎ ও আত্মপরিচয় (Self Introduction))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_03",
+    "script": [
+      {
+        "speaker": "例 (উদাহরণ)",
+        "japanese": "おはようございます。 / おはようございます。",
+        "romaji": "Ohayou gozaimasu. / Ohayou gozaimasu.",
+        "bangla": "শুভ সকাল / শুভ সকাল।"
+      },
+      {
+        "speaker": "1번 (১)",
+        "japanese": "こちらはパワー電気のシュミットさんです。 / 初めまして、シュミットです。どうぞよろしく。",
+        "romaji": "Kochira wa Pawaa Denki no Shumitto-san desu. / Hajimemashite, Shumitto desu. Douzo yoroshiku.",
+        "bangla": "ইনি পাওয়ার ইলেকট্রিকের স্মিট সাহেব। / পরিচয় হয়ে ভালো লাগল, আমি স্মিট।"
+      },
+      {
+        "speaker": "2번 (২)",
+        "japanese": "お名前は？ / ワンです。 / アンさんですか？ / いいえ、ワンです。 / 何歳ですか？ / 29歳です。",
+        "romaji": "Onamae wa? / Wan desu. / An-san desu ka? / Iie, Wan desu. / Nansai desu ka? / Nijuukyuu-sai desu.",
+        "bangla": "আপনার নাম কি? / ওয়াং। / আন সাহেব কি? / না, ওয়াং। / আপনার বয়স কত? / ২৯ বছর।"
+      }
+    ]
+  },
+  {
+    "id": "cd_4",
+    "cdNumber": 4,
+    "lessonNumber": 1,
+    "lesson": "Lesson 1",
+    "title": "CD 04: Lesson 1 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "初めまして (প্রথম সাক্ষাৎ ও আত্মপরিচয় (Self Introduction))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_04",
+    "script": [
+      {
+        "speaker": "例 1",
+        "japanese": "太郎ちゃんは何歳ですか。8歳です。→ 太郎ちゃんは10歳です。(×)",
+        "romaji": "Tarou-chan wa nansai desu ka. Hassai desu. -> Tarou-chan wa jussai desu. (Batsu)",
+        "bangla": "তারো চানের বয়স কত? ৮ বছর। → তারোর বয়স ১০ বছর (ভুল/X)"
+      },
+      {
+        "speaker": "例 2",
+        "japanese": "サントスさんは先生ですか。いいえ、会社員です。→ サントスさんは会社員です。(○)",
+        "romaji": "Santosu-san wa sensei desu ka. Iie, kaishain desu. -> Santosu-san wa kaishain desu. (Maru)",
+        "bangla": "সান্তোস কি শিক্ষক? না, চাকরিজীবী। → সান্তোস চাকরিজীবী (সঠিক/O)"
+      },
+      {
+        "speaker": "1번 (১)",
+        "japanese": "初めまして、ミラーです。アメリカから来ました... → ミラーさんはアメリカ人です。(○)",
+        "romaji": "Hajimemashite, Miraa desu. Amerika kara kimashita... -> Miraa-san wa amerikajin desu. (Maru)",
+        "bangla": "মিলার সাহেব আমেরিকান (সঠিক/O)"
+      },
+      {
+        "speaker": "2번 (২)",
+        "japanese": "あの方はどなたですか。カリーナさんです。先生ですか。いいえ、富士大学の学生です。→ カリーナさんは富士大学の先生です。(×)",
+        "romaji": "Ano kata wa donata desu ka? Karina-san desu. Sensei desu ka? Iie, Fuji daigaku no gakusei desu. (Batsu)",
+        "bangla": "কারিনা কি শিক্ষক? না, ফুজি বিশ্ববিদ্যালয়ের ছাত্রী। (ভুল/X)"
+      },
+      {
+        "speaker": "3번 (৩)",
+        "japanese": "イーさんは研究者ですか。はい。ワンさんも研究者ですか。いいえ、医者です。→ ワンさんは研究者じゃありません。(○)",
+        "romaji": "Ii-san wa kenkyuusha desu ka? Hai. Wan-san mo? Iie, isha desu. -> ワンさんは研究者じゃありません。(Maru)",
+        "bangla": "ওয়াং গবেষক নন, তিনি ডাক্তার। (সঠিক/O)"
+      }
+    ]
+  },
+  {
+    "id": "cd_5",
+    "cdNumber": 5,
+    "lessonNumber": 2,
+    "lesson": "Lesson 2",
+    "title": "CD 05: Lesson 2 Kaiwa (কথোপকথন)",
+    "subtitle": "これからお世話になります (প্রতিবেশীর সাথে উপহার বিনিময় ও কুশলবিনিময়)",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_05",
+    "script": [
+      {
+        "speaker": "住人 (বাসিন্দা)",
+        "japanese": "はい、どなたですか。",
+        "romaji": "Hai, donata desu ka.",
+        "bangla": "হ্যাঁ, দরজায় কে?"
+      },
+      {
+        "speaker": "サントス",
+        "japanese": "408のサントスです。",
+        "romaji": "Yon-maru-hachi no Santosu desu.",
+        "bangla": "৪০৮ নম্বর ফ্ল্যাটের সান্তোস।"
+      },
+      {
+        "speaker": "サントス",
+        "japanese": "こんにちは、サントスです。これからお世話になります。どうぞよろしくお願いします。",
+        "romaji": "Konnichiwa, Santosu desu. Korekara osewa ni narimasu. Douzo yoroshiku onegaishimasu.",
+        "bangla": "নমস্কার, আমি সান্তোস। এখন থেকে একসাথে থাকব, অনুগ্রহ করে বন্ধুসুলভ ব্যবহার করবেন।"
+      },
+      {
+        "speaker": "隣の人 (প্রতিবেশী)",
+        "japanese": "こちらこそよろしくお願いします。",
+        "romaji": "Kochira koso yoroshiku onegaishimasu.",
+        "bangla": "আমাদের পক্ষ থেকেও শুভকামনা।"
+      },
+      {
+        "speaker": "サントス",
+        "japanese": "あの、これ、コーヒーです。どうぞ。",
+        "romaji": "Ano, kore, koohii desu. Douzo.",
+        "bangla": "আচ্ছা, এই যে কফি। গ্রহণ করুন।"
+      },
+      {
+        "speaker": "隣の人",
+        "japanese": "どうもありがとうございます。",
+        "romaji": "Doumo arigatou gozaimasu.",
+        "bangla": "আপনাকে অনেক অনেক ধন্যবাদ।"
+      }
+    ]
+  },
+  {
+    "id": "cd_6",
+    "cdNumber": 6,
+    "lessonNumber": 2,
+    "lesson": "Lesson 2",
+    "title": "CD 06: Lesson 2 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "これからお世話になります (প্রতিবেশীর সাথে উপহার বিনিময় ও কুশলবিনিময়)",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_06",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第2課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 2-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 2-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_7",
+    "cdNumber": 7,
+    "lessonNumber": 2,
+    "lesson": "Lesson 2",
+    "title": "CD 07: Lesson 2 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "これからお世話になります (প্রতিবেশীর সাথে উপহার বিনিময় ও কুশলবিনিময়)",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_07",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_8",
+    "cdNumber": 8,
+    "lessonNumber": 2,
+    "lesson": "Lesson 2",
+    "title": "CD 08: Lesson 2 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "これからお世話になります (প্রতিবেশীর সাথে উপহার বিনিময় ও কুশলবিনিময়)",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_08",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_9",
+    "cdNumber": 9,
+    "lessonNumber": 3,
+    "lesson": "Lesson 3",
+    "title": "CD 09: Lesson 3 Kaiwa (কথোপকথন)",
+    "subtitle": "これ、ください (দোকানে কেনাকাটা ও দিকনির্দেশনা (Shopping & Location))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_09",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第3課 会話：これ、ください (দোকানে কেনাকাটা ও দিকনির্দেশনা (Shopping & Location))",
+        "romaji": "Dai 3-ka Kaiwa: これ、ください (দোকানে কেনাকাটা ও দিকনির্দেশনা (Shopping & Location))",
+        "bangla": "লেসন 3 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_10",
+    "cdNumber": 10,
+    "lessonNumber": 3,
+    "lesson": "Lesson 3",
+    "title": "CD 10: Lesson 3 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "これ、ください (দোকানে কেনাকাটা ও দিকনির্দেশনা (Shopping & Location))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_10",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第3課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 3-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 3-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_11",
+    "cdNumber": 11,
+    "lessonNumber": 3,
+    "lesson": "Lesson 3",
+    "title": "CD 11: Lesson 3 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "これ、ください (দোকানে কেনাকাটা ও দিকনির্দেশনা (Shopping & Location))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_11",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_12",
+    "cdNumber": 12,
+    "lessonNumber": 3,
+    "lesson": "Lesson 3",
+    "title": "CD 12: Lesson 3 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "これ、ください (দোকানে কেনাকাটা ও দিকনির্দেশনা (Shopping & Location))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_12",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_13",
+    "cdNumber": 13,
+    "lessonNumber": 4,
+    "lesson": "Lesson 4",
+    "title": "CD 13: Lesson 4 Kaiwa (কথোপকথন)",
+    "subtitle": "そちらは何時から何時までですか (সময়, ব্যাংক ও লাইব্রেরি সময়সূচি (Time & Schedules))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_13",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第4課 会話：そちらは何時から何時までですか (সময়, ব্যাংক ও লাইব্রেরি সময়সূচি (Time & Schedules))",
+        "romaji": "Dai 4-ka Kaiwa: そちらは何時から何時までですか (সময়, ব্যাংক ও লাইব্রেরি সময়সূচি (Time & Schedules))",
+        "bangla": "লেসন 4 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_14",
+    "cdNumber": 14,
+    "lessonNumber": 4,
+    "lesson": "Lesson 4",
+    "title": "CD 14: Lesson 4 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "そちらは何時から何時までですか (সময়, ব্যাংক ও লাইব্রেরি সময়সূচি (Time & Schedules))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_14",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第4課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 4-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 4-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_15",
+    "cdNumber": 15,
+    "lessonNumber": 4,
+    "lesson": "Lesson 4",
+    "title": "CD 15: Lesson 4 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "そちらは何時から何時までですか (সময়, ব্যাংক ও লাইব্রেরি সময়সূচি (Time & Schedules))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_15",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_16",
+    "cdNumber": 16,
+    "lessonNumber": 4,
+    "lesson": "Lesson 4",
+    "title": "CD 16: Lesson 4 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "そちらは何時から何時までですか (সময়, ব্যাংক ও লাইব্রেরি সময়সূচি (Time & Schedules))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_16",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_17",
+    "cdNumber": 17,
+    "lessonNumber": 5,
+    "lesson": "Lesson 5",
+    "title": "CD 17: Lesson 5 Kaiwa (কথোপকথন)",
+    "subtitle": "甲子園へ行きますか (গন্তব্য, ট্রেন ও ভ্রমণ (Travel & Transport))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_17",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第5課 会話：甲子園へ行きますか (গন্তব্য, ট্রেন ও ভ্রমণ (Travel & Transport))",
+        "romaji": "Dai 5-ka Kaiwa: 甲子園へ行きますか (গন্তব্য, ট্রেন ও ভ্রমণ (Travel & Transport))",
+        "bangla": "লেসন 5 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_18",
+    "cdNumber": 18,
+    "lessonNumber": 5,
+    "lesson": "Lesson 5",
+    "title": "CD 18: Lesson 5 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "甲子園へ行きますか (গন্তব্য, ট্রেন ও ভ্রমণ (Travel & Transport))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_18",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第5課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 5-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 5-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_19",
+    "cdNumber": 19,
+    "lessonNumber": 5,
+    "lesson": "Lesson 5",
+    "title": "CD 19: Lesson 5 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "甲子園へ行きますか (গন্তব্য, ট্রেন ও ভ্রমণ (Travel & Transport))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_19",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_20",
+    "cdNumber": 20,
+    "lessonNumber": 5,
+    "lesson": "Lesson 5",
+    "title": "CD 20: Lesson 5 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "甲子園へ行きますか (গন্তব্য, ট্রেন ও ভ্রমণ (Travel & Transport))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_20",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_21",
+    "cdNumber": 21,
+    "lessonNumber": 6,
+    "lesson": "Lesson 6",
+    "title": "CD 21: Lesson 6 Kaiwa (কথোপকথন)",
+    "subtitle": "いっしょに行きませんか (আমন্ত্রণ, খাওয়া-দাওয়া ও বন্ধুদের আড্ডা (Invitations))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_21",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第6課 会話：いっしょに行きませんか (আমন্ত্রণ, খাওয়া-দাওয়া ও বন্ধুদের আড্ডা (Invitations))",
+        "romaji": "Dai 6-ka Kaiwa: いっしょに行きませんか (আমন্ত্রণ, খাওয়া-দাওয়া ও বন্ধুদের আড্ডা (Invitations))",
+        "bangla": "লেসন 6 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_22",
+    "cdNumber": 22,
+    "lessonNumber": 6,
+    "lesson": "Lesson 6",
+    "title": "CD 22: Lesson 6 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "いっしょに行きませんか (আমন্ত্রণ, খাওয়া-দাওয়া ও বন্ধুদের আড্ডা (Invitations))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_22",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第6課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 6-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 6-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_23",
+    "cdNumber": 23,
+    "lessonNumber": 6,
+    "lesson": "Lesson 6",
+    "title": "CD 23: Lesson 6 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "いっしょに行きませんか (আমন্ত্রণ, খাওয়া-দাওয়া ও বন্ধুদের আড্ডা (Invitations))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_23",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_24",
+    "cdNumber": 24,
+    "lessonNumber": 6,
+    "lesson": "Lesson 6",
+    "title": "CD 24: Lesson 6 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "いっしょに行きませんか (আমন্ত্রণ, খাওয়া-দাওয়া ও বন্ধুদের আড্ডা (Invitations))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_24",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_25",
+    "cdNumber": 25,
+    "lessonNumber": 7,
+    "lesson": "Lesson 7",
+    "title": "CD 25: Lesson 7 Kaiwa (কথোপকথন)",
+    "subtitle": "いらっしゃい (উপহার প্রদান ও অতিথি বরণ (Giving & Receiving))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_25",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第7課 会話：いらっしゃい (উপহার প্রদান ও অতিথি বরণ (Giving & Receiving))",
+        "romaji": "Dai 7-ka Kaiwa: いらっしゃい (উপহার প্রদান ও অতিথি বরণ (Giving & Receiving))",
+        "bangla": "লেসন 7 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_26",
+    "cdNumber": 26,
+    "lessonNumber": 7,
+    "lesson": "Lesson 7",
+    "title": "CD 26: Lesson 7 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "いらっしゃい (উপহার প্রদান ও অতিথি বরণ (Giving & Receiving))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_26",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第7課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 7-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 7-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_27",
+    "cdNumber": 27,
+    "lessonNumber": 7,
+    "lesson": "Lesson 7",
+    "title": "CD 27: Lesson 7 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "いらっしゃい (উপহার প্রদান ও অতিথি বরণ (Giving & Receiving))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_27",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_28",
+    "cdNumber": 28,
+    "lessonNumber": 7,
+    "lesson": "Lesson 7",
+    "title": "CD 28: Lesson 7 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "いらっしゃい (উপহার প্রদান ও অতিথি বরণ (Giving & Receiving))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_28",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_29",
+    "cdNumber": 29,
+    "lessonNumber": 8,
+    "lesson": "Lesson 8",
+    "title": "CD 29: Lesson 8 Kaiwa (কথোপকথন)",
+    "subtitle": "そろそろ失礼します (অভিজ্ঞতা বর্ণনা ও বিদায় সম্ভাষণ (Adjectives & Impressions))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_29",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第8課 会話：そろそろ失礼します (অভিজ্ঞতা বর্ণনা ও বিদায় সম্ভাষণ (Adjectives & Impressions))",
+        "romaji": "Dai 8-ka Kaiwa: そろそろ失礼します (অভিজ্ঞতা বর্ণনা ও বিদায় সম্ভাষণ (Adjectives & Impressions))",
+        "bangla": "লেসন 8 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_30",
+    "cdNumber": 30,
+    "lessonNumber": 8,
+    "lesson": "Lesson 8",
+    "title": "CD 30: Lesson 8 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "そろそろ失礼します (অভিজ্ঞতা বর্ণনা ও বিদায় সম্ভাষণ (Adjectives & Impressions))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_30",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第8課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 8-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 8-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_31",
+    "cdNumber": 31,
+    "lessonNumber": 8,
+    "lesson": "Lesson 8",
+    "title": "CD 31: Lesson 8 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "そろそろ失礼します (অভিজ্ঞতা বর্ণনা ও বিদায় সম্ভাষণ (Adjectives & Impressions))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_31",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_32",
+    "cdNumber": 32,
+    "lessonNumber": 8,
+    "lesson": "Lesson 8",
+    "title": "CD 32: Lesson 8 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "そろそろ失礼します (অভিজ্ঞতা বর্ণনা ও বিদায় সম্ভাষণ (Adjectives & Impressions))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_32",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_33",
+    "cdNumber": 33,
+    "lessonNumber": 9,
+    "lesson": "Lesson 9",
+    "title": "CD 33: Lesson 9 Kaiwa (কথোপকথন)",
+    "subtitle": "残念ですが (পছন্দ-অপছন্দ ও কারণ প্রদর্শন (Preferences & Reasons))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_33",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第9課 会話：残念ですが (পছন্দ-অপছন্দ ও কারণ প্রদর্শন (Preferences & Reasons))",
+        "romaji": "Dai 9-ka Kaiwa: 残念ですが (পছন্দ-অপছন্দ ও কারণ প্রদর্শন (Preferences & Reasons))",
+        "bangla": "লেসন 9 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_34",
+    "cdNumber": 34,
+    "lessonNumber": 9,
+    "lesson": "Lesson 9",
+    "title": "CD 34: Lesson 9 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "残念ですが (পছন্দ-অপছন্দ ও কারণ প্রদর্শন (Preferences & Reasons))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_34",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第9課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 9-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 9-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_35",
+    "cdNumber": 35,
+    "lessonNumber": 9,
+    "lesson": "Lesson 9",
+    "title": "CD 35: Lesson 9 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "残念ですが (পছন্দ-অপছন্দ ও কারণ প্রদর্শন (Preferences & Reasons))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_35",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_36",
+    "cdNumber": 36,
+    "lessonNumber": 9,
+    "lesson": "Lesson 9",
+    "title": "CD 36: Lesson 9 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "残念ですが (পছন্দ-অপছন্দ ও কারণ প্রদর্শন (Preferences & Reasons))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_36",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_37",
+    "cdNumber": 37,
+    "lessonNumber": 10,
+    "lesson": "Lesson 10",
+    "title": "CD 37: Lesson 10 Kaiwa (কথোপকথন)",
+    "subtitle": "チリソースはありませんか (অবস্থান ও অস্তিত্ব - আছে/নাই (Existence & Locations))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_37",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第10課 会話：チリソースはありませんか (অবস্থান ও অস্তিত্ব - আছে/নাই (Existence & Locations))",
+        "romaji": "Dai 10-ka Kaiwa: チリソースはありませんか (অবস্থান ও অস্তিত্ব - আছে/নাই (Existence & Locations))",
+        "bangla": "লেসন 10 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_38",
+    "cdNumber": 38,
+    "lessonNumber": 10,
+    "lesson": "Lesson 10",
+    "title": "CD 38: Lesson 10 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "チリソースはありませんか (অবস্থান ও অস্তিত্ব - আছে/নাই (Existence & Locations))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_38",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第10課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 10-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 10-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_39",
+    "cdNumber": 39,
+    "lessonNumber": 10,
+    "lesson": "Lesson 10",
+    "title": "CD 39: Lesson 10 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "チリソースはありませんか (অবস্থান ও অস্তিত্ব - আছে/নাই (Existence & Locations))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_39",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_40",
+    "cdNumber": 40,
+    "lessonNumber": 10,
+    "lesson": "Lesson 10",
+    "title": "CD 40: Lesson 10 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "チリソースはありませんか (অবস্থান ও অস্তিত্ব - আছে/নাই (Existence & Locations))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_40",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_41",
+    "cdNumber": 41,
+    "lessonNumber": 11,
+    "lesson": "Lesson 11",
+    "title": "CD 41: Lesson 11 Kaiwa (কথোপকথন)",
+    "subtitle": "これ、お願いします (গণনা, পোস্ট অফিস ও ডাক যোগাযোগ (Counters & Postal))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_41",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第11課 会話：これ、お願いします (গণনা, পোস্ট অফিস ও ডাক যোগাযোগ (Counters & Postal))",
+        "romaji": "Dai 11-ka Kaiwa: これ、お願いします (গণনা, পোস্ট অফিস ও ডাক যোগাযোগ (Counters & Postal))",
+        "bangla": "লেসন 11 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_42",
+    "cdNumber": 42,
+    "lessonNumber": 11,
+    "lesson": "Lesson 11",
+    "title": "CD 42: Lesson 11 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "これ、お願いします (গণনা, পোস্ট অফিস ও ডাক যোগাযোগ (Counters & Postal))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_42",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第11課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 11-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 11-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_43",
+    "cdNumber": 43,
+    "lessonNumber": 11,
+    "lesson": "Lesson 11",
+    "title": "CD 43: Lesson 11 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "これ、お願いします (গণনা, পোস্ট অফিস ও ডাক যোগাযোগ (Counters & Postal))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_43",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_44",
+    "cdNumber": 44,
+    "lessonNumber": 11,
+    "lesson": "Lesson 11",
+    "title": "CD 44: Lesson 11 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "これ、お願いします (গণনা, পোস্ট অফিস ও ডাক যোগাযোগ (Counters & Postal))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_44",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_45",
+    "cdNumber": 45,
+    "lessonNumber": 12,
+    "lesson": "Lesson 12",
+    "title": "CD 45: Lesson 12 Kaiwa (কথোপকথন)",
+    "subtitle": "お祭りはどうでしたか (অতীত অভিজ্ঞতা ও তুলনা (Comparisons & Festivals))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_45",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第12課 会話：お祭りはどうでしたか (অতীত অভিজ্ঞতা ও তুলনা (Comparisons & Festivals))",
+        "romaji": "Dai 12-ka Kaiwa: お祭りはどうでしたか (অতীত অভিজ্ঞতা ও তুলনা (Comparisons & Festivals))",
+        "bangla": "লেসন 12 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_46",
+    "cdNumber": 46,
+    "lessonNumber": 12,
+    "lesson": "Lesson 12",
+    "title": "CD 46: Lesson 12 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "お祭りはどうでしたか (অতীত অভিজ্ঞতা ও তুলনা (Comparisons & Festivals))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_46",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第12課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 12-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 12-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_47",
+    "cdNumber": 47,
+    "lessonNumber": 12,
+    "lesson": "Lesson 12",
+    "title": "CD 47: Lesson 12 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "お祭りはどうでしたか (অতীত অভিজ্ঞতা ও তুলনা (Comparisons & Festivals))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_47",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_48",
+    "cdNumber": 48,
+    "lessonNumber": 13,
+    "lesson": "Lesson 13",
+    "title": "CD 48: Lesson 13 Kaiwa (কথোপকথন)",
+    "subtitle": "別々にお願いします (ইচ্ছা ও রেস্তোরাঁয় বিল পরিশোধ (Wishes & Orders))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_48",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第13課 会話：別々にお願いします (ইচ্ছা ও রেস্তোরাঁয় বিল পরিশোধ (Wishes & Orders))",
+        "romaji": "Dai 13-ka Kaiwa: 別々にお願いします (ইচ্ছা ও রেস্তোরাঁয় বিল পরিশোধ (Wishes & Orders))",
+        "bangla": "লেসন 13 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_49",
+    "cdNumber": 49,
+    "lessonNumber": 13,
+    "lesson": "Lesson 13",
+    "title": "CD 49: Lesson 13 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "別々にお願いします (ইচ্ছা ও রেস্তোরাঁয় বিল পরিশোধ (Wishes & Orders))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_49",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第13課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 13-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 13-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_50",
+    "cdNumber": 50,
+    "lessonNumber": 13,
+    "lesson": "Lesson 13",
+    "title": "CD 50: Lesson 13 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "別々にお願いします (ইচ্ছা ও রেস্তোরাঁয় বিল পরিশোধ (Wishes & Orders))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_50",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_51",
+    "cdNumber": 51,
+    "lessonNumber": 13,
+    "lesson": "Lesson 13",
+    "title": "CD 51: Lesson 13 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "別々にお願いします (ইচ্ছা ও রেস্তোরাঁয় বিল পরিশোধ (Wishes & Orders))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_51",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_52",
+    "cdNumber": 52,
+    "lessonNumber": 14,
+    "lesson": "Lesson 14",
+    "title": "CD 52: Lesson 14 Kaiwa (কথোপকথন)",
+    "subtitle": "みどり町までお願いします (অনুরোধ ও ট্যাক্সি নির্দেশনা (Te-form Requests))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_52",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第14課 会話：みどり町までお願いします (অনুরোধ ও ট্যাক্সি নির্দেশনা (Te-form Requests))",
+        "romaji": "Dai 14-ka Kaiwa: みどり町までお願いします (অনুরোধ ও ট্যাক্সি নির্দেশনা (Te-form Requests))",
+        "bangla": "লেসন 14 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_53",
+    "cdNumber": 53,
+    "lessonNumber": 14,
+    "lesson": "Lesson 14",
+    "title": "CD 53: Lesson 14 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "みどり町までお願いします (অনুরোধ ও ট্যাক্সি নির্দেশনা (Te-form Requests))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_53",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第14課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 14-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 14-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_54",
+    "cdNumber": 54,
+    "lessonNumber": 14,
+    "lesson": "Lesson 14",
+    "title": "CD 54: Lesson 14 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "みどり町までお願いします (অনুরোধ ও ট্যাক্সি নির্দেশনা (Te-form Requests))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_54",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_55",
+    "cdNumber": 55,
+    "lessonNumber": 14,
+    "lesson": "Lesson 14",
+    "title": "CD 55: Lesson 14 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "みどり町までお願いします (অনুরোধ ও ট্যাক্সি নির্দেশনা (Te-form Requests))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_55",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_56",
+    "cdNumber": 56,
+    "lessonNumber": 15,
+    "lesson": "Lesson 15",
+    "title": "CD 56: Lesson 15 Kaiwa (কথোপকথন)",
+    "subtitle": "ご家族は？ (অনুমতি, নিষেধাজ্ঞা ও পরিবার (Permissions & Family))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_56",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第15課 会話：ご家族は？ (অনুমতি, নিষেধাজ্ঞা ও পরিবার (Permissions & Family))",
+        "romaji": "Dai 15-ka Kaiwa: ご家族は？ (অনুমতি, নিষেধাজ্ঞা ও পরিবার (Permissions & Family))",
+        "bangla": "লেসন 15 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_57",
+    "cdNumber": 57,
+    "lessonNumber": 15,
+    "lesson": "Lesson 15",
+    "title": "CD 57: Lesson 15 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "ご家族は？ (অনুমতি, নিষেধাজ্ঞা ও পরিবার (Permissions & Family))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_57",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第15課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 15-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 15-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_58",
+    "cdNumber": 58,
+    "lessonNumber": 15,
+    "lesson": "Lesson 15",
+    "title": "CD 58: Lesson 15 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "ご家族は？ (অনুমতি, নিষেধাজ্ঞা ও পরিবার (Permissions & Family))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_58",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_59",
+    "cdNumber": 59,
+    "lessonNumber": 16,
+    "lesson": "Lesson 16",
+    "title": "CD 59: Lesson 16 Kaiwa (কথোপকথন)",
+    "subtitle": "使い方を教えてください (পদ্ধতি ও ক্রমান্বয়ে কাজ করা (Sequence & Instructions))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_59",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第16課 会話：使い方を教えてください (পদ্ধতি ও ক্রমান্বয়ে কাজ করা (Sequence & Instructions))",
+        "romaji": "Dai 16-ka Kaiwa: 使い方を教えてください (পদ্ধতি ও ক্রমান্বয়ে কাজ করা (Sequence & Instructions))",
+        "bangla": "লেসন 16 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_60",
+    "cdNumber": 60,
+    "lessonNumber": 16,
+    "lesson": "Lesson 16",
+    "title": "CD 60: Lesson 16 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "使い方を教えてください (পদ্ধতি ও ক্রমান্বয়ে কাজ করা (Sequence & Instructions))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_60",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第16課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 16-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 16-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_61",
+    "cdNumber": 61,
+    "lessonNumber": 16,
+    "lesson": "Lesson 16",
+    "title": "CD 61: Lesson 16 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "使い方を教えてください (পদ্ধতি ও ক্রমান্বয়ে কাজ করা (Sequence & Instructions))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_61",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_62",
+    "cdNumber": 62,
+    "lessonNumber": 17,
+    "lesson": "Lesson 17",
+    "title": "CD 62: Lesson 17 Kaiwa (কথোপকথন)",
+    "subtitle": "どうしましたか (হাসপাতাল, স্বাস্থ্য ও নিষেধ (Health & Nai-form))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_62",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第17課 会話：どうしましたか (হাসপাতাল, স্বাস্থ্য ও নিষেধ (Health & Nai-form))",
+        "romaji": "Dai 17-ka Kaiwa: どうしましたか (হাসপাতাল, স্বাস্থ্য ও নিষেধ (Health & Nai-form))",
+        "bangla": "লেসন 17 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_63",
+    "cdNumber": 63,
+    "lessonNumber": 17,
+    "lesson": "Lesson 17",
+    "title": "CD 63: Lesson 17 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "どうしましたか (হাসপাতাল, স্বাস্থ্য ও নিষেধ (Health & Nai-form))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_63",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第17課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 17-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 17-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_64",
+    "cdNumber": 64,
+    "lessonNumber": 17,
+    "lesson": "Lesson 17",
+    "title": "CD 64: Lesson 17 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "どうしましたか (হাসপাতাল, স্বাস্থ্য ও নিষেধ (Health & Nai-form))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_64",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_65",
+    "cdNumber": 65,
+    "lessonNumber": 18,
+    "lesson": "Lesson 18",
+    "title": "CD 65: Lesson 18 Kaiwa (কথোপকথন)",
+    "subtitle": "趣味は何ですか (শখ, আগ্রহ ও সক্ষমতা (Hobbies & Potential))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_65",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第18課 会話：趣味は何ですか (শখ, আগ্রহ ও সক্ষমতা (Hobbies & Potential))",
+        "romaji": "Dai 18-ka Kaiwa: 趣味は何ですか (শখ, আগ্রহ ও সক্ষমতা (Hobbies & Potential))",
+        "bangla": "লেসন 18 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_66",
+    "cdNumber": 66,
+    "lessonNumber": 18,
+    "lesson": "Lesson 18",
+    "title": "CD 66: Lesson 18 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "趣味は何ですか (শখ, আগ্রহ ও সক্ষমতা (Hobbies & Potential))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_66",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第18課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 18-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 18-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_67",
+    "cdNumber": 67,
+    "lessonNumber": 18,
+    "lesson": "Lesson 18",
+    "title": "CD 67: Lesson 18 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "趣味は何ですか (শখ, আগ্রহ ও সক্ষমতা (Hobbies & Potential))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_67",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_68",
+    "cdNumber": 68,
+    "lessonNumber": 18,
+    "lesson": "Lesson 18",
+    "title": "CD 68: Lesson 18 Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "subtitle": "趣味は何ですか (শখ, আগ্রহ ও সক্ষমতা (Hobbies & Potential))",
+    "part": "Mondai 3 (সত্য/মিথ্যা টেস্ট)",
+    "resName": "cd_68",
+    "script": [
+      {
+        "speaker": "問題 (প্রশ্ন)",
+        "japanese": "会話を聞いて、内容と合っているものに○、違っているものに×をつけてください。",
+        "romaji": "Kaiwa o kiite, naiyou to atte iru mono ni Maru, chigatte iru mono ni Batsu o tsukete kudasai.",
+        "bangla": "ডায়লগ শুনুন এবং তথ্য সঠিক হলে (○) ও ভুল হলে (×) চিহ্নিত করুন।"
+      },
+      {
+        "speaker": "会話 1 (ডায়লগ ১)",
+        "japanese": "日曜日、どこかへ行きましたか。 / ええ、家族と海へ行きました。楽しかったです。",
+        "romaji": "Nichiyoubi, dokoka e ikimashita ka. / Ee, kazoku to umi e ikimashita. Tanoshikatta desu.",
+        "bangla": "রবিবার কোথাও গিয়েছিলেন? / হ্যাঁ, পরিবারের সাথে সমুদ্র সৈকতে গিয়েছিলাম। খুব আনন্দ হয়েছে।"
+      },
+      {
+        "speaker": "文 1 (বিবৃতি ১)",
+        "japanese": "この人は日曜日、一人で海へ行きました。(×)",
+        "romaji": "Kono hito wa nichiyoubi, hitori de umi e ikimashita. (Batsu)",
+        "bangla": "এই ব্যক্তি রবিবার একা সমুদ্রে গিয়েছিলেন (ভুল/×)"
+      }
+    ]
+  },
+  {
+    "id": "cd_69",
+    "cdNumber": 69,
+    "lessonNumber": 19,
+    "lesson": "Lesson 19",
+    "title": "CD 69: Lesson 19 Kaiwa (কথোপকথন)",
+    "subtitle": "ダイエットは明日からします (অভিজ্ঞতা ও পরামর্শ (Ta-form & Experience))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_69",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第19課 会話：ダイエットは明日からします (অভিজ্ঞতা ও পরামর্শ (Ta-form & Experience))",
+        "romaji": "Dai 19-ka Kaiwa: ダイエットは明日からします (অভিজ্ঞতা ও পরামর্শ (Ta-form & Experience))",
+        "bangla": "লেসন 19 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_70",
+    "cdNumber": 70,
+    "lessonNumber": 19,
+    "lesson": "Lesson 19",
+    "title": "CD 70: Lesson 19 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "ダイエットは明日からします (অভিজ্ঞতা ও পরামর্শ (Ta-form & Experience))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_70",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第19課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 19-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 19-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_71",
+    "cdNumber": 71,
+    "lessonNumber": 19,
+    "lesson": "Lesson 19",
+    "title": "CD 71: Lesson 19 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "ダイエットは明日からします (অভিজ্ঞতা ও পরামর্শ (Ta-form & Experience))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_71",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_72",
+    "cdNumber": 72,
+    "lessonNumber": 20,
+    "lesson": "Lesson 20",
+    "title": "CD 72: Lesson 20 Kaiwa (কথোপকথন)",
+    "subtitle": "夏休みはどうだった？ (বন্ধুদের সাথে অনানুষ্ঠানিক কথোপকথন (Casual Speech))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_72",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第20課 会話：夏休みはどうだった？ (বন্ধুদের সাথে অনানুষ্ঠানিক কথোপকথন (Casual Speech))",
+        "romaji": "Dai 20-ka Kaiwa: 夏休みはどうだった？ (বন্ধুদের সাথে অনানুষ্ঠানিক কথোপকথন (Casual Speech))",
+        "bangla": "লেসন 20 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_73",
+    "cdNumber": 73,
+    "lessonNumber": 20,
+    "lesson": "Lesson 20",
+    "title": "CD 73: Lesson 20 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "夏休みはどうだった？ (বন্ধুদের সাথে অনানুষ্ঠানিক কথোপকথন (Casual Speech))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_73",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第20課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 20-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 20-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_74",
+    "cdNumber": 74,
+    "lessonNumber": 20,
+    "lesson": "Lesson 20",
+    "title": "CD 74: Lesson 20 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "夏休みはどうだった？ (বন্ধুদের সাথে অনানুষ্ঠানিক কথোপকথন (Casual Speech))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_74",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_75",
+    "cdNumber": 75,
+    "lessonNumber": 21,
+    "lesson": "Lesson 21",
+    "title": "CD 75: Lesson 21 Kaiwa (কথোপকথন)",
+    "subtitle": "わたしもそう思います (মতামত, অনুমান ও সংবাদ (Opinions & Thoughts))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_75",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第21課 会話：わたしもそう思います (মতামত, অনুমান ও সংবাদ (Opinions & Thoughts))",
+        "romaji": "Dai 21-ka Kaiwa: わたしもそう思います (মতামত, অনুমান ও সংবাদ (Opinions & Thoughts))",
+        "bangla": "লেসন 21 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_76",
+    "cdNumber": 76,
+    "lessonNumber": 21,
+    "lesson": "Lesson 21",
+    "title": "CD 76: Lesson 21 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "わたしもそう思います (মতামত, অনুমান ও সংবাদ (Opinions & Thoughts))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_76",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第21課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 21-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 21-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_77",
+    "cdNumber": 77,
+    "lessonNumber": 21,
+    "lesson": "Lesson 21",
+    "title": "CD 77: Lesson 21 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "わたしもそう思います (মতামত, অনুমান ও সংবাদ (Opinions & Thoughts))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_77",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_78",
+    "cdNumber": 78,
+    "lessonNumber": 22,
+    "lesson": "Lesson 22",
+    "title": "CD 78: Lesson 22 Kaiwa (কথোপকথন)",
+    "subtitle": "どんなアパートがいいですか (বাসা ভাড়া ও বিশেষণ বাক্য (Noun Modification))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_78",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第22課 会話：どんなアパートがいいですか (বাসা ভাড়া ও বিশেষণ বাক্য (Noun Modification))",
+        "romaji": "Dai 22-ka Kaiwa: どんなアパートがいいですか (বাসা ভাড়া ও বিশেষণ বাক্য (Noun Modification))",
+        "bangla": "লেসন 22 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_79",
+    "cdNumber": 79,
+    "lessonNumber": 22,
+    "lesson": "Lesson 22",
+    "title": "CD 79: Lesson 22 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "どんなアパートがいいですか (বাসা ভাড়া ও বিশেষণ বাক্য (Noun Modification))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_79",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第22課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 22-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 22-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_80",
+    "cdNumber": 80,
+    "lessonNumber": 22,
+    "lesson": "Lesson 22",
+    "title": "CD 80: Lesson 22 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "どんなアパートがいいですか (বাসা ভাড়া ও বিশেষণ বাক্য (Noun Modification))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_80",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_81",
+    "cdNumber": 81,
+    "lessonNumber": 23,
+    "lesson": "Lesson 23",
+    "title": "CD 81: Lesson 23 Kaiwa (কথোপকথন)",
+    "subtitle": "どうやって行きますか (রাস্তার দিক ও কন্ডিশনাল (When & Directions))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_81",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第23課 会話：どうやって行きますか (রাস্তার দিক ও কন্ডিশনাল (When & Directions))",
+        "romaji": "Dai 23-ka Kaiwa: どうやって行きますか (রাস্তার দিক ও কন্ডিশনাল (When & Directions))",
+        "bangla": "লেসন 23 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_82",
+    "cdNumber": 82,
+    "lessonNumber": 23,
+    "lesson": "Lesson 23",
+    "title": "CD 82: Lesson 23 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "どうやって行きますか (রাস্তার দিক ও কন্ডিশনাল (When & Directions))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_82",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第23課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 23-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 23-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_83",
+    "cdNumber": 83,
+    "lessonNumber": 23,
+    "lesson": "Lesson 23",
+    "title": "CD 83: Lesson 23 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "どうやって行きますか (রাস্তার দিক ও কন্ডিশনাল (When & Directions))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_83",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_84",
+    "cdNumber": 84,
+    "lessonNumber": 24,
+    "lesson": "Lesson 24",
+    "title": "CD 84: Lesson 24 Kaiwa (কথোপকথন)",
+    "subtitle": "手伝ってくれました (উপকার করা ও গ্রহণ করা (Giving & Receiving Favors))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_84",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第24課 会話：手伝ってくれました (উপকার করা ও গ্রহণ করা (Giving & Receiving Favors))",
+        "romaji": "Dai 24-ka Kaiwa: 手伝ってくれました (উপকার করা ও গ্রহণ করা (Giving & Receiving Favors))",
+        "bangla": "লেসন 24 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_85",
+    "cdNumber": 85,
+    "lessonNumber": 24,
+    "lesson": "Lesson 24",
+    "title": "CD 85: Lesson 24 Mondai 1 (প্রশ্নোত্তর)",
+    "subtitle": "手伝ってくれました (উপকার করা ও গ্রহণ করা (Giving & Receiving Favors))",
+    "part": "Mondai 1 (প্রশ্নোত্তর)",
+    "resName": "cd_85",
+    "script": [
+      {
+        "speaker": "質問 1 (প্রশ্ন ১)",
+        "japanese": "第24課の質問を聞いて、正しく答えてください。",
+        "romaji": "Dai 24-ka no shitsumon o kiite, tadashiku kotaete kudasai.",
+        "bangla": "লেসন 24-এর প্রশ্নটি শুনুন এবং সঠিক উত্তর দিন।"
+      },
+      {
+        "speaker": "質問 2 (প্রশ্ন ২)",
+        "japanese": "毎朝、何時に起きますか。",
+        "romaji": "Maiasa, nanji ni okimasu ka.",
+        "bangla": "প্রতিদিন সকালে আপনি কয়টায় ঘুম থেকে ওঠেন?"
+      },
+      {
+        "speaker": "質問 3 (প্রশ্ন ৩)",
+        "japanese": "休みの日は何をしますか。",
+        "romaji": "Yasumi no hi wa nani o shimasu ka.",
+        "bangla": "ছুটির দিনে আপনি কী করেন?"
+      },
+      {
+        "speaker": "質問 4 (প্রশ্ন ৪)",
+        "japanese": "日本はどうですか。",
+        "romaji": "Nihon wa dou desu ka.",
+        "bangla": "জাপান আপনার কেমন লাগে?"
+      }
+    ]
+  },
+  {
+    "id": "cd_86",
+    "cdNumber": 86,
+    "lessonNumber": 24,
+    "lesson": "Lesson 24",
+    "title": "CD 86: Lesson 24 Mondai 2 (ডায়লগ লিসেনিং)",
+    "subtitle": "手伝ってくれました (উপকার করা ও গ্রহণ করা (Giving & Receiving Favors))",
+    "part": "Mondai 2 (ডায়লগ লিসেনিং)",
+    "resName": "cd_86",
+    "script": [
+      {
+        "speaker": "会話例 (উদাহরণ ডায়লগ)",
+        "japanese": "すみません、この電車は京都へ行きますか。 / はい、行きますよ。",
+        "romaji": "Sumimasen, kono densha wa Kyouto e ikimasu ka. / Hai, ikimasu yo.",
+        "bangla": "মাফ করবেন, এই ট্রেন কি কিয়োটো যায়? / হ্যাঁ, যায়।"
+      },
+      {
+        "speaker": "問題 1 (প্রশ্ন ১)",
+        "japanese": "駅までどのくらいかかりますか。 / 歩いて10分くらいです。",
+        "romaji": "Eki made dono kurai kakarimasu ka. / Aruite juppun kurai desu.",
+        "bangla": "স্টেশন পর্যন্ত কত সময় লাগে? / হেঁটে প্রায় ১০ মিনিট।"
+      },
+      {
+        "speaker": "問題 2 (প্রশ্ন ২)",
+        "japanese": "もう宿題をしましたか。 / いいえ、まだです。これからします。",
+        "romaji": "Mou shukudai o shimashita ka. / Iie, mada desu. Korekara shimasu.",
+        "bangla": "আপনি কি হোমওয়ার্ক শেষ করেছেন? / না, এখনও করিনি। এখন করব।"
+      }
+    ]
+  },
+  {
+    "id": "cd_87",
+    "cdNumber": 87,
+    "lessonNumber": 25,
+    "lesson": "Lesson 25",
+    "title": "CD 87: Lesson 25 Kaiwa (কথোপকথন)",
+    "subtitle": "いろいろお世話になりました (বিদায় সংবর্ধনা ও ভবিষ্যৎ পরিকল্পনা (Conditionals & Farewell))",
+    "part": "Kaiwa (কথোপকথন)",
+    "resName": "cd_87",
+    "script": [
+      {
+        "speaker": "ナレーション (বর্ণনাকারী)",
+        "japanese": "第25課 会話：いろいろお世話になりました (বিদায় সংবর্ধনা ও ভবিষ্যৎ পরিকল্পনা (Conditionals & Farewell))",
+        "romaji": "Dai 25-ka Kaiwa: いろいろお世話になりました (বিদায় সংবর্ধনা ও ভবিষ্যৎ পরিকল্পনা (Conditionals & Farewell))",
+        "bangla": "লেসন 25 কথোপকথন মূল অডিও শুনুন এবং উচ্চারণ অনুকরণ করুন।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "すみません、ちょっとお願いがあるんですが。",
+        "romaji": "Sumimasen, chotto onegai ga aru n desu ga.",
+        "bangla": "মাফ করবেন, আমার একটি ছোট অনুরোধ ছিল।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、何でしょうか。どうぞ。",
+        "romaji": "Hai, nan deshou ka. Douzo.",
+        "bangla": "হ্যাঁ, কি বলুন? নিশ্চয়ই।"
+      },
+      {
+        "speaker": "A",
+        "japanese": "日本語を練習しています。よろしくお願いします。",
+        "romaji": "Nihongo o renshuu shite imasu. Yoroshiku onegaishimasu.",
+        "bangla": "আমি জাপানি ভাষা অনুশীলন করছি। অনুগ্রহ করে সাহায্য করবেন।"
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。がんばってくださいね！",
+        "romaji": "Ii desu yo. Ganbatte kudasai ne!",
+        "bangla": "অবশ্যই! শুভকামনা রইল, ভালো করে চেষ্টা করুন!"
+      }
+    ]
+  },
+  {
+    "id": "cd_88",
+    "cdNumber": 88,
+    "lessonNumber": 26,
+    "lesson": "অধ্যায় ১-৩ • もんだい 1-3",
+    "title": "N5 Listening 1 (অধ্যায় ১, ২ ও ৩)",
+    "subtitle": "JLPT N5 ちょうかい • もんだい 1 (1ばん-5ばん), もんだい 2, もんだい 3",
+    "part": "JLPT N5 もんだい 1-3",
+    "resName": "cd_88",
+    "script": [
+      {
+        "speaker": "もんだい 1 • 1ばん（しつもん）",
+        "japanese": "1ばん。おんなのひとと おとこのひとが、きっさてんで はなしています。おんなのひとは なにを のみますか？",
+        "romaji": "Ichiban. Onna no hito to otoko no hito ga, kissaten de hanashite imasu. Onna no hito wa nani o nomimasu ka?",
+        "bangla": "অধ্যায় ১ • ১ নম্বর (ইচিবান): একজন মহিলা ও একজন পুরুষ কফি শপে কথা বলছেন। মহিলাটি কী পান করবেন?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "おみせの なかは すずしいですね。",
+        "romaji": "Omise no naka wa suzushii desu ne.",
+        "bangla": "দোকানের ভেতরটা বেশ ঠান্ডা ও আরামদায়ক, তাই না?"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "ええ。じゃあ、ぼくは オレンジジュースに します。",
+        "romaji": "Ee. Jaa, boku wa orenji juusu ni shimasu.",
+        "bangla": "হ্যাঁ। তাহলে আমি অরেঞ্জ জুস নেব।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "ああ、いいですね。でも、わたしは けさ のみましたから、ほかの のみものに します。",
+        "romaji": "Aa, ii desu ne. Demo, watashi wa kesa nomimashita kara, hoka no nomimono ni shimasu.",
+        "bangla": "আহ, বেশ ভালো তো। কিন্তু আমি আজ সকালে ওটা খেয়েছি, তাই অন্য কোনো পানীয় নেব।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "じゃあ、アイスコーヒーは どうですか？ここのは おいしいですよ。",
+        "romaji": "Jaa, aisu koohii wa dou desu ka? Koko no wa oishii desu yo.",
+        "bangla": "তাহলে আইসড কফি কেমন হয়? এখানকারটা খুব সুস্বাদু।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "ええ、しっています。でも、ひるにも つめたい のみものを のみましたから、あたたかい ほうに します。",
+        "romaji": "Ee, shitte imasu. Demo, hiru ni mo tsumetai nomimono o nomimashita kara, atatakai hou ni shimasu.",
+        "bangla": "হ্যাঁ, আমি জানি। কিন্তু দুপুরবেলাতেও ঠান্ডা পানীয় খেয়েছি, তাই গরমটাই নেব।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "そうですか。",
+        "romaji": "Sou desu ka.",
+        "bangla": "তাই নাকি।"
+      },
+      {
+        "speaker": "もんだい 1 • 1ばん（こたえ）",
+        "japanese": "おんなのひとは なにを のみますか？",
+        "romaji": "Onna no hito wa nani o nomimasu ka?",
+        "bangla": "উত্তর: 4"
+      },
+      {
+        "speaker": "もんだい 1 • 2ばん（しつもん）",
+        "japanese": "2ばん。おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか？",
+        "romaji": "Niban. Onna no hito to otoko no hito ga hanashite imasu. Onna no hito wa zenbu de ikura haraimasu ka?",
+        "bangla": "অধ্যায় ১ • ২ নম্বর (নিবান): একজন মহিলা ও একজন পুরুষ কথা বলছেন। মহিলাটি মোট কত টাকা দেবেন?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "すみません、82えんの きってを ください。",
+        "romaji": "Sumimasen, hachijuu-ni-en no kitte o kudasai.",
+        "bangla": "মাফ করবেন, ৮২ ইয়েনের স্ট্যাম্প দিন।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "なんまいですか？",
+        "romaji": "Nan-mai desu ka?",
+        "bangla": "কয়টি লাগবে?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "10まい おねがいします。それから、はがきも 1まい ください。",
+        "romaji": "Juu-mai onegaishimasu. Sorekara, hagaki mo ichi-mai kudasai.",
+        "bangla": "১০টি দিন। আর একটি পোস্টকার্ডও দিন।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "はい。",
+        "romaji": "Hai.",
+        "bangla": "জি, এই নিন।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "はがきは いくらですか？",
+        "romaji": "Hagaki wa ikura desu ka?",
+        "bangla": "পোস্টকার্ডের দাম কত?"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "はい、はがきは 1まい 52えんです。",
+        "romaji": "Hai, hagaki wa ichi-mai gojuu-ni-en desu.",
+        "bangla": "জি, একটি পোস্টকার্ডের দাম ৫২ ইয়েন।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "ありがとうございます。",
+        "romaji": "Arigatou gozaimasu.",
+        "bangla": "আপনাকে ধন্যবাদ।"
+      },
+      {
+        "speaker": "もんだい 1 • 2ばん（こたえ）",
+        "japanese": "おんなのひとは ぜんぶで いくら はらいますか？",
+        "romaji": "Onna no hito wa zenbu de ikura haraimasu ka?",
+        "bangla": "উত্তর: 2"
+      },
+      {
+        "speaker": "もんだい 1 • 3ばん（しつもん）",
+        "japanese": "3ばん。おんなのひとと おとこのひとが はなしています。おんなのひとは どの カバンを みたいですか？",
+        "romaji": "Sanban. Onna no hito to otoko no hito ga hanashite imasu. Onna no hito wa dono kaban o mitai desu ka?",
+        "bangla": "অধ্যায় ১ • ৩ নম্বর (সানবান): একজন মহিলা ও একজন পুরুষ কথা বলছেন। মহিলাটি কোন ব্যাগটি দেখতে চান?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "すみません、あの カバンを みせてください。",
+        "romaji": "Sumimasen, ano kaban o misete kudasai.",
+        "bangla": "মাফ করবেন, ঐ ব্যাগটি একটু দেখান।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "この しろいのですか？",
+        "romaji": "Kono shiroi no desu ka?",
+        "bangla": "এই সাদা ব্যাগটি কি?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "いいえ、その くろいのです。",
+        "romaji": "Iie, sono kuroi no desu.",
+        "bangla": "না, ঐ কালো রঙেরটি।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "こちらでしょうか？",
+        "romaji": "Kochira deshou ka?",
+        "bangla": "এইটা কি?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "いいえ、ちいさい ほうです。",
+        "romaji": "Iie, chiisai hou desu.",
+        "bangla": "না, ছোটটা।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "こちらですね。",
+        "romaji": "Kochira desu ne.",
+        "bangla": "এইটা, তাই না।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "はい、ありがとうございます。",
+        "romaji": "Hai, arigatou gozaimasu.",
+        "bangla": "হ্যাঁ, ধন্যবাদ।"
+      },
+      {
+        "speaker": "もんだい 1 • 3ばん（こたえ）",
+        "japanese": "おんなのひとは どの カバンを みたいですか？",
+        "romaji": "Onna no hito wa dono kaban o mitai desu ka?",
+        "bangla": "উত্তর: 4"
+      },
+      {
+        "speaker": "もんだい 1 • 4ばん（しつもん）",
+        "japanese": "4ばん。おんなのひとと おとこのひとが しゃしんを みて はなしています。おんなのひとの いもうとは どの ひとですか？",
+        "romaji": "Yonban. Onna no hito to otoko no hito ga shashin o mite hanashite imasu. Onna no hito no imouto wa dono hito desu ka?",
+        "bangla": "অধ্যায় ১ • ৪ নম্বর (ইয়োনবান): একজন মহিলা ও একজন পুরুষ ছবি দেখে কথা বলছেন। মহিলার ছোট বোন কোনজন?"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "これは かぞくの しゃしんですか？",
+        "romaji": "Kore wa kazoku no shashin desu ka?",
+        "bangla": "এটা কি আপনার পরিবারের ছবি?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "はい。",
+        "romaji": "Hai.",
+        "bangla": "হ্যাঁ।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "この かみの ながい ひとは いもうとさんですか？",
+        "romaji": "Kono kami no nagai hito wa imouto-san desu ka?",
+        "bangla": "এই লম্বা চুলের মেয়েটি কি আপনার ছোট বোন?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "いいえ、それは あねです。",
+        "romaji": "Iie, sore wa ane desu.",
+        "bangla": "না, ও আমার বড় বোন।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "いもうとは こっちです。めがねを かけています。",
+        "romaji": "Imouto wa kocchi desu. Megane o kakete imasu.",
+        "bangla": "আমার ছোট বোন হলো এপাশের জন। ও চশমা পরে আছে।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "ああ、これが いもうとさんですか。",
+        "romaji": "Aa, kore ga imouto-san desu ka.",
+        "bangla": "ওহ, ইনি আপনার ছোট বোন!"
+      },
+      {
+        "speaker": "もんだい 1 • 4ばん（こたえ）",
+        "japanese": "おんなのひとの いもうとは どの ひとですか？",
+        "romaji": "Onna no hito no imouto wa dono hito desu ka?",
+        "bangla": "উত্তর: 2"
+      },
+      {
+        "speaker": "もんだい 1 • 5ばん（しつもん）",
+        "japanese": "5ばん。おとこのひとと おんなのひとが パーティーの じゅんびを しています。へやは いま どう なっていますか？",
+        "romaji": "Goban. Otoko no hito to onna no hito ga paatii no junbi o shite imasu. Heya wa ima dou natte imasu ka?",
+        "bangla": "অধ্যায় ১ • ৫ নম্বর (গোবান): একজন পুরুষ ও একজন মহিলা পার্টির প্রস্তুতি নিচ্ছেন। ঘরটি এখন কেমন অবস্থায় আছে?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "たなかさん、パーティーの じゅんびは もう すぐ おわりますね。",
+        "romaji": "Tanaka-san, paatii no junbi wa mou sugu owarimasu ne.",
+        "bangla": "তানাকা সাহেব, পার্টির প্রস্তুতি প্রায় শেষ, তাই না।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "つくえの うえに ケーキを だしてください。",
+        "romaji": "Tsukue no ue ni keeki o dashite kudasai.",
+        "bangla": "দয়া করে টেবিলের ওপর কেকটা বের করে রাখুন।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "はい。あ、のみものは どう しますか？もう ひやして ありますか？",
+        "romaji": "Hai. A, nomimono wa dou shimasu ka? Mou hiyashite arimasu ka?",
+        "bangla": "জি। আচ্ছা, পানীয়গুলোর কী করব? সেগুলো কি আগে থেকেই ঠান্ডা করা আছে?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "ええ、れいぞうこに ありますよ。",
+        "romaji": "Ee, reizouko ni arimasu yo.",
+        "bangla": "হ্যাঁ, ফ্রিজে রাখা আছে।"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "あ、でも、まだ コップを だしていませんね。",
+        "romaji": "A, demo, mada koppu o dashite imasen ne.",
+        "bangla": "ওহ, কিন্তু আমরা এখনও গ্লাস বের করিনি, তাই না।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "じゃあ、ぼくが コップを だしましょうか。",
+        "romaji": "Jaa, boku ga koppu o dashimashou ka.",
+        "bangla": "তাহলে আমি কি গ্লাসগুলো বের করে রাখব?"
+      },
+      {
+        "speaker": "おんな（মহিলা）",
+        "japanese": "おねがいします。あ、はなも かざりましょう。きれいですね。",
+        "romaji": "Onegaishimasu. A, hana mo kazarimashou. Kirei desu ne.",
+        "bangla": "দয়া করে দিন। আচ্ছা, ফুল দিয়েও সাজাই। খুব সুন্দর লাগবে।"
+      },
+      {
+        "speaker": "おとこ（পুরুষ）",
+        "japanese": "はい、そうですね。",
+        "romaji": "Hai, sou desu ne.",
+        "bangla": "হ্যাঁ, ঠিক বলেছেন।"
+      },
+      {
+        "speaker": "もんだい 1 • 5ばん（こたえ）",
+        "japanese": "へやは いま どう なっていますか？",
+        "romaji": "Heya wa ima dou natte imasu ka?",
+        "bangla": "উত্তর: 2"
+      },
+      {
+        "speaker": "もんだい 2 • 1ばん（しつもん）",
+        "japanese": "もんだい 2。1ばん。よる、となりの へやの ひとに あいました。なんと いいますか？",
+        "romaji": "Mondai ni. Ichiban. Yoru, tonari no heya no hito ni aimashita. Nan to iimasu ka?",
+        "bangla": "অধ্যায় ২ • ১ নম্বর (ইচিবান): রাতের বেলা পাশের রুমের মানুষের সাথে দেখা হলো। আপনি কী বলবেন?"
+      },
+      {
+        "speaker": "1（অপশন ১）",
+        "japanese": "おやすみなさい。",
+        "romaji": "Oyasuminasai.",
+        "bangla": "শুভ রাত্রি (ঘুমাতে যাওয়ার সময় বলা হয়)।"
+      },
+      {
+        "speaker": "2（অপশন ২）",
+        "japanese": "こんばんは。",
+        "romaji": "Konbanwa.",
+        "bangla": "শুভ সন্ধ্যা / রাতের অভিবাদন।"
+      },
+      {
+        "speaker": "3（অপশন ৩）",
+        "japanese": "おつかれさまでした。",
+        "romaji": "Otsukaresama deshita.",
+        "bangla": "কাজ শেষে ধন্যবাদ ও অভিবাদন।"
+      },
+      {
+        "speaker": "もんだい 2 • 1ばん（こたえ）",
+        "japanese": "こたえ、2ばん。",
+        "romaji": "Kotae, niban.",
+        "bangla": "উত্তর: 2"
+      },
+      {
+        "speaker": "もんだい 3 • 1ばん（しつもん）",
+        "japanese": "もんだい 3。1ばん。ともだちが にもつを たくさん もっています。ひとつ もちたいです。なんと いいますか？",
+        "romaji": "Mondai san. Ichiban. Tomodachi ga nimotsu o takusan motte imasu. Hitotsu mochitai desu. Nan to iimasu ka?",
+        "bangla": "অধ্যায় ৩ • ১ নম্বর (ইচিবান): বন্ধুর হাতে অনেক ব্যাগ/মালপত্র আছে। আপনি একটি বহন করতে চান। কী বলবেন?"
+      },
+      {
+        "speaker": "1（অপশন ১）",
+        "japanese": "ひとつ もちませんか？",
+        "romaji": "Hitotsu mochimasen ka?",
+        "bangla": "একটা ধরবেন কি?"
+      },
+      {
+        "speaker": "2（অপশন ২）",
+        "japanese": "ひとつ もちましょうか？",
+        "romaji": "Hitotsu mochimashou ka?",
+        "bangla": "আমি কি একটা ধরে দেব?"
+      },
+      {
+        "speaker": "3（অপশন ৩）",
+        "japanese": "ひとつ もってください。",
+        "romaji": "Hitotsu motte kudasai.",
+        "bangla": "দয়া করে একটা ধরুন।"
+      },
+      {
+        "speaker": "もんだい 3 • 1ばん（こたえ）",
+        "japanese": "こたえ、2ばん。",
+        "romaji": "Kotae, niban.",
+        "bangla": "উত্তর: 2"
+      },
+      {
+        "speaker": "もんだい 3 • 2ばん（しつもん）",
+        "japanese": "2ばん。せんせいの へやに はいります。なんと いいますか？",
+        "romaji": "Niban. Sensei no heya ni hairimasu. Nan to iimasu ka?",
+        "bangla": "অধ্যায় ৩ • ২ নম্বর (নিবান): শিক্ষকের রুমে প্রবেশ করছেন। কী বলবেন?"
+      },
+      {
+        "speaker": "1（অপশন ১）",
+        "japanese": "しつれいします。",
+        "romaji": "Shitsurei shimasu.",
+        "bangla": "মাফ করবেন / অনুমতি নিয়ে ভেতরে আসছি।"
+      },
+      {
+        "speaker": "2（অপশন ২）",
+        "japanese": "こんにちは。",
+        "romaji": "Konnichiwa.",
+        "bangla": "নমস্কার / হ্যালো।"
+      },
+      {
+        "speaker": "3（অপশন ৩）",
+        "japanese": "おじゃまします。",
+        "romaji": "Ojama shimasu.",
+        "bangla": "কারও বাসায় ঢোকার সময় অভিবাদন।"
+      },
+      {
+        "speaker": "もんだい 3 • 2ばん（こたえ）",
+        "japanese": "こたえ、1ばん。",
+        "romaji": "Kotae, ichiban.",
+        "bangla": "উত্তর: 1"
+      },
+      {
+        "speaker": "もんだい 3 • 3ばん（しつもん）",
+        "japanese": "3ばん。びょうきの ともだちの おみまいに いって かえります。なんと いいますか？",
+        "romaji": "Sanban. Byouki no tomodachi no omimai ni itte kaerimasu. Nan to iimasu ka?",
+        "bangla": "অধ্যায় ৩ • ৩ নম্বর (সানবান): অসুস্থ বন্ধুকে দেখতে গিয়ে বিদায় নিয়ে ফিরছেন। কী বলবেন?"
+      },
+      {
+        "speaker": "1（অপশন ১）",
+        "japanese": "さようなら。",
+        "romaji": "Sayounara.",
+        "bangla": "বিদায়।"
+      },
+      {
+        "speaker": "2（অপশন ২）",
+        "japanese": "おだいじに。",
+        "romaji": "Odaiji ni.",
+        "bangla": "দ্রুত সুস্থ হয়ে উঠুন / নিজের যত্ন নিয়ো।"
+      },
+      {
+        "speaker": "3（অপশন ৩）",
+        "japanese": "だいじょうぶですか？",
+        "romaji": "Daijoubu desu ka?",
+        "bangla": "আপনি কি ঠিক আছেন?"
+      },
+      {
+        "speaker": "もんだい 3 • 3ばん（こたえ）",
+        "japanese": "こたえ、2ばん。",
+        "romaji": "Kotae, niban.",
+        "bangla": "উত্তর: 2"
+      }
+    ]
+  }
+]

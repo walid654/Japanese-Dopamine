@@ -1,0 +1,3370 @@
+[
+  {
+    "id": "iv_1",
+    "number": 1,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "おなまえは なんですか。 (おなまえを おしえてください)",
+    "questionRomaji": "Onamae wa nan desu ka?",
+    "questionBn": "আপনার নাম কি? / নাম বলুন",
+    "answers": [
+      {
+        "jp": "わたしのなまえは _Name_ です。",
+        "romaji": "Watashi no namae wa _Name_ desu.",
+        "bn": "আমার নাম ...।"
+      }
+    ],
+    "audioPhrase": "おなまえは なんですか。 (おなまえを おしえてください)"
+  },
+  {
+    "id": "iv_2",
+    "number": 2,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "なんさいですか。 (おいくつですか)",
+    "questionRomaji": "Nansai desu ka?",
+    "questionBn": "বয়স কত?",
+    "answers": [
+      {
+        "jp": "わたしは _Age_ さいです。",
+        "romaji": "Watashi wa _Age_ sai desu.",
+        "bn": "আমার বয়স ... বছর।"
+      }
+    ],
+    "audioPhrase": "なんさいですか。 (おいくつですか)"
+  },
+  {
+    "id": "iv_3",
+    "number": 3,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "せいねんがっぴは いつですか。 (たんじょうびは なんねんなんがつなんにちですか)",
+    "questionRomaji": "Seinengappi wa itsu desu ka?",
+    "questionBn": "জন্মদিন কখন? কোন সাল, কোন মাস, কোন দিন?",
+    "answers": [
+      {
+        "jp": "わたしのせいねんがっぴは _Year_ ねん _Month_ がつ _Day_ にちです。",
+        "romaji": "Watashi no seinengappi wa _Year_ nen _Month_ gatsu _Day_ nichi desu.",
+        "bn": "আমার জন্মতারিখ ... সালের ... মাসের ... তারিখ।"
+      }
+    ],
+    "audioPhrase": "せいねんがっぴは いつですか。 (たんじょうびは なんねんなんがつなんにちですか)"
+  },
+  {
+    "id": "iv_4",
+    "number": 4,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いま、なにをしていますか。",
+    "questionRomaji": "Ima, nani o shite imasu ka?",
+    "questionBn": "এখন কি করেন?",
+    "answers": [
+      {
+        "jp": "いま だいがくで べんきょうしています。また、にほんごもべんきょうしています。",
+        "romaji": "Ima daigaku de benkyou shite imasu. Mata, nihongo mo benkyou shite imasu.",
+        "bn": "এখন বিশ্ববিদ্যালয়ে পড়ি এবং জাপানিজ ভাষাও শিখছি।"
+      },
+      {
+        "jp": "にほんごを べんきょうしています。",
+        "romaji": "Nihongo o benkyou shite imasu.",
+        "bn": "জাপানিজ ভাষা পড়াশোনা করছি।"
+      }
+    ],
+    "audioPhrase": "いま、なにをしていますか。"
+  },
+  {
+    "id": "iv_5",
+    "number": 5,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "さいごの そつぎょうは なんですか。",
+    "questionRomaji": "Saigo no sotsugyou wa nan desu ka?",
+    "questionBn": "সর্বশেষ ডিগ্রি/স্নাতক কি?",
+    "answers": [
+      {
+        "jp": "こうこうです。 / だいがくです。",
+        "romaji": "Koukou desu. / Daigaku desu.",
+        "bn": "কলেজ / বিশ্ববিদ্যালয়।"
+      }
+    ],
+    "audioPhrase": "さいごの そつぎょうは なんですか。"
+  },
+  {
+    "id": "iv_6",
+    "number": 6,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だいがくを そつぎょうしましたか。",
+    "questionRomaji": "Daigaku o sotsugyou shimashita ka?",
+    "questionBn": "বিশ্ববিদ্যালয় পাশ করেছেন?",
+    "answers": [
+      {
+        "jp": "はい、もうそつぎょうしました。",
+        "romaji": "Hai, mou sotsugyou shimashita.",
+        "bn": "হ্যাঁ, ইতিমধ্যে পাশ করেছি।"
+      },
+      {
+        "jp": "いいえ、まだです。",
+        "romaji": "Iie, mada desu.",
+        "bn": "না, এখনো না।"
+      }
+    ],
+    "audioPhrase": "だいがくを そつぎょうしましたか。"
+  },
+  {
+    "id": "iv_7",
+    "number": 7,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いつそつぎょうしましたか。 (さいごの そつぎょうは いつですか)",
+    "questionRomaji": "Itsu sotsugyou shimashita ka?",
+    "questionBn": "কখন পাশ করেছেন?",
+    "answers": [
+      {
+        "jp": "_Year_ ねんの _Month_ がつにそつぎょうしました。",
+        "romaji": "_Year_ nen no _Month_ gatsu ni sotsugyou shimashita.",
+        "bn": "... সালের ... মাসে পাশ করেছি।"
+      }
+    ],
+    "audioPhrase": "いつそつぎょうしましたか。 (さいごの そつぎょうは いつですか)"
+  },
+  {
+    "id": "iv_8",
+    "number": 8,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "こうこう / だいがくの なまえは なんですか。",
+    "questionRomaji": "Koukou / Daigaku no namae wa nan desu ka?",
+    "questionBn": "কলেজ / বিশ্ববিদ্যালয়ের নাম কি?",
+    "answers": [
+      {
+        "jp": "_College/University Name_ です。",
+        "romaji": "_College/University Name_ desu.",
+        "bn": "... কলেজ / বিশ্ববিদ্যালয়।"
+      }
+    ],
+    "audioPhrase": "こうこう / だいがくの なまえは なんですか。"
+  },
+  {
+    "id": "iv_9",
+    "number": 9,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いま、なんねんせいですか。",
+    "questionRomaji": "Ima, nannensei desu ka?",
+    "questionBn": "এখন কোন বর্ষের ছাত্র?",
+    "answers": [
+      {
+        "jp": "_Year_ ねんせいです。",
+        "romaji": "_Year_ nensei desu.",
+        "bn": "... বর্ষের ছাত্র।"
+      }
+    ],
+    "audioPhrase": "いま、なんねんせいですか。"
+  },
+  {
+    "id": "iv_10",
+    "number": 10,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だいがくでなんの べんきょうを していますか。 (がっかは なんですか)",
+    "questionRomaji": "Daigaku de nan no benkyou o shite imasu ka?",
+    "questionBn": "বিশ্ববিদ্যালয়ে কিসের পড়াশোনা করছেন? বিষয় কি?",
+    "answers": [
+      {
+        "jp": "_Subject Name_ をべんきょうしています。",
+        "romaji": "_Subject Name_ o benkyou shite imasu.",
+        "bn": "... বিষয়ে পড়াশোনা করছি।"
+      }
+    ],
+    "audioPhrase": "だいがくでなんの べんきょうを していますか。 (がっかは なんですか)"
+  },
+  {
+    "id": "iv_11",
+    "number": 11,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "おくにはどこですか。 (どちらですか)",
+    "questionRomaji": "Okuni wa doko desu ka?",
+    "questionBn": "আপনার দেশ কোথায়?",
+    "answers": [
+      {
+        "jp": "バングラデシュです。",
+        "romaji": "Banguradeshu desu.",
+        "bn": "বাংলাদেশ।"
+      }
+    ],
+    "audioPhrase": "おくにはどこですか。 (どちらですか)"
+  },
+  {
+    "id": "iv_12",
+    "number": 12,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "なんにんですか。 (どこのくにのにんですか)",
+    "questionRomaji": "Nanijin desu ka?",
+    "questionBn": "কোন দেশের নাগরিক?",
+    "answers": [
+      {
+        "jp": "バングラデシュにんです。",
+        "romaji": "Banguradeshujin desu.",
+        "bn": "বাংলাদেশের নাগরিক।"
+      }
+    ],
+    "audioPhrase": "なんにんですか。 (どこのくにのにんですか)"
+  },
+  {
+    "id": "iv_13",
+    "number": 13,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "しゅっしんはどこですか。",
+    "questionRomaji": "Shusshin wa doko desu ka?",
+    "questionBn": "জন্মস্থান কোথায়?",
+    "answers": [
+      {
+        "jp": "バングラデシュのダッカです。",
+        "romaji": "Banguradeshu no Dakka desu.",
+        "bn": "আমার জন্মস্থান বাংলাদেশের ঢাকা।"
+      }
+    ],
+    "audioPhrase": "しゅっしんはどこですか。"
+  },
+  {
+    "id": "iv_14",
+    "number": 14,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "じこしょうかいを おねがいします。",
+    "questionRomaji": "Jikoshoukai o onegaishimasu.",
+    "questionBn": "নিজের পরিচয় দিন।",
+    "answers": [
+      {
+        "jp": "はじめまして。わたしのなまえは _Name_ です。バングラデシュからきました。どうぞ よろしく おねがいします。",
+        "romaji": "Hajimemashite. Watashi no namae wa _Name_ desu. Banguradeshu kara kimashita. Douzo yoroshiku onegaishimasu.",
+        "bn": "প্রথমবার দেখা হলো। আমার নাম ...। বাংলাদেশ থেকে এসেছি। আপনার সাথে পরিচিত হয়ে খুশি হলাম।"
+      }
+    ],
+    "audioPhrase": "じこしょうかいを おねがいします。"
+  },
+  {
+    "id": "iv_15",
+    "number": 15,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いま、どこにすんでいますか。",
+    "questionRomaji": "Ima, doko ni sunde imasu ka?",
+    "questionBn": "এখন কোথায় থাকেন?",
+    "answers": [
+      {
+        "jp": "ダッカの _Area Name_ にすんでいます。",
+        "romaji": "Dakka no _Area Name_ ni sunde imasu.",
+        "bn": "ঢাকার ... তে বসবাস করছি।"
+      }
+    ],
+    "audioPhrase": "いま、どこにすんでいますか。"
+  },
+  {
+    "id": "iv_16",
+    "number": 16,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だれとすんでいますか。 (だれといっしょにすんでいますか)",
+    "questionRomaji": "Dare to sunde imasu ka?",
+    "questionBn": "কার সাথে একত্রে থাকেন?",
+    "answers": [
+      {
+        "jp": "かぞくとすんでいます。",
+        "romaji": "Kazoku to sunde imasu.",
+        "bn": "পরিবারের সাথে থাকি।"
+      }
+    ],
+    "audioPhrase": "だれとすんでいますか。 (だれといっしょにすんでいますか)"
+  },
+  {
+    "id": "iv_17",
+    "number": 17,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "かぞくはなんにんですか。",
+    "questionRomaji": "Kazoku wa nannin desu ka?",
+    "questionBn": "পরিবার সংখ্যা কতজন?",
+    "answers": [
+      {
+        "jp": "5にんです。 かぞくといっしょにすんでいます。",
+        "romaji": "Gonin desu. Kazoku to issho ni sunde imasu.",
+        "bn": "৫ জন। পরিবারের সাথে একত্রে থাকি।"
+      }
+    ],
+    "audioPhrase": "かぞくはなんにんですか。"
+  },
+  {
+    "id": "iv_18",
+    "number": 18,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "しゅみはなにですか。",
+    "questionRomaji": "Shumi wa nan desu ka?",
+    "questionBn": "শখ কি?",
+    "answers": [
+      {
+        "jp": "しゅみはりょこう / クリケット / サッカーです。",
+        "romaji": "Shumi wa ryokou / kuriketto / sakkaa desu.",
+        "bn": "আমার শখ ভ্রমণ / ক্রিকেট / ফুটবল।"
+      },
+      {
+        "jp": "しゅみはほんをよむことです。",
+        "romaji": "Shumi wa hon o yomu koto desu.",
+        "bn": "আমার শখ বই পড়া।"
+      }
+    ],
+    "audioPhrase": "しゅみはなにですか。"
+  },
+  {
+    "id": "iv_19",
+    "number": 19,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どこでりょこう / クリケットをしますか。",
+    "questionRomaji": "Doko de ryokou / kuriketto o shimasu ka?",
+    "questionBn": "কোথায় ভ্রমণ / ক্রিকেট খেলেন?",
+    "answers": [
+      {
+        "jp": "_Place_ でりょこう / クリケットをします。",
+        "romaji": "_Place_ de ryokou / kuriketto o shimasu.",
+        "bn": "... স্থানে ভ্রমণ / ক্রিকেট খেলি।"
+      }
+    ],
+    "audioPhrase": "どこでりょこう / クリケットをしますか。"
+  },
+  {
+    "id": "iv_20",
+    "number": 20,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だれとりょこう / クリケットをしますか。",
+    "questionRomaji": "Dare to ryokou / kuriketto o shimasu ka?",
+    "questionBn": "কার সাথে ভ্রমণ / ক্রিকেট খেলেন?",
+    "answers": [
+      {
+        "jp": "ともだちといっしょにします。",
+        "romaji": "Tomodachi to issho ni shimasu.",
+        "bn": "বন্ধুদের সাথে একত্রে খেলি/ভ্রমণ করি।"
+      }
+    ],
+    "audioPhrase": "だれとりょこう / クリケットをしますか。"
+  },
+  {
+    "id": "iv_21",
+    "number": 21,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "さいご、いつりょこう / クリケットをしましたか。",
+    "questionRomaji": "Saigo, itsu ryokou / kuriketto o shimashita ka?",
+    "questionBn": "সর্বশেষ কখন ভ্রমণ / ক্রিকেট খেলেছেন?",
+    "answers": [
+      {
+        "jp": "せんしゅうしました。",
+        "romaji": "Senshuu shimashita.",
+        "bn": "গত সপ্তাহে করেছি।"
+      }
+    ],
+    "audioPhrase": "さいご、いつりょこう / クリケットをしましたか。"
+  },
+  {
+    "id": "iv_22",
+    "number": 22,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "なんにんともだちとりょこう / クリケットをしましたか。",
+    "questionRomaji": "Nannin tomodachi to ryokou / kuriketto o shimashita ka?",
+    "questionBn": "কতজন বন্ধু মিলে ভ্রমণ / ক্রিকেট খেলেছেন?",
+    "answers": [
+      {
+        "jp": "ごにんでしました。 / 11ひとでしました。",
+        "romaji": "Gonin de shimashita. / Juuichinin de shimashita.",
+        "bn": "৫ জন মিলে করেছি / ১১ জন মিলে খেলেছি।"
+      }
+    ],
+    "audioPhrase": "なんにんともだちとりょこう / クリケットをしましたか。"
+  },
+  {
+    "id": "iv_23",
+    "number": 23,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "すきなスポーツはなにですか。",
+    "questionRomaji": "Sukina supootsu wa nan desu ka?",
+    "questionBn": "পছন্দের খেলা কি?",
+    "answers": [
+      {
+        "jp": "サッカー / クリケット / テニスがすきです。",
+        "romaji": "Sakkaa / kuriketto / tenisu ga suki desu.",
+        "bn": "ফুটবল / ক্রিকেট / টেনিস পছন্দ।"
+      }
+    ],
+    "audioPhrase": "すきなスポーツはなにですか。"
+  },
+  {
+    "id": "iv_24",
+    "number": 24,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どこのくにのチームがすきですか。",
+    "questionRomaji": "Doko no kuni no chiimu ga suki desu ka?",
+    "questionBn": "কোন দেশের টিম পছন্দ?",
+    "answers": [
+      {
+        "jp": "アルゼンチン / ブラジル / バングラデシュのチームがすきです。",
+        "romaji": "Aruzenchin / Burajiru / Banguradeshu no chiimu ga suki desu.",
+        "bn": "আর্জেন্টিনা / ব্রাজিল / বাংলাদেশের টিম পছন্দ।"
+      }
+    ],
+    "audioPhrase": "どこのくにのチームがすきですか。"
+  },
+  {
+    "id": "iv_25",
+    "number": 25,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "すきな せんしゅはだれですか。",
+    "questionRomaji": "Sukina senshu wa dare desu ka?",
+    "questionBn": "পছন্দের খেলোয়াড় কে?",
+    "answers": [
+      {
+        "jp": "_Player Name_ です。",
+        "romaji": "_Player Name_ desu.",
+        "bn": "... খেলোয়াড়।"
+      }
+    ],
+    "audioPhrase": "すきな せんしゅはだれですか。"
+  },
+  {
+    "id": "iv_26",
+    "number": 26,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どうしてですか。 (なぜですか)",
+    "questionRomaji": "Doushite desu ka? / Naze desu ka?",
+    "questionBn": "কেন? কারণ কি?",
+    "answers": [
+      {
+        "jp": "サッカー / クリケットがうえてですから。",
+        "romaji": "Sakkaa / kuriketto ga jouzu desu kara.",
+        "bn": "খেলায় খুব দক্ষ এজন্য।"
+      }
+    ],
+    "audioPhrase": "どうしてですか。 (なぜですか)"
+  },
+  {
+    "id": "iv_27",
+    "number": 27,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "まいにちサッカー / クリケットをしますか。",
+    "questionRomaji": "Mainichi sakkaa / kuriketto o shimasu ka?",
+    "questionBn": "প্রতিদিন ফুটবল / ক্রিকেট খেলেন?",
+    "answers": [
+      {
+        "jp": "いいえ、ときどきします。",
+        "romaji": "Iie, tokidoki shimasu.",
+        "bn": "না, মাঝে মাঝে খেলি।"
+      },
+      {
+        "jp": "はい、まいにちします。",
+        "romaji": "Hai, mainichi shimasu.",
+        "bn": "হ্যাঁ, প্রতিদিন খেলি।"
+      }
+    ],
+    "audioPhrase": "まいにちサッカー / クリケットをしますか。"
+  },
+  {
+    "id": "iv_28",
+    "number": 28,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いっしゅうかんになにかいしますか。",
+    "questionRomaji": "Isshuukan ni nankai shimasu ka?",
+    "questionBn": "সপ্তাহে কতবার খেলেন?",
+    "answers": [
+      {
+        "jp": "2かいします。",
+        "romaji": "Nikai shimasu.",
+        "bn": "২ বার খেলি।"
+      }
+    ],
+    "audioPhrase": "いっしゅうかんになにかいしますか。"
+  },
+  {
+    "id": "iv_29",
+    "number": 29,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "けっこんしていますか。",
+    "questionRomaji": "Kekkon shite imasu ka?",
+    "questionBn": "আপনি কি বিবাহিত?",
+    "answers": [
+      {
+        "jp": "いいえ、けっこんしていません。どくしんです。",
+        "romaji": "Iie, kekkon shite imasen. Dokushin desu.",
+        "bn": "না, আমি বিবাহিত নই। অবিবাহিত (সিঙ্গেল)।"
+      }
+    ],
+    "audioPhrase": "けっこんしていますか。"
+  },
+  {
+    "id": "iv_30",
+    "number": 30,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "すきなたべものはなにですか。",
+    "questionRomaji": "Sukina tabemono wa nan desu ka?",
+    "questionBn": "পছন্দের খাবার কি?",
+    "answers": [
+      {
+        "jp": "ビリヤニがすきです。",
+        "romaji": "Biriyani ga suki desu.",
+        "bn": "বিরিয়ানি পছন্দ।"
+      }
+    ],
+    "audioPhrase": "すきなたべものはなにですか。"
+  },
+  {
+    "id": "iv_31",
+    "number": 31,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どうしてビリヤニがすきですか。",
+    "questionRomaji": "Doushite biriyani ga suki desu ka?",
+    "questionBn": "কেন বিরিয়ানি পছন্দ?",
+    "answers": [
+      {
+        "jp": "ビリヤニがとてもおいしいですから。",
+        "romaji": "Biriyani ga totemo oishii desu kara.",
+        "bn": "বিরিয়ানি অনেক সুস্বাদু এজন্য।"
+      }
+    ],
+    "audioPhrase": "どうしてビリヤニがすきですか。"
+  },
+  {
+    "id": "iv_32",
+    "number": 32,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "きらいなたべものはなにですか。",
+    "questionRomaji": "Kiraina tabemono wa nan desu ka?",
+    "questionBn": "অপছন্দের খাবার কি?",
+    "answers": [
+      {
+        "jp": "きらいなたべものはとくに ありません。",
+        "romaji": "Kiraina tabemono wa toku ni arimasen.",
+        "bn": "অপছন্দের খাবার বিশেষ কিছু নেই।"
+      }
+    ],
+    "audioPhrase": "きらいなたべものはなにですか。"
+  },
+  {
+    "id": "iv_33",
+    "number": 33,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "すきなのみものはなにですか。",
+    "questionRomaji": "Sukina nomimono wa nan desu ka?",
+    "questionBn": "পছন্দের পানীয় কি?",
+    "answers": [
+      {
+        "jp": "チャイ / コーヒーがすきです。",
+        "romaji": "Chai / koohii ga suki desu.",
+        "bn": "চা / কফি পছন্দ।"
+      }
+    ],
+    "audioPhrase": "すきなのみものはなにですか。"
+  },
+  {
+    "id": "iv_34",
+    "number": 34,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "おさけをのみますか。",
+    "questionRomaji": "Osake o nomimasu ka?",
+    "questionBn": "মদ পান করেন কি?",
+    "answers": [
+      {
+        "jp": "いいえ、ぜんぜんのみません。",
+        "romaji": "Iie, zenzen nomimasen.",
+        "bn": "না, কখনোই পান করি না।"
+      }
+    ],
+    "audioPhrase": "おさけをのみますか。"
+  },
+  {
+    "id": "iv_35",
+    "number": 35,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "うちはどこですか。 (どこにありますか)",
+    "questionRomaji": "Uchi wa doko desu ka?",
+    "questionBn": "বাড়ি কোথায়?",
+    "answers": [
+      {
+        "jp": "ダッカの _Place Name_ にあります。",
+        "romaji": "Dakka no _Place Name_ ni arimasu.",
+        "bn": "ঢাকার ... তে অবস্থিত।"
+      }
+    ],
+    "audioPhrase": "うちはどこですか。 (どこにありますか)"
+  },
+  {
+    "id": "iv_36",
+    "number": 36,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "うちにへやがいくつありますか。",
+    "questionRomaji": "Uchi ni heya ga ikutsu arimasu ka?",
+    "questionBn": "বাড়িতে কয়টি রুম আছে?",
+    "answers": [
+      {
+        "jp": "3つあります。",
+        "romaji": "Mittsu arimasu.",
+        "bn": "৩টি রুম আছে।"
+      }
+    ],
+    "audioPhrase": "うちにへやがいくつありますか。"
+  },
+  {
+    "id": "iv_37",
+    "number": 37,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "うちにじぶんのへやがありますか。",
+    "questionRomaji": "Uchi ni jibun no heya ga arimasu ka?",
+    "questionBn": "বাড়িতে নিজের আলাদা রুম আছে কি?",
+    "answers": [
+      {
+        "jp": "はい、あります。",
+        "romaji": "Hai, arimasu.",
+        "bn": "হ্যাঁ, আছে।"
+      }
+    ],
+    "audioPhrase": "うちにじぶんのへやがありますか。"
+  },
+  {
+    "id": "iv_38",
+    "number": 38,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "じぶんのへやになにがありますか。",
+    "questionRomaji": "Jibun no heya ni nani ga arimasu ka?",
+    "questionBn": "নিজের রুমে কি কি আছে?",
+    "answers": [
+      {
+        "jp": "ベッドやパソコンやつくえやほんだななどがあります。",
+        "romaji": "Beddo ya pasokon ya tsukue ya hondana nado ga arimasu.",
+        "bn": "বিছানা, কম্পিউটার, পড়ার টেবিল, বইয়ের শেলফ ইত্যাদি আছে।"
+      }
+    ],
+    "audioPhrase": "じぶんのへやになにがありますか。"
+  },
+  {
+    "id": "iv_39",
+    "number": 39,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あなたのうちのちかくになにがありますか。",
+    "questionRomaji": "Anata no uchi no chikaku ni nani ga arimasu ka?",
+    "questionBn": "আপনার বাড়ির কাছে কি কি আছে?",
+    "answers": [
+      {
+        "jp": "がっこうやぎんこうやびょういんなどがあります。",
+        "romaji": "Gakkou ya ginkou ya byouin nado ga arimasu.",
+        "bn": "স্কুল, ব্যাংক, হাসপাতাল ইত্যাদি আছে।"
+      }
+    ],
+    "audioPhrase": "あなたのうちのちかくになにがありますか。"
+  },
+  {
+    "id": "iv_40",
+    "number": 40,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんでアルバイトをしますか。",
+    "questionRomaji": "Nihon de arubaito o shimasu ka?",
+    "questionBn": "জাপানে পার্ট-টাইম কাজ (অ্যালবাইত) করবেন?",
+    "answers": [
+      {
+        "jp": "はい、にほんごがうえてになったら、アルバイトをしたいです。",
+        "romaji": "Hai, nihongo ga jouzu ni nattara, arubaito o shitai desu.",
+        "bn": "হ্যাঁ, জাপানিজ ভাষা ভালো হলে পার্ট-টাইম কাজ করতে চাই।"
+      }
+    ],
+    "audioPhrase": "にほんでアルバイトをしますか。"
+  },
+  {
+    "id": "iv_41",
+    "number": 41,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いっしゅうかんになにじかんアルバイトができますか。",
+    "questionRomaji": "Isshuukan ni nanjikan arubaito ga dekimasu ka?",
+    "questionBn": "সপ্তাহে কত ঘণ্টা পার্ট-টাইম কাজ করতে পারবেন?",
+    "answers": [
+      {
+        "jp": "28じかんできます。",
+        "romaji": "Nijuuhachijikan dekimasu.",
+        "bn": "২৮ ঘণ্টা কাজ করতে পারব।"
+      }
+    ],
+    "audioPhrase": "いっしゅうかんになにじかんアルバイトができますか。"
+  },
+  {
+    "id": "iv_42",
+    "number": 42,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんでどんなアルバイトをしたいですか。",
+    "questionRomaji": "Nihon de donna arubaito o shitai desu ka?",
+    "questionBn": "জাপানে কি ধরনের পার্ট-টাইম কাজ করতে চান?",
+    "answers": [
+      {
+        "jp": "コンビニやレストランでアルバイトをしたいです。",
+        "romaji": "Konbini ya resutoran de arubaito o shitai desu.",
+        "bn": "কনভিনি বা রেস্তোরাঁয় কাজ করতে চাই।"
+      }
+    ],
+    "audioPhrase": "にほんでどんなアルバイトをしたいですか。"
+  },
+  {
+    "id": "iv_43",
+    "number": 43,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんでおかねをいくらかせぎたいですか。",
+    "questionRomaji": "Nihon de okane o ikura kasegitai desu ka?",
+    "questionBn": "জাপানে কত টাকা উপার্জন করতে চান?",
+    "answers": [
+      {
+        "jp": "まいつき 8まんえんから10まんえんぐらいかせぎたいです。",
+        "romaji": "Maitsuki hachiman-en kara juuman-en gurai kasegitai desu.",
+        "bn": "প্রতি মাসে প্রায় ৮ থেকে ১০ মান ইয়েন।"
+      }
+    ],
+    "audioPhrase": "にほんでおかねをいくらかせぎたいですか。"
+  },
+  {
+    "id": "iv_44",
+    "number": 44,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんでかせいだおかねはどうしますか。",
+    "questionRomaji": "Nihon de kaseida okane wa dou shimasu ka?",
+    "questionBn": "জাপানে উপার্জিত টাকা দিয়ে কি করবেন?",
+    "answers": [
+      {
+        "jp": "がくひやせいかつひをはらいます。",
+        "romaji": "Gakuhi ya seikatsuhi o haraimasu.",
+        "bn": "টিউশন ফি এবং থাকা-খাওয়ার খরচ দেব।"
+      }
+    ],
+    "audioPhrase": "にほんでかせいだおかねはどうしますか。"
+  },
+  {
+    "id": "iv_45",
+    "number": 45,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あさ、なんじにおきますか。",
+    "questionRomaji": "Asa, nanji ni okimasu ka?",
+    "questionBn": "সকালে কয়টায় ঘুম থেকে উঠেন?",
+    "answers": [
+      {
+        "jp": "あさ 6じにおきます。",
+        "romaji": "Asa rokuji ni okimasu.",
+        "bn": "সকাল ৬টায় ঘুম থেকে উঠি।"
+      }
+    ],
+    "audioPhrase": "あさ、なんじにおきますか。"
+  },
+  {
+    "id": "iv_46",
+    "number": 46,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "よる、なんじにねますか。",
+    "questionRomaji": "Yoru, nanji ni nemasu ka?",
+    "questionBn": "রাতে কয়টায় ঘুমান?",
+    "answers": [
+      {
+        "jp": "よる 11じにねます。",
+        "romaji": "Yoru juuichiji ni nemasu.",
+        "bn": "রাত ১১টায় ঘুমাই।"
+      }
+    ],
+    "audioPhrase": "よる、なんじにねますか。"
+  },
+  {
+    "id": "iv_47",
+    "number": 47,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "きのうのよる、なんじにねましたか。",
+    "questionRomaji": "Kinou no yoru, nanji ni nemashita ka?",
+    "questionBn": "গত রাতে কয়টায় ঘুমিয়েছিলেন?",
+    "answers": [
+      {
+        "jp": "きのうのよる 11じはんにねました。",
+        "romaji": "Kinou no yoru juuichijihan ni nemashita.",
+        "bn": "গত রাতে সাড়ে ১১টায় ঘুমিয়েছিলাম।"
+      }
+    ],
+    "audioPhrase": "きのうのよる、なんじにねましたか。"
+  },
+  {
+    "id": "iv_48",
+    "number": 48,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いまあさ、なんじにおきましたか。",
+    "questionRomaji": "Kesa, nanji ni okimashita ka?",
+    "questionBn": "আজ সকালে কয়টায় উঠেছেন?",
+    "answers": [
+      {
+        "jp": "いまあさ 6じにおきました。",
+        "romaji": "Kesa rokuji ni okimashita.",
+        "bn": "আজ সকাল ৬টায় উঠেছি।"
+      }
+    ],
+    "audioPhrase": "いまあさ、なんじにおきましたか。"
+  },
+  {
+    "id": "iv_49",
+    "number": 49,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "なにじかんぐらいねますか。",
+    "questionRomaji": "Nanjikan gurai nemasu ka?",
+    "questionBn": "দৈনিক কত ঘণ্টা ঘুমান?",
+    "answers": [
+      {
+        "jp": "7じかんぐらいねます。",
+        "romaji": "Shichijikan gurai nemasu.",
+        "bn": "প্রায় ৭ ঘণ্টা ঘুমাই।"
+      }
+    ],
+    "audioPhrase": "なにじかんぐらいねますか。"
+  },
+  {
+    "id": "iv_50",
+    "number": 50,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いまあさ、あさごはんをたべましたか。",
+    "questionRomaji": "Kesa, asagohan o tabemashita ka?",
+    "questionBn": "আজ সকালে নাস্তা খেয়েছেন কি?",
+    "answers": [
+      {
+        "jp": "はい、たべました。",
+        "romaji": "Hai, tabemashita.",
+        "bn": "হ্যাঁ, খেয়েছি।"
+      },
+      {
+        "jp": "いいえ、まだたべていません。",
+        "romaji": "Iie, mada tabete imasen.",
+        "bn": "না, এখনো খাইনি।"
+      }
+    ],
+    "audioPhrase": "いまあさ、あさごはんをたべましたか。"
+  },
+  {
+    "id": "iv_51",
+    "number": 51,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あさごはんになにをたべましたか。",
+    "questionRomaji": "Asagohan ni nani o tabemashita ka?",
+    "questionBn": "সকালের নাস্তায় কি খেয়েছেন?",
+    "answers": [
+      {
+        "jp": "パンとたまごをたべました。そして、チャイをのみました。",
+        "romaji": "Pan to tamago o tabemashita. Soshite, chai o nomimashita.",
+        "bn": "পাউরুটি ও ডিম খেয়েছি। এবং চা পান করেছি।"
+      }
+    ],
+    "audioPhrase": "あさごはんになにをたべましたか。"
+  },
+  {
+    "id": "iv_52",
+    "number": 52,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だれとあさごはんをたべましたか。",
+    "questionRomaji": "Dare to asagohan o tabemashita ka?",
+    "questionBn": "কার সাথে সকালের নাস্তা খেয়েছেন?",
+    "answers": [
+      {
+        "jp": "かぞくといっしょにたべました。",
+        "romaji": "Kazoku to issho ni tabemashita.",
+        "bn": "পরিবারের সাথে একসাথে খেয়েছি।"
+      }
+    ],
+    "audioPhrase": "だれとあさごはんをたべましたか。"
+  },
+  {
+    "id": "iv_53",
+    "number": 53,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "おきたあと、なにをしましたか。",
+    "questionRomaji": "Okita ato, nani o shimashita ka?",
+    "questionBn": "ঘুম থেকে উঠার পর কি করেছেন?",
+    "answers": [
+      {
+        "jp": "おいのりをして、それからにほんごをべんきょうしました。",
+        "romaji": "Oinori o shite, sore kara nihongo o benkyou shimashita.",
+        "bn": "নামাজ পড়েছি, তারপর জাপানিজ ভাষা পড়াশোনা করেছি।"
+      }
+    ],
+    "audioPhrase": "おきたあと、なにをしましたか。"
+  },
+  {
+    "id": "iv_54",
+    "number": 54,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あさおきて、なにをしましたか。",
+    "questionRomaji": "Asa okite, nani o shimashita ka?",
+    "questionBn": "সকালে উঠে কি করেছেন?",
+    "answers": [
+      {
+        "jp": "シャワーを あびて、おいのりをして、あさごはんをたべて、がっこうにきました。",
+        "romaji": "Shawaa o abite, oinori o shite, asagohan o tabete, gakkou ni kimashita.",
+        "bn": "গোসল করে, নামাজ পড়ে, সকালের নাস্তা খেয়ে স্কুলে এসেছি।"
+      }
+    ],
+    "audioPhrase": "あさおきて、なにをしましたか。"
+  },
+  {
+    "id": "iv_55",
+    "number": 55,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "なぜ6じにおきましたか。",
+    "questionRomaji": "Naze rokuji ni okimashita ka?",
+    "questionBn": "কেন ৬টায় উঠেছেন?",
+    "answers": [
+      {
+        "jp": "わたしはいつも6じにおきていますから。",
+        "romaji": "Watashi wa itsumo rokuji ni okite imasu kara.",
+        "bn": "আমি সবসময়ই সকাল ৬টায় উঠি তাই।"
+      }
+    ],
+    "audioPhrase": "なぜ6じにおきましたか。"
+  },
+  {
+    "id": "iv_56",
+    "number": 56,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "きのうのばん、なにをたべましたか。",
+    "questionRomaji": "Kinou no ban, nani o tabemashita ka?",
+    "questionBn": "গত রাতে কি খেয়েছিলেন?",
+    "answers": [
+      {
+        "jp": "ごはんとさかなとやさいをたべました。",
+        "romaji": "Gohan to sakana to yasai o tabemashita.",
+        "bn": "ভাত, মাছ এবং সবজি খেয়েছি।"
+      }
+    ],
+    "audioPhrase": "きのうのばん、なにをたべましたか。"
+  },
+  {
+    "id": "iv_57",
+    "number": 57,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "きのうのばん、なにをしましたか。",
+    "questionRomaji": "Kinou no ban, nani o shimashita ka?",
+    "questionBn": "গত রাতে কি করেছেন?",
+    "answers": [
+      {
+        "jp": "にほんごをべんきょうして、ばんごはんをたべて、テレビをみました。",
+        "romaji": "Nihongo o benkyou shite, bangohan o tabete, terebi o mimashita.",
+        "bn": "জাপানিজ ভাষা পড়ে, রাতের খাবার খেয়ে টিভি দেখেছি।"
+      }
+    ],
+    "audioPhrase": "きのうのばん、なにをしましたか。"
+  },
+  {
+    "id": "iv_58",
+    "number": 58,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あした、なにをしますか。",
+    "questionRomaji": "Ashita, nani o shimasu ka?",
+    "questionBn": "আগামীকাল কি করবেন?",
+    "answers": [
+      {
+        "jp": "あした べんきょうしたり、えいがをみたり、クリケットをしたりします。",
+        "romaji": "Ashita benkyou shitari, eiga o mitari, kuriketto o shitari shimasu.",
+        "bn": "আগামীকাল পড়াশোনা করব, সিনেমা দেখব, ক্রিকেট খেলব।"
+      }
+    ],
+    "audioPhrase": "あした、なにをしますか。"
+  },
+  {
+    "id": "iv_59",
+    "number": 59,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "きのう、なにをしましたか。",
+    "questionRomaji": "Kinou, nani o shimashita ka?",
+    "questionBn": "গতকাল কি করেছিলেন?",
+    "answers": [
+      {
+        "jp": "きのう こうえんをさんぽしたり、ともだちとあそんだり、にほんごをべんきょうしたりしました。",
+        "romaji": "Kinou kouen o sanpo shitari, tomodachi to asondari, nihongo o benkyou shitari shimashita.",
+        "bn": "গতকাল পার্কে হেঁটেছি, বন্ধুদের সাথে আড্ডা দিয়েছি, জাপানিজ পড়েছি।"
+      }
+    ],
+    "audioPhrase": "きのう、なにをしましたか。"
+  },
+  {
+    "id": "iv_60",
+    "number": 60,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "もうひるごはんをたべましたか。",
+    "questionRomaji": "Mou hirugohan o tabemashita ka?",
+    "questionBn": "দুপুরের খাবার ইতিমধ্যে খেয়েছেন কি?",
+    "answers": [
+      {
+        "jp": "はい、もうたべました。",
+        "romaji": "Hai, mou tabemashita.",
+        "bn": "হ্যাঁ, ইতিমধ্যে খেয়েছি।"
+      },
+      {
+        "jp": "いいえ、まだです。",
+        "romaji": "Iie, mada desu.",
+        "bn": "না, এখনো খাইনি।"
+      }
+    ],
+    "audioPhrase": "もうひるごはんをたべましたか。"
+  },
+  {
+    "id": "iv_61",
+    "number": 61,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どこでひるごはんをたべますか。",
+    "questionRomaji": "Doko de hirugohan o tabemasu ka?",
+    "questionBn": "কোথায় দুপুরের খাবার খান?",
+    "answers": [
+      {
+        "jp": "がっこうのたどうでたべます。 / うちでたべます。",
+        "romaji": "Gakkou no shokudou de tabemasu. / Uchi de tabemasu.",
+        "bn": "স্কুলের ক্যাফেটেরিয়ায় খাই / বাসায় খাই।"
+      }
+    ],
+    "audioPhrase": "どこでひるごはんをたべますか。"
+  },
+  {
+    "id": "iv_62",
+    "number": 62,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だれとひるごはんをたべましたか。",
+    "questionRomaji": "Dare to hirugohan o tabemashita ka?",
+    "questionBn": "কার সাথে দুপুরের খাবার খেয়েছেন?",
+    "answers": [
+      {
+        "jp": "ともだちといっしょにたべました。",
+        "romaji": "Tomodachi to issho ni tabemashita.",
+        "bn": "বন্ধুদের সাথে একসাথে খেয়েছি।"
+      }
+    ],
+    "audioPhrase": "だれとひるごはんをたべましたか。"
+  },
+  {
+    "id": "iv_63",
+    "number": 63,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "きょう、なんじにおきましたか。",
+    "questionRomaji": "Kyou, nanji ni okimashita ka?",
+    "questionBn": "আজ কয়টায় উঠেছেন?",
+    "answers": [
+      {
+        "jp": "6じにおきました。",
+        "romaji": "Rokuji ni okimashita.",
+        "bn": "৬টায় উঠেছি।"
+      }
+    ],
+    "audioPhrase": "きょう、なんじにおきましたか。"
+  },
+  {
+    "id": "iv_64",
+    "number": 64,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いまあさ、なんじにうちをでましたか。",
+    "questionRomaji": "Kesa, nanji ni uchi o demashita ka?",
+    "questionBn": "আজ সকালে কয়টায় বাসা থেকে বের হয়েছেন?",
+    "answers": [
+      {
+        "jp": "7ときはんにでました。",
+        "romaji": "Shichijihan ni demashita.",
+        "bn": "সাড়ে ৭টায় বের হয়েছি।"
+      }
+    ],
+    "audioPhrase": "いまあさ、なんじにうちをでましたか。"
+  },
+  {
+    "id": "iv_65",
+    "number": 65,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "がっこうへなんじにつきましたか。",
+    "questionRomaji": "Gakkou e nanji ni tsukimashita ka?",
+    "questionBn": "স্কুলে কয়টায় পৌঁছেছেন?",
+    "answers": [
+      {
+        "jp": "8じ45ふんにつきました。",
+        "romaji": "Hachiji yonjuugofun ni tsukimashita.",
+        "bn": "৮টা ৪৫ মিনিটে পৌঁছেছি।"
+      }
+    ],
+    "audioPhrase": "がっこうへなんじにつきましたか。"
+  },
+  {
+    "id": "iv_66",
+    "number": 66,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どうやってがっこうにきましたか。",
+    "questionRomaji": "Dou yatte gakkou ni kimashita ka?",
+    "questionBn": "কিভাবে স্কুলে এসেছেন?",
+    "answers": [
+      {
+        "jp": "バスできました。",
+        "romaji": "Basu de kimashita.",
+        "bn": "বাসে করে এসেছি।"
+      }
+    ],
+    "audioPhrase": "どうやってがっこうにきましたか。"
+  },
+  {
+    "id": "iv_67",
+    "number": 67,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どのくらいじかんがかかりましたか。",
+    "questionRomaji": "Dono kurai jikan ga kakarimashita ka?",
+    "questionBn": "কত সময় লেগেছে?",
+    "answers": [
+      {
+        "jp": "1じかんぐらいかかりました。",
+        "romaji": "Ichijikan gurai kakarimashita.",
+        "bn": "প্রায় ১ ঘণ্টা লেগেছে।"
+      }
+    ],
+    "audioPhrase": "どのくらいじかんがかかりましたか。"
+  },
+  {
+    "id": "iv_68",
+    "number": 68,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "バスだいはいくらですか。",
+    "questionRomaji": "Basudai wa ikura desu ka?",
+    "questionBn": "বাস ভাড়া কত?",
+    "answers": [
+      {
+        "jp": "40タカです。",
+        "romaji": "Yonjuu taka desu.",
+        "bn": "৪০ টাকা।"
+      }
+    ],
+    "audioPhrase": "バスだいはいくらですか。"
+  },
+  {
+    "id": "iv_69",
+    "number": 69,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だれときましたか。",
+    "questionRomaji": "Dare to kimashita ka?",
+    "questionBn": "কার সাথে এসেছেন?",
+    "answers": [
+      {
+        "jp": "ひとりできました。 / ともだちときました。",
+        "romaji": "Hitori de kimashita. / Tomodachi to kimashita.",
+        "bn": "একা এসেছি / বন্ধুর সাথে এসেছি।"
+      }
+    ],
+    "audioPhrase": "だれときましたか。"
+  },
+  {
+    "id": "iv_70",
+    "number": 70,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "やすみのひはいつですか。",
+    "questionRomaji": "Yasumi no hi wa itsu desu ka?",
+    "questionBn": "ছুটির দিন কবে?",
+    "answers": [
+      {
+        "jp": "きんようびとどようびです。",
+        "romaji": "Kinyoubi to doyoubi desu.",
+        "bn": "শুক্রবার ও শনিবার।"
+      }
+    ],
+    "audioPhrase": "やすみのひはいつですか。"
+  },
+  {
+    "id": "iv_71",
+    "number": 71,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "やすみのひはなにをしますか。",
+    "questionRomaji": "Yasumi no hi wa nani o shimasu ka?",
+    "questionBn": "ছুটির দিনে কি করেন?",
+    "answers": [
+      {
+        "jp": "やすみのひはへやをそうじしたり、にほんごをふくしゅうしたりします。",
+        "romaji": "Yasumi no hi wa heya o souji shitari, nihongo o fukushuu shitari shimasu.",
+        "bn": "ছুটির দিনে রুম পরিষ্কার করি এবং জাপানিজ রিভিশন দিই।"
+      }
+    ],
+    "audioPhrase": "やすみのひはなにをしますか。"
+  },
+  {
+    "id": "iv_72",
+    "number": 72,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "いままでにほんへいったことがありますか。",
+    "questionRomaji": "Ima made Nihon e itta koto ga arimasu ka?",
+    "questionBn": "এখন পর্যন্ত জাপানে যাওয়ার অভিজ্ঞতা আছে কি?",
+    "answers": [
+      {
+        "jp": "いいえ、いちどもありません。",
+        "romaji": "Iie, ichidomo arimasen.",
+        "bn": "না, একবারও যাইনি।"
+      }
+    ],
+    "audioPhrase": "いままでにほんへいったことがありますか。"
+  },
+  {
+    "id": "iv_73",
+    "number": 73,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "うみそとへいったことがありますか。",
+    "questionRomaji": "Kaigai e itta koto ga arimasu ka?",
+    "questionBn": "বিদেশে যাওয়ার অভিজ্ঞতা আছে কি?",
+    "answers": [
+      {
+        "jp": "いいえ、ありません。",
+        "romaji": "Iie, arimasen.",
+        "bn": "না, নেই।"
+      },
+      {
+        "jp": "はい、インドへいったことがあります。",
+        "romaji": "Hai, Indo e itta koto ga arimasu.",
+        "bn": "হ্যাঁ, ভারতে যাওয়ার অভিজ্ঞতা আছে।"
+      }
+    ],
+    "audioPhrase": "うみそとへいったことがありますか。"
+  },
+  {
+    "id": "iv_74",
+    "number": 74,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "だれといきましたか。",
+    "questionRomaji": "Dare to ikimashita ka?",
+    "questionBn": "কার সাথে গিয়েছিলেন?",
+    "answers": [
+      {
+        "jp": "かぞくといきました。 / ともだちといきました。",
+        "romaji": "Kazoku to ikimashita. / Tomodachi to ikimashita.",
+        "bn": "পরিবারের সাথে / বন্ধুর সাথে গিয়েছি।"
+      }
+    ],
+    "audioPhrase": "だれといきましたか。"
+  },
+  {
+    "id": "iv_75",
+    "number": 75,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "なにでいきましたか。",
+    "questionRomaji": "Nan de ikimashita ka?",
+    "questionBn": "কিসে করে গিয়েছিলেন?",
+    "answers": [
+      {
+        "jp": "ひこうきでいきました。 / バスでいきました。",
+        "romaji": "Hikouki de ikimashita. / Basu de ikimashita.",
+        "bn": "বিমানে / বাসে করে গিয়েছি।"
+      }
+    ],
+    "audioPhrase": "なにでいきましたか。"
+  },
+  {
+    "id": "iv_76",
+    "number": 76,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "どのくらいたいざいしましたか。",
+    "questionRomaji": "Dono kurai taizai shimashita ka?",
+    "questionBn": "কতদিন ছিলেন?",
+    "answers": [
+      {
+        "jp": "いっしゅうかんぐらいたいざいしました。",
+        "romaji": "Isshuukan gurai taizai shimashita.",
+        "bn": "প্রায় এক সপ্তাহ ছিলাম।"
+      }
+    ],
+    "audioPhrase": "どのくらいたいざいしましたか。"
+  },
+  {
+    "id": "iv_77",
+    "number": 77,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "それはどんなところでしたか。",
+    "questionRomaji": "Sore wa donna tokoro deshita ka?",
+    "questionBn": "সেটা কেমন জায়গা ছিল?",
+    "answers": [
+      {
+        "jp": "とてもきれいで、にぎやかなところでした。",
+        "romaji": "Totemo kirei de, nigiyakana tokoro deshita.",
+        "bn": "খুব সুন্দর এবং জমজমাট জায়গা ছিল।"
+      }
+    ],
+    "audioPhrase": "それはどんなところでしたか。"
+  },
+  {
+    "id": "iv_78",
+    "number": 78,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あなたのちょうしょはなにですか。",
+    "questionRomaji": "Anata no choushou wa nan desu ka?",
+    "questionBn": "আপনার ভালো গুণ (Strength) কি?",
+    "answers": [
+      {
+        "jp": "わたしのちょうしょは、じかんを まもることと、まじめなところです。",
+        "romaji": "Watashi no choushou wa, jikan o mamoru koto to, majimena tokoro desu.",
+        "bn": "আমার ভালো গুণ হলো সময়ানুবর্তিতা এবং নিষ্ঠাবান হওয়া।"
+      }
+    ],
+    "audioPhrase": "あなたのちょうしょはなにですか。"
+  },
+  {
+    "id": "iv_79",
+    "number": 79,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "あなたのたんしょはなにですか。 (よわてんはなにですか)",
+    "questionRomaji": "Anata no tanshou wa nan desu ka?",
+    "questionBn": "আপনার দুর্বলতা (Weakness) কি?",
+    "answers": [
+      {
+        "jp": "わたしのたんしょは、しんぱいしょうなところですが、いつもじゅんびをしっかりします。",
+        "romaji": "Watashi no tanshou wa, shinpai-shouna tokoro desu ga, itsumo junbi o shikkari shimasu.",
+        "bn": "আমার দুর্বলতা কিছুটা উদ্বিগ্ন হওয়া, তবে আমি সবসময় ভালো প্রস্তুতি নিই।"
+      }
+    ],
+    "audioPhrase": "あなたのたんしょはなにですか。 (よわてんはなにですか)"
+  },
+  {
+    "id": "iv_80",
+    "number": 80,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "けんこうはどうですか。",
+    "questionRomaji": "Kenkou wa dou desu ka?",
+    "questionBn": "শরীর/স্বাস্থ্য কেমন?",
+    "answers": [
+      {
+        "jp": "とてもげんきです。びょうきのしんぱいはありません。",
+        "romaji": "Totemo genki desu. Byouki no shinpai wa arimasen.",
+        "bn": "খুব সুস্থ আছি। কোনো অসুস্থতা নেই।"
+      }
+    ],
+    "audioPhrase": "けんこうはどうですか。"
+  },
+  {
+    "id": "iv_81",
+    "number": 81,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "タバコをすいますか。",
+    "questionRomaji": "Tabako o suimasu ka?",
+    "questionBn": "ধূমপান করেন কি?",
+    "answers": [
+      {
+        "jp": "いいえ、すいません。",
+        "romaji": "Iie, suimasen.",
+        "bn": "না, করি না।"
+      }
+    ],
+    "audioPhrase": "タバコをすいますか。"
+  },
+  {
+    "id": "iv_82",
+    "number": 82,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "しょうらいのゆめはなにですか。",
+    "questionRomaji": "Shourai no yume wa nan desu ka?",
+    "questionBn": "ভবিষ্যতের স্বপ্ন কি?",
+    "answers": [
+      {
+        "jp": "しょうらい、ITエンジニア / ビジネスマンになりたいです。",
+        "romaji": "Shourai, IT enjinia / bijinesuman ni naritai desu.",
+        "bn": "ভবিষ্যতে আইটি ইঞ্জিনিয়ার / ব্যবসায়ী হতে চাই।"
+      }
+    ],
+    "audioPhrase": "しょうらいのゆめはなにですか。"
+  },
+  {
+    "id": "iv_83",
+    "number": 83,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんからかえったらなにをしますか。",
+    "questionRomaji": "Nihon kara kaettara nani o shimasu ka?",
+    "questionBn": "জাপান থেকে দেশে ফিরলে কি করবেন?",
+    "answers": [
+      {
+        "jp": "バングラデシュでにっけいきぎょうではたらくか、じぶんのかいしゃをつくりたいです。",
+        "romaji": "Banguradeshu de nikkei kigyou de hataraku ka, jibun no kaisha o tsukuritai desu.",
+        "bn": "বাংলাদেশে জাপানি কোম্পানিতে চাকরি করব অথবা নিজের ব্যবসা গড়ব।"
+      }
+    ],
+    "audioPhrase": "にほんからかえったらなにをしますか。"
+  },
+  {
+    "id": "iv_84",
+    "number": 84,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "パスポートをもっていますか。",
+    "questionRomaji": "Pasupooto o motte imasu ka?",
+    "questionBn": "পাসপোর্ট আছে কি?",
+    "answers": [
+      {
+        "jp": "はい、もっています。",
+        "romaji": "Hai, motte imasu.",
+        "bn": "হ্যাঁ, আছে।"
+      }
+    ],
+    "audioPhrase": "パスポートをもっていますか。"
+  },
+  {
+    "id": "iv_85",
+    "number": 85,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "パスポートのゆうこうきげんはいつまでですか。",
+    "questionRomaji": "Pasupooto no yuukoukigen wa itsu made desu ka?",
+    "questionBn": "পাসপোর্টের মেয়াদ কবে পর্যন্ত?",
+    "answers": [
+      {
+        "jp": "_Year_ ねんの _Month_ がつまでです。",
+        "romaji": "_Year_ nen no _Month_ gatsu made desu.",
+        "bn": "... সালের ... মাস পর্যন্ত।"
+      }
+    ],
+    "audioPhrase": "パスポートのゆうこうきげんはいつまでですか。"
+  },
+  {
+    "id": "iv_86",
+    "number": 86,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "うんてんめんきょをもっていますか。",
+    "questionRomaji": "Unten menkyo o motte imasu ka?",
+    "questionBn": "ড্রাইভিং লাইসেন্স আছে কি?",
+    "answers": [
+      {
+        "jp": "いいえ、もっていません。",
+        "romaji": "Iie, motte imasen.",
+        "bn": "না, নেই।"
+      },
+      {
+        "jp": "はい、バイクのめんきょをもっています。",
+        "romaji": "Hai, baiku no menkyo o motte imasu.",
+        "bn": "হ্যাঁ, বাইকের লাইসেন্স আছে।"
+      }
+    ],
+    "audioPhrase": "うんてんめんきょをもっていますか。"
+  },
+  {
+    "id": "iv_87",
+    "number": 87,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんのぶんかでなにがすきですか。",
+    "questionRomaji": "Nihon no bunka de nani ga suki desu ka?",
+    "questionBn": "জাপানি সংস্কৃতির কি পছন্দ?",
+    "answers": [
+      {
+        "jp": "れいぎただしいところと、じかんを まもるぶんかがすきです。",
+        "romaji": "Reigitadashii tokoro to, jikan o mamoru bunka ga suki desu.",
+        "bn": "ভদ্র আচরণ এবং সময়ানুবর্তিতা সংস্কৃতি পছন্দ।"
+      }
+    ],
+    "audioPhrase": "にほんのぶんかでなにがすきですか。"
+  },
+  {
+    "id": "iv_88",
+    "number": 88,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "さむさはだいじょうぶですか。",
+    "questionRomaji": "Samusa wa daijoubu desu ka?",
+    "questionBn": "শীত সহ্য করতে পারবেন কি?",
+    "answers": [
+      {
+        "jp": "はい、あたたかいふくをきればだいじょうぶです。",
+        "romaji": "Hai, atatakai fuku o kireba daijoubu desu.",
+        "bn": "হ্যাঁ, শীতের গরম পোশাক পরলে কোনো সমস্যা হবে না।"
+      }
+    ],
+    "audioPhrase": "さむさはだいじょうぶですか。"
+  },
+  {
+    "id": "iv_89",
+    "number": 89,
+    "category": "Myself",
+    "categoryBn": "নিজের সম্পর্কে",
+    "questionJp": "にほんにいくじゅんびはできていますか。",
+    "questionRomaji": "Nihon ni iku junbi wa dekite imasu ka?",
+    "questionBn": "জাপান যাওয়ার প্রস্তুতি সম্পন্ন হয়েছে কি?",
+    "answers": [
+      {
+        "jp": "はい、じゅんびはしっかりできています。",
+        "romaji": "Hai, junbi wa shikkari dekite imasu.",
+        "bn": "হ্যাঁ, সব প্রস্তুতি সম্পূর্ণ করেছি।"
+      }
+    ],
+    "audioPhrase": "にほんにいくじゅんびはできていますか。"
+  },
+  {
+    "id": "iv_90",
+    "number": 90,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "ほしょうにんはだれですか。 (けいひしべんしゃはだれですか / スポンサーはだれですか)",
+    "questionRomaji": "Hoshounin wa dare desu ka?",
+    "questionBn": "আপনার গ্যারান্টার / খরচ প্রদানকারী কে?",
+    "answers": [
+      {
+        "jp": "ちちです。",
+        "romaji": "Chichi desu.",
+        "bn": "আমার বাবা।"
+      },
+      {
+        "jp": "ははです。",
+        "romaji": "Haha desu.",
+        "bn": "আমার মা।"
+      }
+    ],
+    "audioPhrase": "ほしょうにんはだれですか。 (けいひしべんしゃはだれですか / スポンサーはだれですか)"
+  },
+  {
+    "id": "iv_91",
+    "number": 91,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "がくひはだれがはらいますか。",
+    "questionRomaji": "Gakuhi wa dare ga haraimasu ka?",
+    "questionBn": "টিউশন ফি কে পরিশোধ করবে?",
+    "answers": [
+      {
+        "jp": "ちちがはらいます。",
+        "romaji": "Chichi ga haraimasu.",
+        "bn": "বাবা পরিশোধ করবেন।"
+      }
+    ],
+    "audioPhrase": "がくひはだれがはらいますか。"
+  },
+  {
+    "id": "iv_92",
+    "number": 92,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "ほしょうにんはなにをしていますか。",
+    "questionRomaji": "Hoshounin wa nani o shite imasu ka?",
+    "questionBn": "গ্যারান্টার কি কাজ করেন?",
+    "answers": [
+      {
+        "jp": "しょうばいをしています。 / ビジネスをしています。",
+        "romaji": "Shoubai o shite imasu. / Bijinesu o shite imasu.",
+        "bn": "ব্যবসা করেন।"
+      }
+    ],
+    "audioPhrase": "ほしょうにんはなにをしていますか。"
+  },
+  {
+    "id": "iv_93",
+    "number": 93,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "どんなビジネスをしていますか。 (なんのしょうばいをしていますか)",
+    "questionRomaji": "Donna bijinesu o shite imasu ka?",
+    "questionBn": "কি ধরনের ব্যবসা করেন?",
+    "answers": [
+      {
+        "jp": "_Business Category_ のしょうばいをしています。",
+        "romaji": "_Business Category_ no shoubai o shite imasu.",
+        "bn": "... পণ্যের ব্যবসা করেন।"
+      }
+    ],
+    "audioPhrase": "どんなビジネスをしていますか。 (なんのしょうばいをしていますか)"
+  },
+  {
+    "id": "iv_94",
+    "number": 94,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "ほしょうにんはいつからしょうばいをしていますか。",
+    "questionRomaji": "Hoshounin wa itsu kara shoubai o shite imasu ka?",
+    "questionBn": "গ্যারান্টার কখন থেকে ব্যবসা করছেন?",
+    "answers": [
+      {
+        "jp": "5ねんまえからしょうばいをしています。",
+        "romaji": "Gonen mae kara shoubai o shite imasu.",
+        "bn": "৫ বছর আগে থেকে ব্যবসা করছেন।"
+      }
+    ],
+    "audioPhrase": "ほしょうにんはいつからしょうばいをしていますか。"
+  },
+  {
+    "id": "iv_95",
+    "number": 95,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "ほしょうにんのかいしゃでなんにんはたらいていますか。",
+    "questionRomaji": "Hoshounin no kaisha de nannin hataraite imasu ka?",
+    "questionBn": "গ্যারান্টারের কোম্পানিতে কতজন কাজ করে?",
+    "answers": [
+      {
+        "jp": "はちにんはたらいています。",
+        "romaji": "Hachinin hataraite imasu.",
+        "bn": "৮ জন কর্মী কাজ করে।"
+      }
+    ],
+    "audioPhrase": "ほしょうにんのかいしゃでなんにんはたらいていますか。"
+  },
+  {
+    "id": "iv_96",
+    "number": 96,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おおきいかいしゃですか。 (おおきいみせですか)",
+    "questionRomaji": "Ookii kaisha desu ka?",
+    "questionBn": "কোম্পানিটি কি বড়?",
+    "answers": [
+      {
+        "jp": "はい、おおきいかいしゃです。",
+        "romaji": "Hai, ookii kaisha desu.",
+        "bn": "হ্যাঁ, বড় কোম্পানি।"
+      },
+      {
+        "jp": "はい、おおきなおみせです。",
+        "romaji": "Hai, ookina omise desu.",
+        "bn": "হ্যাঁ, বড় দোকান।"
+      }
+    ],
+    "audioPhrase": "おおきいかいしゃですか。 (おおきいみせですか)"
+  },
+  {
+    "id": "iv_97",
+    "number": 97,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "ほしょうにんのねんしゅうはいくらですか。 (きゅうりょうはいくらですか)",
+    "questionRomaji": "Hoshounin no nenshuu wa ikura desu ka?",
+    "questionBn": "গ্যারান্টারের বার্ষিক আয় / মাসিক বেতন কত?",
+    "answers": [
+      {
+        "jp": "ねんしゅうは 360まんタカです。 (げっきゅうはおよそ 30まんタカ)",
+        "romaji": "Nenshuu wa sanbyakurokujuuman taka desu.",
+        "bn": "বার্ষিক আয় ৩৬০ মান টাকা (মাসে প্রায় ৩০ মান টাকা)।"
+      }
+    ],
+    "audioPhrase": "ほしょうにんのねんしゅうはいくらですか。 (きゅうりょうはいくらですか)"
+  },
+  {
+    "id": "iv_98",
+    "number": 98,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "ちょきんはいくらありますか。 (じゅんびはできましたか)",
+    "questionRomaji": "Chokin wa ikura arimasu ka?",
+    "questionBn": "সঞ্চয় কত আছে? সঞ্চয়ের প্রস্তুতি নেওয়া হয়েছে?",
+    "answers": [
+      {
+        "jp": "はい、もうじゅんびできました。",
+        "romaji": "Hai, mou junbi dekimashita.",
+        "bn": "হ্যাঁ, ইতিমধ্যে প্রস্তুতি নেওয়া হয়েছে।"
+      }
+    ],
+    "audioPhrase": "ちょきんはいくらありますか。 (じゅんびはできましたか)"
+  },
+  {
+    "id": "iv_99",
+    "number": 99,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "いくらちょきんができましたか。",
+    "questionRomaji": "Ikura chokin ga dekimashita ka?",
+    "questionBn": "কত টাকা সঞ্চয় প্রস্তুত হয়েছে?",
+    "answers": [
+      {
+        "jp": "310まんタカぐらいです。",
+        "romaji": "Sanbyakujuuman taka gurai desu.",
+        "bn": "প্রায় ৩১০ মান টাকা।"
+      }
+    ],
+    "audioPhrase": "いくらちょきんができましたか。"
+  },
+  {
+    "id": "iv_100",
+    "number": 100,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おちちさんのなまえはなにですか。",
+    "questionRomaji": "Otousan no namae wa nan desu ka?",
+    "questionBn": "আপনার বাবার নাম কি?",
+    "answers": [
+      {
+        "jp": "_Father's Name_ です。",
+        "romaji": "_Father's Name_ desu.",
+        "bn": "... আমার বাবা।"
+      }
+    ],
+    "audioPhrase": "おちちさんのなまえはなにですか。"
+  },
+  {
+    "id": "iv_101",
+    "number": 101,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おちちさんはなんさいですか。",
+    "questionRomaji": "Otousan wa nansai desu ka?",
+    "questionBn": "আপনার বাবার বয়স কত?",
+    "answers": [
+      {
+        "jp": "_Father's Age_ さいです。",
+        "romaji": "_Father's Age_ sai desu.",
+        "bn": "... বছর।"
+      }
+    ],
+    "audioPhrase": "おちちさんはなんさいですか。"
+  },
+  {
+    "id": "iv_102",
+    "number": 102,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おちちさんはなにをしていますか。",
+    "questionRomaji": "Otousan wa nani o shite imasu ka?",
+    "questionBn": "আপনার বাবা কি করেন?",
+    "answers": [
+      {
+        "jp": "しょうばいをしています。",
+        "romaji": "Shoubai o shite imasu.",
+        "bn": "ব্যবসা করেন।"
+      }
+    ],
+    "audioPhrase": "おちちさんはなにをしていますか。"
+  },
+  {
+    "id": "iv_103",
+    "number": 103,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おちちさんはどんなにんですか。",
+    "questionRomaji": "Otousan wa donna hito desu ka?",
+    "questionBn": "আপনার বাবা কেমন মানুষ?",
+    "answers": [
+      {
+        "jp": "ハンサムでしんせつなにんです。",
+        "romaji": "Hansamu de shinsetsu na hito desu.",
+        "bn": "সুদর্শন এবং দয়ালু মানুষ।"
+      }
+    ],
+    "audioPhrase": "おちちさんはどんなにんですか。"
+  },
+  {
+    "id": "iv_104",
+    "number": 104,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おちちさんのかいしゃのなまえはなにですか。",
+    "questionRomaji": "Otousan no kaisha no namae wa nan desu ka?",
+    "questionBn": "বাবার কোম্পানির নাম কি?",
+    "answers": [
+      {
+        "jp": "_Company Name_ です。",
+        "romaji": "_Company Name_ desu.",
+        "bn": "... কোম্পানি।"
+      }
+    ],
+    "audioPhrase": "おちちさんのかいしゃのなまえはなにですか。"
+  },
+  {
+    "id": "iv_105",
+    "number": 105,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おははさんのなまえはなにですか。",
+    "questionRomaji": "Okaasan no namae wa nan desu ka?",
+    "questionBn": "আপনার মায়ের নাম কি?",
+    "answers": [
+      {
+        "jp": "_Mother's Name_ です。",
+        "romaji": "_Mother's Name_ desu.",
+        "bn": "... আমার মা।"
+      }
+    ],
+    "audioPhrase": "おははさんのなまえはなにですか。"
+  },
+  {
+    "id": "iv_106",
+    "number": 106,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おははさんはなにをしていますか。",
+    "questionRomaji": "Okaasan wa nani o shite imasu ka?",
+    "questionBn": "আপনার মা কি করেন?",
+    "answers": [
+      {
+        "jp": "しゅふです。",
+        "romaji": "Shufu desu.",
+        "bn": "গৃহিণী।"
+      }
+    ],
+    "audioPhrase": "おははさんはなにをしていますか。"
+  },
+  {
+    "id": "iv_107",
+    "number": 107,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おははさんはなんさいですか。",
+    "questionRomaji": "Okaasan wa nansai desu ka?",
+    "questionBn": "আপনার মায়ের বয়স কত?",
+    "answers": [
+      {
+        "jp": "_Mother's Age_ さいです。",
+        "romaji": "_Mother's Age_ sai desu.",
+        "bn": "... বছর।"
+      }
+    ],
+    "audioPhrase": "おははさんはなんさいですか。"
+  },
+  {
+    "id": "iv_108",
+    "number": 108,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "おははさんはどんなにんですか。",
+    "questionRomaji": "Okaasan wa donna hito desu ka?",
+    "questionBn": "আপনার মা কেমন মানুষ?",
+    "answers": [
+      {
+        "jp": "おもしろくて、しんせつなにんです。",
+        "romaji": "Omoshirokute, shinsetsu na hito desu.",
+        "bn": "হাসিখুশি এবং দয়ালু মানুষ।"
+      }
+    ],
+    "audioPhrase": "おははさんはどんなにんですか。"
+  },
+  {
+    "id": "iv_109",
+    "number": 109,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "かぞくはどこにすんでいますか。",
+    "questionRomaji": "Kazoku wa doko ni sunde imasu ka?",
+    "questionBn": "পরিবার কোথায় বসবাস করে?",
+    "answers": [
+      {
+        "jp": "ダッカの _Area Name_ にすんでいます。",
+        "romaji": "Dakka no _Area Name_ ni sunde imasu.",
+        "bn": "ঢাকার ... তে বসবাস করে।"
+      }
+    ],
+    "audioPhrase": "かぞくはどこにすんでいますか。"
+  },
+  {
+    "id": "iv_110",
+    "number": 110,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "かぞくはなんにんですか。 (かぞくになんにんいますか)",
+    "questionRomaji": "Kazoku wa nannin desu ka?",
+    "questionBn": "পরিবারে কতজন সদস্য আছেন?",
+    "answers": [
+      {
+        "jp": "5にんです。 (ごにんいます)",
+        "romaji": "Gonin desu.",
+        "bn": "৫ জন সদস্য আছেন।"
+      }
+    ],
+    "audioPhrase": "かぞくはなんにんですか。 (かぞくになんにんいますか)"
+  },
+  {
+    "id": "iv_111",
+    "number": 111,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "だれとだれがいますか。",
+    "questionRomaji": "Dare to dare ga imasu ka?",
+    "questionBn": "পরিবারে কে কে আছেন?",
+    "answers": [
+      {
+        "jp": "りょうしんときょうだいとわたしです。",
+        "romaji": "Ryoushin to kyoudai to watashi desu.",
+        "bn": "বাবা-মা, ভাই এবং আমি।"
+      }
+    ],
+    "audioPhrase": "だれとだれがいますか。"
+  },
+  {
+    "id": "iv_112",
+    "number": 112,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "きょうだいがいますか。",
+    "questionRomaji": "Kyoudai ga imasu ka?",
+    "questionBn": "ভাই-বোন আছে কি?",
+    "answers": [
+      {
+        "jp": "はい、います。",
+        "romaji": "Hai, imasu.",
+        "bn": "হ্যাঁ, আছে।"
+      },
+      {
+        "jp": "いいえ、いません。ひとりっこです。",
+        "romaji": "Iie, imasen. Hitorikko desu.",
+        "bn": "না, নেই। আমি একমাত্র সন্তান।"
+      }
+    ],
+    "audioPhrase": "きょうだいがいますか。"
+  },
+  {
+    "id": "iv_113",
+    "number": 113,
+    "category": "Family",
+    "categoryBn": "পরিবার এবং গ্যারান্টার",
+    "questionJp": "なんにんきょうだいですか。 (なんにんいますか)",
+    "questionRomaji": "Nannin kyoudai desu ka?",
+    "questionBn": "কতজন ভাই-বোন?",
+    "answers": [
+      {
+        "jp": "ふたりきょうだいです。 (あにが ひとりいます)",
+        "romaji": "Futari kyoudai desu.",
+        "bn": "২ ভাই-বোন (একজন বড় ভাই আছেন)।"
+      }
+    ],
+    "audioPhrase": "なんにんきょうだいですか。 (なんにんいますか)"
+  },
+  {
+    "id": "iv_114",
+    "number": 114,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "どのくらいにほんごをならいましたか。 (べんきょうしましたか)",
+    "questionRomaji": "Dono kurai nihongo o naraimashita ka?",
+    "questionBn": "কত সময় জাপানিজ ভাষা শিখেছেন?",
+    "answers": [
+      {
+        "jp": "6ヶがつぐらいならいました。 (およそ 220じかんべんきょうしました)",
+        "romaji": "Rokkagetsu gurai naraimashita.",
+        "bn": "প্রায় ৬ মাস শিখেছি (প্রায় ২২০ ঘণ্টা পড়াশোনা করেছি)।"
+      }
+    ],
+    "audioPhrase": "どのくらいにほんごをならいましたか。 (べんきょうしましたか)"
+  },
+  {
+    "id": "iv_115",
+    "number": 115,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "なにじかんにほんごをべんきょうしましたか。",
+    "questionRomaji": "Nanjikan nihongo o benkyou shimashita ka?",
+    "questionBn": "মোট কত ঘণ্টা জাপানিজ পড়েছেন?",
+    "answers": [
+      {
+        "jp": "220じかんぐらいべんきょうしました。",
+        "romaji": "Nihyakunijuujikan gurai benkyou shimashita.",
+        "bn": "প্রায় ২২০ ঘণ্টা পড়াশোনা করেছি।"
+      }
+    ],
+    "audioPhrase": "なにじかんにほんごをべんきょうしましたか。"
+  },
+  {
+    "id": "iv_116",
+    "number": 116,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "いつからにほんごをべんきょうしましたか。",
+    "questionRomaji": "Itsu kara nihongo o benkyou shimashita ka?",
+    "questionBn": "কবে থেকে জাপানিজ ভাষা শিখছেন?",
+    "answers": [
+      {
+        "jp": "ことしの _Month_ がつからべんきょうしました。",
+        "romaji": "Kotoshi no _Month_ gatsu kara benkyou shimashita.",
+        "bn": "চলতি বছরের ... মাস থেকে শিখছি।"
+      }
+    ],
+    "audioPhrase": "いつからにほんごをべんきょうしましたか。"
+  },
+  {
+    "id": "iv_117",
+    "number": 117,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "どこでにほんごをべんきょうしましたか。",
+    "questionRomaji": "Doko de nihongo o benkyou shimashita ka?",
+    "questionBn": "কোথায় জাপানিজ ভাষা শিখেছেন?",
+    "answers": [
+      {
+        "jp": "ダッカのにほんごがっこうでべんきょうしました。",
+        "romaji": "Dakka no nihongo gakkou de benkyou shimashita.",
+        "bn": "ঢাকার জাপানিজ ভাষা স্কুলে শিখেছি।"
+      }
+    ],
+    "audioPhrase": "どこでにほんごをべんきょうしましたか。"
+  },
+  {
+    "id": "iv_118",
+    "number": 118,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごがっこうのなまえはなにですか。",
+    "questionRomaji": "Nihongo gakkou no namae wa nan desu ka?",
+    "questionBn": "জাপানিজ ভাষা স্কুলের নাম কি?",
+    "answers": [
+      {
+        "jp": "_School Name_ にほんごがっこうです。",
+        "romaji": "_School Name_ nihongo gakkou desu.",
+        "bn": "... জাপানিজ ভাষা স্কুল।"
+      }
+    ],
+    "audioPhrase": "にほんごがっこうのなまえはなにですか。"
+  },
+  {
+    "id": "iv_119",
+    "number": 119,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごがっこうはどこにありますか。",
+    "questionRomaji": "Nihongo gakkou wa doko ni arimasu ka?",
+    "questionBn": "জাপানিজ ভাষা স্কুলটি কোথায় অবস্থিত?",
+    "answers": [
+      {
+        "jp": "ダッカの _Place Name_ にあります。",
+        "romaji": "Dakka no _Place Name_ ni arimasu.",
+        "bn": "ঢাকার ... তে অবস্থিত।"
+      }
+    ],
+    "audioPhrase": "にほんごがっこうはどこにありますか。"
+  },
+  {
+    "id": "iv_120",
+    "number": 120,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "いっしゅうかんになんにちにほんごをべんきょうしますか。",
+    "questionRomaji": "Isshuukan ni nannichi nihongo o benkyou shimasu ka?",
+    "questionBn": "সপ্তাহে কত দিন জাপানিজ ভাষা পড়েন?",
+    "answers": [
+      {
+        "jp": "いっしゅうかんに5にちべんきょうします。",
+        "romaji": "Isshuukan ni itsuka benkyou shimasu.",
+        "bn": "সপ্তাহে ৫ দিন পড়াশোনা করি।"
+      }
+    ],
+    "audioPhrase": "いっしゅうかんになんにちにほんごをべんきょうしますか。"
+  },
+  {
+    "id": "iv_121",
+    "number": 121,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "いちにちになにじかんにほんごをべんきょうしますか。",
+    "questionRomaji": "Ichinichi ni nanjikan nihongo o benkyou shimasu ka?",
+    "questionBn": "দিনে কত ঘণ্টা জাপানিজ ভাষা পড়েন?",
+    "answers": [
+      {
+        "jp": "いちにちに3じかんべんきょうします。",
+        "romaji": "Ichinichi ni sanjikan benkyou shimasu.",
+        "bn": "দিনে ৩ ঘণ্টা পড়াশোনা করি।"
+      }
+    ],
+    "audioPhrase": "いちにちになにじかんにほんごをべんきょうしますか。"
+  },
+  {
+    "id": "iv_122",
+    "number": 122,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごのせんせいのおなまえは なんですか。",
+    "questionRomaji": "Nihongo no sensei no onamae wa nan desu ka?",
+    "questionBn": "জাপানিজ শিক্ষকের নাম কি?",
+    "answers": [
+      {
+        "jp": "マスムせんせいです。 (パトワリ・マスムせんせい)",
+        "romaji": "Masumu-sensei desu.",
+        "bn": "জনাব মাসুম শিক্ষক (পাটোয়ারী মোঃ মাসুম)।"
+      }
+    ],
+    "audioPhrase": "にほんごのせんせいのおなまえは なんですか。"
+  },
+  {
+    "id": "iv_123",
+    "number": 123,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごができますか。 (わかりますか)",
+    "questionRomaji": "Nihongo ga dekimasu ka?",
+    "questionBn": "জাপানিজ ভাষা পারেন কি? বোঝেন কি?",
+    "answers": [
+      {
+        "jp": "はい、すくなしできます。 (すくなしわかります)",
+        "romaji": "Hai, sukoshi dekimasu.",
+        "bn": "হ্যাঁ, অল্প অল্প পারি/বুঝি।"
+      }
+    ],
+    "audioPhrase": "にほんごができますか。 (わかりますか)"
+  },
+  {
+    "id": "iv_124",
+    "number": 124,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごではなすことができますか。",
+    "questionRomaji": "Nihongo de hanasu koto ga dekimasu ka?",
+    "questionBn": "জাপানিজ ভাষায় কথা বলতে পারেন কি?",
+    "answers": [
+      {
+        "jp": "はい、かんたんなあはなができます。",
+        "romaji": "Hai, kantan na kaiwa ga dekimasu.",
+        "bn": "হ্যাঁ, সহজ কথাবার্তা বলতে পারি।"
+      }
+    ],
+    "audioPhrase": "にほんごではなすことができますか。"
+  },
+  {
+    "id": "iv_125",
+    "number": 125,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "ひらがなとカタカナができますか。",
+    "questionRomaji": "Hiragana to katakana ga dekimasu ka?",
+    "questionBn": "হিরাগানা ও কাতাকানা পারেন কি?",
+    "answers": [
+      {
+        "jp": "はい、ひらがなとカタカナがぜんぶできます。",
+        "romaji": "Hai, hiragana to katakana ga zenbu dekimasu.",
+        "bn": "হ্যাঁ, হিরাগানা এবং কাতাকানা সব পারি।"
+      }
+    ],
+    "audioPhrase": "ひらがなとカタカナができますか。"
+  },
+  {
+    "id": "iv_126",
+    "number": 126,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごがすきですか。",
+    "questionRomaji": "Nihongo ga suki desu ka?",
+    "questionBn": "জাপানিজ ভাষা পছন্দ করেন কি?",
+    "answers": [
+      {
+        "jp": "はい、とてもすきです。",
+        "romaji": "Hai, totemo suki desu.",
+        "bn": "হ্যাঁ, অনেক পছন্দ করি।"
+      }
+    ],
+    "audioPhrase": "にほんごがすきですか。"
+  },
+  {
+    "id": "iv_127",
+    "number": 127,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごはどうですか。 (むずかしいですか)",
+    "questionRomaji": "Nihongo wa dou desu ka?",
+    "questionBn": "জাপানিজ ভাষা কেমন? কঠিন কি?",
+    "answers": [
+      {
+        "jp": "かんじはむずかしいですが、とてもおもしろいです。",
+        "romaji": "Kanji wa muzukashii desu ga, totemo omoshiroi desu.",
+        "bn": "কাঞ্জি একটু কঠিন, তবে ভাষাটি খুবই চমৎকার ও মজার।"
+      }
+    ],
+    "audioPhrase": "にほんごはどうですか。 (むずかしいですか)"
+  },
+  {
+    "id": "iv_128",
+    "number": 128,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "かんじができますか。 (いくつかけますか)",
+    "questionRomaji": "Kanji ga dekimasu ka?",
+    "questionBn": "কাঞ্জি পারেন কি? কয়টি লিখতে পারেন?",
+    "answers": [
+      {
+        "jp": "はい、100こぐらいかんじがかけます。",
+        "romaji": "Hai, hyakko gurai kanji ga kakemasu.",
+        "bn": "হ্যাঁ, প্রায় ১০০টি কাঞ্জি লিখতে ও পড়তে পারি।"
+      }
+    ],
+    "audioPhrase": "かんじができますか。 (いくつかけますか)"
+  },
+  {
+    "id": "iv_129",
+    "number": 129,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "せんせいはどんなにんですか。",
+    "questionRomaji": "Sensei wa donna hito desu ka?",
+    "questionBn": "শিক্ষক কেমন মানুষ?",
+    "answers": [
+      {
+        "jp": "おもしろくて、とてもしんせつなにんです。",
+        "romaji": "Omoshirokute, totemo shinsetsu na hito desu.",
+        "bn": "হাসিখুশি এবং খুবই আন্তরিক ও দয়ালু মানুষ।"
+      }
+    ],
+    "audioPhrase": "せんせいはどんなにんですか。"
+  },
+  {
+    "id": "iv_130",
+    "number": 130,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでにほんごのがっこうをそつぎょうしたらなにをしますか。",
+    "questionRomaji": "Nihon de nihongo no gakkou o sotsugyou shitara nani o shimasu ka?",
+    "questionBn": "জাপানে ল্যাঙ্গুয়েজ স্কুল পাশ করে কি করবেন?",
+    "answers": [
+      {
+        "jp": "せんもんがっこうかだいがくにしんがくしたいです。",
+        "romaji": "Senmon gakkou ka daigaku ni shingaku shitai desu.",
+        "bn": "ডিপ্লোমা কলেজ অথবা বিশ্ববিদ্যালয়ে উচ্চশিক্ষা নিতে চাই।"
+      }
+    ],
+    "audioPhrase": "にほんでにほんごのがっこうをそつぎょうしたらなにをしますか。"
+  },
+  {
+    "id": "iv_131",
+    "number": 131,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "だいがくいんでべんきょうしたいですか。",
+    "questionRomaji": "Daigakuin de benkyou shitai desu ka?",
+    "questionBn": "মাস্টার্স/গ্র্যাজুয়েট স্কুলে পড়তে চান?",
+    "answers": [
+      {
+        "jp": "はい、だいがくいんでITをべんきょうしたいです。",
+        "romaji": "Hai, daigakuin de IT o benkyou shitai desu.",
+        "bn": "হ্যাঁ, গ্র্যাজুয়েট স্কুলে আইটি পড়তে চাই।"
+      }
+    ],
+    "audioPhrase": "だいがくいんでべんきょうしたいですか。"
+  },
+  {
+    "id": "iv_132",
+    "number": 132,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "どうしてにほんへいきたいですか。 (りゅうがくのりゆうはなにですか)",
+    "questionRomaji": "Doushite Nihon e ikitai desu ka?",
+    "questionBn": "কেন জাপানে যেতে চান? স্টাডির উদ্দেশ্য কি?",
+    "answers": [
+      {
+        "jp": "にほんのぎじゅつときょういくはせかいいちですから、せんもんちしきをがくびたいです。",
+        "romaji": "Nihon no gijutsu to kyouiku wa sekaiichi desu kara, senmon chishiki o manabitai desu.",
+        "bn": "জাপানের প্রযুক্তি ও শিক্ষা বিশ্বসেরা, তাই সেখানে আধুনিক জ্ঞান শিখতে চাই।"
+      }
+    ],
+    "audioPhrase": "どうしてにほんへいきたいですか。 (りゅうがくのりゆうはなにですか)"
+  },
+  {
+    "id": "iv_133",
+    "number": 133,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでどのがっこうにいきますか。",
+    "questionRomaji": "Nihon de dono gakkou ni ikimasu ka?",
+    "questionBn": "জাপানে কোন স্কুলে পড়বেন?",
+    "answers": [
+      {
+        "jp": "_Japanese School Name_ にほんごがっこうにいきます。",
+        "romaji": "_Japanese School Name_ nihongo gakkou ni ikimasu.",
+        "bn": "... জাপানিজ ভাষা স্কুলে ভর্তি হব।"
+      }
+    ],
+    "audioPhrase": "にほんでどのがっこうにいきますか。"
+  },
+  {
+    "id": "iv_134",
+    "number": 134,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "そのがっこうはどこにありますか。",
+    "questionRomaji": "Sono gakkou wa doko ni arimasu ka?",
+    "questionBn": "সেই স্কুলটি জাপানের কোথায় অবস্থিত?",
+    "answers": [
+      {
+        "jp": "とうきょう / おおさか / なごやにあります。",
+        "romaji": "Toukyou / Oosaka / Nagoya ni arimasu.",
+        "bn": "টোকিও / ওসাকা / নাগোয়া শহরে অবস্থিত।"
+      }
+    ],
+    "audioPhrase": "そのがっこうはどこにありますか。"
+  },
+  {
+    "id": "iv_135",
+    "number": 135,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "どうしてそのがっこうをえらびましたか。",
+    "questionRomaji": "Doushite sono gakkou o erabimashita ka?",
+    "questionBn": "কেন এই স্কুলটি বেছে নিলেন?",
+    "answers": [
+      {
+        "jp": "きょういくかんきょうがよくて、しんがくしどうがしっかりしているからです。",
+        "romaji": "Kyouiku kankyou ga yokute, shingaku shidou ga shikkari shite iru kara desu.",
+        "bn": "পড়ার পরিবেশ চমৎকার এবং উচ্চশিক্ষার গাইডলাইন অত্যন্ত ভালো তাই।"
+      }
+    ],
+    "audioPhrase": "どうしてそのがっこうをえらびましたか。"
+  },
+  {
+    "id": "iv_136",
+    "number": 136,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんについてなにをしっていますか。",
+    "questionRomaji": "Nihon ni tsuite nani o shitte imasu ka?",
+    "questionBn": "জাপান সম্পর্কে কি জানেন?",
+    "answers": [
+      {
+        "jp": "あんぜんでへいわなくにで、ひと々はとてもしんせつでれいぎただしいです。",
+        "romaji": "Anzen de heiwa na kuni de, hitobito wa totemo shinsetsu de reigitadashii desu.",
+        "bn": "একটি নিরাপদ ও শান্তিময় দেশ, এবং মানুষ অত্যন্ত বিনয়ী ও পরিশ্রমী।"
+      }
+    ],
+    "audioPhrase": "にほんについてなにをしっていますか。"
+  },
+  {
+    "id": "iv_137",
+    "number": 137,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのしゅとはどこですか。",
+    "questionRomaji": "Nihon no shuto wa doko desu ka?",
+    "questionBn": "জাপানের রাজধানী কোথায়?",
+    "answers": [
+      {
+        "jp": "とうきょうです。",
+        "romaji": "Toukyou desu.",
+        "bn": "টোকিও।"
+      }
+    ],
+    "audioPhrase": "にほんのしゅとはどこですか。"
+  },
+  {
+    "id": "iv_138",
+    "number": 138,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでいちばんたかいやまはなにですか。",
+    "questionRomaji": "Nihon de ichiban takai yama wa nan desu ka?",
+    "questionBn": "জাপানের সবচেয়ে উঁচু পাহাড় কোনটি?",
+    "answers": [
+      {
+        "jp": "ふじさんです。 (ひょうこうは3776メートル)",
+        "romaji": "Fujisan desu.",
+        "bn": "মাউন্ট ফুজি (উচ্চতা ৩৭৭৬ মিটার)।"
+      }
+    ],
+    "audioPhrase": "にほんでいちばんたかいやまはなにですか。"
+  },
+  {
+    "id": "iv_139",
+    "number": 139,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのつうかはなにですか。",
+    "questionRomaji": "Nihon no tsuuka wa nan desu ka?",
+    "questionBn": "জাপানের মুদ্রার নাম কি?",
+    "answers": [
+      {
+        "jp": "えん (エン) です。",
+        "romaji": "En desu.",
+        "bn": "ইয়েন।"
+      }
+    ],
+    "audioPhrase": "にほんのつうかはなにですか。"
+  },
+  {
+    "id": "iv_140",
+    "number": 140,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんにしりあいやしんせきがいますか。",
+    "questionRomaji": "Nihon ni shiriai ya shinseki ga imasu ka?",
+    "questionBn": "জাপানে কোনো পরিচিত ব্যক্তি বা আত্মীয় আছে কি?",
+    "answers": [
+      {
+        "jp": "いいえ、いません。",
+        "romaji": "Iie, imasen.",
+        "bn": "না, কেউ নেই।"
+      },
+      {
+        "jp": "はい、せんぱいがひとりいます。",
+        "romaji": "Hai, senpai ga hitori imasu.",
+        "bn": "হ্যাঁ, একজন পরিচিত সিনিয়র ভাই আছেন।"
+      }
+    ],
+    "audioPhrase": "にほんにしりあいやしんせきがいますか。"
+  },
+  {
+    "id": "iv_141",
+    "number": 141,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでどこにすみますか。",
+    "questionRomaji": "Nihon de doko ni sumimasu ka?",
+    "questionBn": "জাপানে কোথায় থাকবেন?",
+    "answers": [
+      {
+        "jp": "がっこうのりょうにすみます。",
+        "romaji": "Gakkou no ryou ni sumimasu.",
+        "bn": "স্কুলের ডরমিটরিতে (হোস্টেল) থাকব।"
+      }
+    ],
+    "audioPhrase": "にほんでどこにすみますか。"
+  },
+  {
+    "id": "iv_142",
+    "number": 142,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "りょうのひようはいくらですか。",
+    "questionRomaji": "Ryou no hiyou wa ikura desu ka?",
+    "questionBn": "হোস্টেল ফি কত?",
+    "answers": [
+      {
+        "jp": "まいつき 3まんえんから4まんえんぐらいです。",
+        "romaji": "Maitsuki sanman-en kara yonman-en gurai desu.",
+        "bn": "মাসে প্রায় ৩ থেকে ৪ মান ইয়েন।"
+      }
+    ],
+    "audioPhrase": "りょうのひようはいくらですか。"
+  },
+  {
+    "id": "iv_143",
+    "number": 143,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのせいかつでしんぱいなことはありますか。",
+    "questionRomaji": "Nihon no seikatsu de shinpai na koto wa arimasu ka?",
+    "questionBn": "জাপানের জীবনে কোনো দুশ্চিন্তা আছে কি?",
+    "answers": [
+      {
+        "jp": "とくにしんぱいはありません。がんばります。",
+        "romaji": "Toku ni shinpai wa arimasen. Ganbarimasu.",
+        "bn": "বিশেষ কোনো দুশ্চিন্তা নেই। সর্বোচ্চ চেষ্টা করব।"
+      }
+    ],
+    "audioPhrase": "にほんのせいかつでしんぱいなことはありますか。"
+  },
+  {
+    "id": "iv_144",
+    "number": 144,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのゆうめいなたべものはなにですか。",
+    "questionRomaji": "Nihon no yuumei na tabemono wa nan desu ka?",
+    "questionBn": "জাপানের বিখ্যাত খাবার কি?",
+    "answers": [
+      {
+        "jp": "すし、ラーメン、てんぷらなどです。",
+        "romaji": "Sushi, raamen, tenpura nado desu.",
+        "bn": "সুশি, রামেন, তেনপুরা ইত্যাদি।"
+      }
+    ],
+    "audioPhrase": "にほんのゆうめいなたべものはなにですか。"
+  },
+  {
+    "id": "iv_145",
+    "number": 145,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのアニメをみたことがありますか。",
+    "questionRomaji": "Nihon no anime o mita koto ga arimasu ka?",
+    "questionBn": "জাপানি অ্যানিমে দেখার অভিজ্ঞতা আছে?",
+    "answers": [
+      {
+        "jp": "はい、ナルトやドラえもんをみたことがあります。",
+        "romaji": "Hai, Naruto ya Doraemon o mita koto ga arimasu.",
+        "bn": "হ্যাঁ, নারুতো, ডোরেমন দেখেছি।"
+      }
+    ],
+    "audioPhrase": "にほんのアニメをみたことがありますか。"
+  },
+  {
+    "id": "iv_146",
+    "number": 146,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごのテストをうけましたか。 (NAT-TEST / JLPT)",
+    "questionRomaji": "Nihongo no tesuto o ukemashita ka?",
+    "questionBn": "জাপানিজ ভাষার কোনো পরীক্ষা দিয়েছেন?",
+    "answers": [
+      {
+        "jp": "はい、JLPT N5 / NAT-TEST 5Qをうけました。",
+        "romaji": "Hai, JLPT N5 o ukemashita.",
+        "bn": "হ্যাঁ, JLPT N5 / NAT-TEST 5Q দিয়েছি।"
+      }
+    ],
+    "audioPhrase": "にほんごのテストをうけましたか。 (NAT-TEST / JLPT)"
+  },
+  {
+    "id": "iv_147",
+    "number": 147,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "けっかはどうでしたか。 (ごうかくしましたか)",
+    "questionRomaji": "Kekka wa dou deshita ka?",
+    "questionBn": "ফলাফল কেমন হয়েছিল? পাশ করেছেন?",
+    "answers": [
+      {
+        "jp": "はい、ごうかくしました。",
+        "romaji": "Hai, goukaku shimashita.",
+        "bn": "হ্যাঁ, উত্তীর্ণ হয়েছি।"
+      }
+    ],
+    "audioPhrase": "けっかはどうでしたか。 (ごうかくしましたか)"
+  },
+  {
+    "id": "iv_148",
+    "number": 148,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "てんすうはなにてんでしたか。",
+    "questionRomaji": "Tensuu wa nanten deshita ka?",
+    "questionBn": "কত নম্বর পেয়েছিলেন?",
+    "answers": [
+      {
+        "jp": "120てんをとりました。",
+        "romaji": "Hyakunijuuten o torimashita.",
+        "bn": "১২০ নম্বর পেয়েছিলাম।"
+      }
+    ],
+    "audioPhrase": "てんすうはなにてんでしたか。"
+  },
+  {
+    "id": "iv_149",
+    "number": 149,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんごのべんきょうでなにがいちばんたのしいですか。",
+    "questionRomaji": "Nihongo no benkyou de nani ga ichiban tanoshii desu ka?",
+    "questionBn": "জাপানিজ পড়ায় সবচেয়ে আনন্দের কি?",
+    "answers": [
+      {
+        "jp": "あたらしいことばをおぼえて、はなすことがいちばんたのしいです。",
+        "romaji": "Atarashii kotoba o oboete, kaiwa suru koto ga ichiban tanoshii desu.",
+        "bn": "নতুন শব্দ শিখে কথা বলা সবচেয়ে আনন্দের।"
+      }
+    ],
+    "audioPhrase": "にほんごのべんきょうでなにがいちばんたのしいですか。"
+  },
+  {
+    "id": "iv_150",
+    "number": 150,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんにいったらどこへいきたいですか。",
+    "questionRomaji": "Nihon ni ittara doko e ikitai desu ka?",
+    "questionBn": "জাপান গেলে কোথায় ঘুরতে যেতে চান?",
+    "answers": [
+      {
+        "jp": "きょうとやふじさんへいきたいです。",
+        "romaji": "Kyouto ya Fujisan e ikitai desu.",
+        "bn": "কিয়োটো এবং মাউন্ট ফুজি দেখতে যেতে চাই।"
+      }
+    ],
+    "audioPhrase": "にほんにいったらどこへいきたいですか。"
+  },
+  {
+    "id": "iv_151",
+    "number": 151,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "なぜきょうとにいきたいですか。",
+    "questionRomaji": "Naze Kyouto ni ikitai desu ka?",
+    "questionBn": "কেন কিয়োটো যেতে চান?",
+    "answers": [
+      {
+        "jp": "ふるいおてらやでんとうぶんかがたくさんありますから。",
+        "romaji": "Furui otera ya dentou bunka ga takusan arimasu kara.",
+        "bn": "সেখানে অনেক ঐতিহাসিক মন্দির এবং ঐতিহ্যবাহী সংস্কৃতি আছে তাই।"
+      }
+    ],
+    "audioPhrase": "なぜきょうとにいきたいですか。"
+  },
+  {
+    "id": "iv_152",
+    "number": 152,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのきせつでなにがいちばん すきですか。",
+    "questionRomaji": "Nihon no kisetsu de nani ga ichiban suki desu ka?",
+    "questionBn": "জাপানের কোন ঋতু সবচেয়ে পছন্দ?",
+    "answers": [
+      {
+        "jp": "はるがいちばん すきです。さくらがとてもきれいですから。",
+        "romaji": "Haru ga ichiban suki desu. Sakura ga totemo kirei desu kara.",
+        "bn": "বসন্তকাল সবচেয়ে পছন্দ, কারণ সাকুরা ফুল অসাধারণ সুন্দর ফোটে।"
+      }
+    ],
+    "audioPhrase": "にほんのきせつでなにがいちばん すきですか。"
+  },
+  {
+    "id": "iv_153",
+    "number": 153,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "さくらをみたことがありますか。",
+    "questionRomaji": "Sakura o mita koto ga arimasu ka?",
+    "questionBn": "সাকুরা (চেরি ব্লসম) দেখেছেন কি?",
+    "answers": [
+      {
+        "jp": "しゃしんやどうがでみました。にほんでほんものをみたいです。",
+        "romaji": "Shashin ya douga de mimashita. Nihon de honmono o mitai desu.",
+        "bn": "ছবি ও ভিডিওতে দেখেছি। জাপানে গিয়ে বাস্তবে দেখতে চাই।"
+      }
+    ],
+    "audioPhrase": "さくらをみたことがありますか。"
+  },
+  {
+    "id": "iv_154",
+    "number": 154,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "じしんがあったらどうしますか。",
+    "questionRomaji": "Jishin ga attara dou shimasu ka?",
+    "questionBn": "ভূমিকম্প হলে কি করবেন?",
+    "answers": [
+      {
+        "jp": "つくえのしたにはいってあたまをまもり、せんせいのしじに したがいます。",
+        "romaji": "Tsukue no shita ni haitte atama o mamori, sensei no shiji ni shitagaimasu.",
+        "bn": "টেবিলের নিচে মাথা রক্ষা করব এবং শিক্ষকের নির্দেশ মেনে চলব।"
+      }
+    ],
+    "audioPhrase": "じしんがあったらどうしますか。"
+  },
+  {
+    "id": "iv_155",
+    "number": 155,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのほうりつをまもることが できますか。",
+    "questionRomaji": "Nihon no houritsu o mamoru koto ga dekimasu ka?",
+    "questionBn": "জাপানের আইনকানুন মেনে চলতে পারবেন?",
+    "answers": [
+      {
+        "jp": "はい、ぜったいにまもります。",
+        "romaji": "Hai, zettai ni mamorimasu.",
+        "bn": "হ্যাঁ, অবশ্যই শতভাগ মেনে চলব।"
+      }
+    ],
+    "audioPhrase": "にほんのほうりつをまもることが できますか。"
+  },
+  {
+    "id": "iv_156",
+    "number": 156,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでのせいかつひはだれがだしますか。",
+    "questionRomaji": "Nihon de no seikatsuhi wa dare ga dashimasu ka?",
+    "questionBn": "জাপানে থাকার খরচ কে দেবেন?",
+    "answers": [
+      {
+        "jp": "スポンサーのちちがでしてくれます。",
+        "romaji": "Suponsaa no chichi ga dashite kuremasu.",
+        "bn": "আমার স্পন্সর বাবা পাঠিয়ে দেবেন।"
+      }
+    ],
+    "audioPhrase": "にほんでのせいかつひはだれがだしますか。"
+  },
+  {
+    "id": "iv_157",
+    "number": 157,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "まいつきいくらぐらいそうきんしてもらいますか。",
+    "questionRomaji": "Maitsuki ikura gurai soukin shite moraimasu ka?",
+    "questionBn": "প্রতি মাসে কত টাকা পাঠিয়ে দেবেন?",
+    "answers": [
+      {
+        "jp": "まいつき 10まんえんから12まんえんぐらいそうきんしてもらいます。",
+        "romaji": "Maitsuki juuman-en kara juuniman-en gurai soukin shite moraimasu.",
+        "bn": "প্রতি মাসে প্রায় ১০ থেকে ১২ মান ইয়েন পাঠাবেন।"
+      }
+    ],
+    "audioPhrase": "まいつきいくらぐらいそうきんしてもらいますか。"
+  },
+  {
+    "id": "iv_158",
+    "number": 158,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでびょうきになったらどうしますか。",
+    "questionRomaji": "Nihon de byouki ni nattara dou shimasu ka?",
+    "questionBn": "জাপানে অসুস্থ হলে কি করবেন?",
+    "answers": [
+      {
+        "jp": "こくみんけんこうほけんをつかって、びょういんにいきます。",
+        "romaji": "Kokumin kenkou hoken o tsukatte, byouin ni ikimasu.",
+        "bn": "ন্যাশনাল হেলথ ইন্স্যুরেন্স কার্ড নিয়ে হাসপাতালে যাব।"
+      }
+    ],
+    "audioPhrase": "にほんでびょうきになったらどうしますか。"
+  },
+  {
+    "id": "iv_159",
+    "number": 159,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "こくみんけんこうほけんをしっていますか。",
+    "questionRomaji": "Kokumin kenkou hoken o shitte imasu ka?",
+    "questionBn": "ন্যাশনাল হেলথ ইন্স্যুরেন্স সম্পর্কে জানেন কি?",
+    "answers": [
+      {
+        "jp": "はい、いりょうひの70%をくにがふたんしてくれるほけんです。",
+        "romaji": "Hai, iryouhi no nanajuupaasento o kuni ga futan shite kureru hoken desu.",
+        "bn": "হ্যাঁ, সরকার চিকিৎসার ৭০% খরচ বহন করে এমন বীমা।"
+      }
+    ],
+    "audioPhrase": "こくみんけんこうほけんをしっていますか。"
+  },
+  {
+    "id": "iv_160",
+    "number": 160,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでともだちをつくりたいですか。",
+    "questionRomaji": "Nihon de tomodachi o tsukuritai desu ka?",
+    "questionBn": "জাপানে বন্ধু তৈরি করতে চান কি?",
+    "answers": [
+      {
+        "jp": "はい、にほんじんのともだちやいろ々なくにのともだちをつくりたいです。",
+        "romaji": "Hai, nihonjin no tomodachi ya iroirona kuni no tomodachi o tsukuritai desu.",
+        "bn": "হ্যাঁ, জাপানি বন্ধু এবং বিভিন্ন দেশের বন্ধু বানাতে চাই।"
+      }
+    ],
+    "audioPhrase": "にほんでともだちをつくりたいですか。"
+  },
+  {
+    "id": "iv_161",
+    "number": 161,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでじすいができますか。 (りょうりができますか)",
+    "questionRomaji": "Nihon de jisui ga dekimasu ka?",
+    "questionBn": "জাপানে নিজে নিজে রান্না করে খেতে পারবেন?",
+    "answers": [
+      {
+        "jp": "はい、かんたんなりょうりがじぶんでつくれます。",
+        "romaji": "Hai, kantan na ryouri ga jibun de tsukuremasu.",
+        "bn": "হ্যাঁ, সহজ খাবার নিজে রান্না করতে পারি।"
+      }
+    ],
+    "audioPhrase": "にほんでじすいができますか。 (りょうりができますか)"
+  },
+  {
+    "id": "iv_162",
+    "number": 162,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "なにをりょうりできますか。",
+    "questionRomaji": "Nani o ryouri dekimasu ka?",
+    "questionBn": "কি রান্না করতে পারেন?",
+    "answers": [
+      {
+        "jp": "ごはん、やさいいため、カレーなどがつくれます。",
+        "romaji": "Gohan, yasai-itame, karee nado ga tsukuremasu.",
+        "bn": "ভাত, সবজি ভাজি, তরকারি ইত্যাদি বানাতে পারি।"
+      }
+    ],
+    "audioPhrase": "なにをりょうりできますか。"
+  },
+  {
+    "id": "iv_163",
+    "number": 163,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんでこまったことがあったらだれにそうだんしますか。",
+    "questionRomaji": "Nihon de komatta koto ga attara dare ni soudan shimasu ka?",
+    "questionBn": "জাপানে সমস্যায় পড়লে কার সাথে পরামর্শ করবেন?",
+    "answers": [
+      {
+        "jp": "がっこうのせんせいやりゅうがくせいセンターにそうだんします。",
+        "romaji": "Gakkou no sensei ya ryuugakusei sentaa ni soudan shimasu.",
+        "bn": "স্কুলের শিক্ষক অথবা আন্তর্জাতিক শিক্ষার্থী কেন্দ্রে পরামর্শ নেব।"
+      }
+    ],
+    "audioPhrase": "にほんでこまったことがあったらだれにそうだんしますか。"
+  },
+  {
+    "id": "iv_164",
+    "number": 164,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんになんねんかんたいざいするよていですか。",
+    "questionRomaji": "Nihon ni nannenkan taizai suru yotei desu ka?",
+    "questionBn": "জাপানে কত বছর থাকার পরিকল্পনা আছে?",
+    "answers": [
+      {
+        "jp": "にほんごがっこう2ねんとだいがく4ねんで、およそ 6ねんかんたいざいするよていです。",
+        "romaji": "Nihongo gakkou ninen to daigaku yonen de, yaku rokunenkan taizai suru yotei desu.",
+        "bn": "ল্যাঙ্গুয়েজ স্কুল ২ বছর এবং বিশ্ববিদ্যালয় ৪ বছর, মোট প্রায় ৬ বছর।"
+      }
+    ],
+    "audioPhrase": "にほんになんねんかんたいざいするよていですか。"
+  },
+  {
+    "id": "iv_165",
+    "number": 165,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "そつぎょうあとはにほんでしゅうしょくしたいですか。",
+    "questionRomaji": "Sotsugyougo wa Nihon de shuushoku shitai desu ka?",
+    "questionBn": "পড়াশোনা শেষে জাপানে চাকরি করতে চান কি?",
+    "answers": [
+      {
+        "jp": "はい、にほんのきぎょうですうねんかんけいけんをつみたいです。",
+        "romaji": "Hai, nihon no kigyou de suunenkan keiken o tsumitai desu.",
+        "bn": "হ্যাঁ, জাপানি কোম্পানিতে কয়েক বছর কাজের বাস্তব অভিজ্ঞতা নিতে চাই।"
+      }
+    ],
+    "audioPhrase": "そつぎょうあとはにほんでしゅうしょくしたいですか。"
+  },
+  {
+    "id": "iv_166",
+    "number": 166,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "にほんのマナーやルールをまもれますか。",
+    "questionRomaji": "Nihon no manaa ya ruuru o mamoremasu ka?",
+    "questionBn": "জাপানের সামাজিক নিয়ম ও শিষ্টাচার মেনে চলতে পারবেন?",
+    "answers": [
+      {
+        "jp": "はい、ゴミのぶんべつやでんしゃのマナーなどをしっかりまもります。",
+        "romaji": "Hai, gomi no bunbetsu ya densha no manaa nado o shikkari mamorimasu.",
+        "bn": "হ্যাঁ, আবর্জনা আলাদা ফেলা এবং ট্রেনের নীরবতা শিষ্টাচার যথাযথ মানবো।"
+      }
+    ],
+    "audioPhrase": "にほんのマナーやルールをまもれますか。"
+  },
+  {
+    "id": "iv_167",
+    "number": 167,
+    "category": "Japan and Japanese Language",
+    "categoryBn": "জাপান এবং জাপানিজ ভাষা",
+    "questionJp": "さいごになにかいいたいことがありますか。",
+    "questionRomaji": "Saigo ni nanika iitai koto ga arimasu ka?",
+    "questionBn": "সর্বশেষে কিছু বলার আছে কি?",
+    "answers": [
+      {
+        "jp": "にほんでいっしょうけんめいがんばりますので、よろしくおねがいいたします。",
+        "romaji": "Nihon de isshoukenmei ganbarimasu node, yoroshiku onegai itashimasu.",
+        "bn": "জাপানে শতভাগ আন্তরিকতা দিয়ে সর্বোচ্চ চেষ্টা করব, দয়া করে আমাকে সুযোগ দিন।"
+      }
+    ],
+    "audioPhrase": "さいごになにかいいたいことがありますか。"
+  },
+  {
+    "id": "iv_168",
+    "number": 168,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "きょうはなんにちですか。 (あしたはなんにちですか / きのうはなんにちですか)",
+    "questionRomaji": "Kyou wa nannichi desu ka?",
+    "questionBn": "আজ কত তারিখ? (আগামীকাল কত তারিখ? / গতকাল কত তারিখ ছিল?)",
+    "answers": [
+      {
+        "jp": "きょうは _Date_ にちです。",
+        "romaji": "Kyou wa _Date_ nichi desu.",
+        "bn": "আজ ... তারিখ।"
+      }
+    ],
+    "audioPhrase": "きょうはなんにちですか。 (あしたはなんにちですか / きのうはなんにちですか)"
+  },
+  {
+    "id": "iv_169",
+    "number": 169,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "きょうはなんがつなんにちですか。",
+    "questionRomaji": "Kyou wa nangatsu nannichi desu ka?",
+    "questionBn": "আজ কোন মাস কত তারিখ?",
+    "answers": [
+      {
+        "jp": "きょうは _Month_ がつ _Date_ にちです。",
+        "romaji": "Kyou wa _Month_ gatsu _Date_ nichi desu.",
+        "bn": "আজ ... মাসের ... তারিখ।"
+      }
+    ],
+    "audioPhrase": "きょうはなんがつなんにちですか。"
+  },
+  {
+    "id": "iv_170",
+    "number": 170,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "きょうはなんようびですか。 (あしたはなんようびですか / きのうはなんようびですか)",
+    "questionRomaji": "Kyou wa nanyoubi desu ka?",
+    "questionBn": "আজ কি বার? (আগামীকাল কি বার? / গতকাল কি বার ছিল?)",
+    "answers": [
+      {
+        "jp": "きょうは _DayOfWeek_ ようびです。",
+        "romaji": "Kyou wa _DayOfWeek_ youbi desu.",
+        "bn": "আজ ... বার।"
+      }
+    ],
+    "audioPhrase": "きょうはなんようびですか。 (あしたはなんようびですか / きのうはなんようびですか)"
+  },
+  {
+    "id": "iv_171",
+    "number": 171,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "きょうはなんようびなんにちですか。",
+    "questionRomaji": "Kyou wa nanyoubi nannichi desu ka?",
+    "questionBn": "আজ কি বার এবং কত তারিখ?",
+    "answers": [
+      {
+        "jp": "きょうは _DayOfWeek_ ようび、_Date_ にちです。",
+        "romaji": "Kyou wa _DayOfWeek_ youbi, _Date_ nichi desu.",
+        "bn": "আজ ... বার, ... তারিখ।"
+      }
+    ],
+    "audioPhrase": "きょうはなんようびなんにちですか。"
+  },
+  {
+    "id": "iv_172",
+    "number": 172,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "いま、なんじですか。 (なんじなんぷんですか)",
+    "questionRomaji": "Ima, nanji desu ka?",
+    "questionBn": "এখন কয়টা বাজে? (কয়টা কয় মিনিট?)",
+    "answers": [
+      {
+        "jp": "いま _Hour_ とき _Minute_ ふんです。",
+        "romaji": "Ima _Hour_ ji _Minute_ fun desu.",
+        "bn": "এখন ... টা ... মিনিট।"
+      }
+    ],
+    "audioPhrase": "いま、なんじですか。 (なんじなんぷんですか)"
+  },
+  {
+    "id": "iv_173",
+    "number": 173,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "テストはなんじからはじまりますか。",
+    "questionRomaji": "Tesuto wa nanji kara hajimarimasu ka?",
+    "questionBn": "পরীক্ষা কয়টা থেকে শুরু হয়?",
+    "answers": [
+      {
+        "jp": "ごぜん10じからはじまります。",
+        "romaji": "Gozen juuji kara hajimarimasu.",
+        "bn": "সকাল ১০টা থেকে শুরু হয়।"
+      }
+    ],
+    "audioPhrase": "テストはなんじからはじまりますか。"
+  },
+  {
+    "id": "iv_174",
+    "number": 174,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "やすみのひになにをしますか。",
+    "questionRomaji": "Yasumi no hi ni nani o shimasu ka?",
+    "questionBn": "ছুটির দিনে কি করেন?",
+    "answers": [
+      {
+        "jp": "かぞくとえいがをみたり、へやをかたづけたりします。",
+        "romaji": "Kazoku to eiga o mitari, heya o kataduketari shimasu.",
+        "bn": "পরিবারের সাথে সিনেমা দেখি অথবা রুম গোছাই।"
+      }
+    ],
+    "audioPhrase": "やすみのひになにをしますか。"
+  },
+  {
+    "id": "iv_175",
+    "number": 175,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "まいあさ、なんじにおきますか。",
+    "questionRomaji": "Maiasa, nanji ni okimasu ka?",
+    "questionBn": "প্রতিদিন সকালে কয়টায় ঘুম থেকে ওঠেন?",
+    "answers": [
+      {
+        "jp": "まいあさ 6じにおきます。",
+        "romaji": "Maiasa rokuji ni okimasu.",
+        "bn": "প্রতিদিন সকাল ৬টায় উঠি।"
+      }
+    ],
+    "audioPhrase": "まいあさ、なんじにおきますか。"
+  },
+  {
+    "id": "iv_176",
+    "number": 176,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "まいばん、なんじにねますか。",
+    "questionRomaji": "Maiban, nanji ni nemasu ka?",
+    "questionBn": "প্রতিদিন রাতে কয়টায় ঘুমান?",
+    "answers": [
+      {
+        "jp": "まいばん 11じにねます。",
+        "romaji": "Maiban juuichiji ni nemasu.",
+        "bn": "প্রতিদিন রাত ১১টায় ঘুমাই।"
+      }
+    ],
+    "audioPhrase": "まいばん、なんじにねますか。"
+  },
+  {
+    "id": "iv_177",
+    "number": 177,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "にほんのこっきのこうぞうはなにですか。",
+    "questionRomaji": "Nihon no kokki no kouzou wa nan desu ka?",
+    "questionBn": "জাপানের জাতীয় পতাকার গঠন কি?",
+    "answers": [
+      {
+        "jp": "しろのまんなかにあかいひのまるがあります。",
+        "romaji": "Shiro no mannaka ni akai hinomaru ga arimasu.",
+        "bn": "সাদা পটভূমির মাঝখানে লাল সূর্যের বৃত্ত আছে।"
+      }
+    ],
+    "audioPhrase": "にほんのこっきのこうぞうはなにですか。"
+  },
+  {
+    "id": "iv_178",
+    "number": 178,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "バングラデシュのこっきのこうぞうはなにですか。",
+    "questionRomaji": "Banguradeshu no kokki no kouzou wa nan desu ka?",
+    "questionBn": "বাংলাদেশের জাতীয় পতাকার গঠন কি?",
+    "answers": [
+      {
+        "jp": "みどりのまんなかにあかいひのまるがあります。",
+        "romaji": "Midori no mannaka ni akai hinomaru ga arimasu.",
+        "bn": "সবুজ পটভূমির মাঝখানে লাল সূর্যের বৃত্ত আছে।"
+      }
+    ],
+    "audioPhrase": "バングラデシュのこっきのこうぞうはなにですか。"
+  },
+  {
+    "id": "iv_179",
+    "number": 179,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "にほんとバングラデシュとどちらがあついですか。",
+    "questionRomaji": "Nihon to Banguradeshu to dochira ga atsui desu ka?",
+    "questionBn": "জাপান এবং বাংলাদেশের মধ্যে কোনটি বেশি গরম?",
+    "answers": [
+      {
+        "jp": "バングラデシュのほうがあついです。",
+        "romaji": "Banguradeshu no hou ga atsui desu.",
+        "bn": "বাংলাদেশ বেশি গরম।"
+      }
+    ],
+    "audioPhrase": "にほんとバングラデシュとどちらがあついですか。"
+  },
+  {
+    "id": "iv_180",
+    "number": 180,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "バングラデシュできせつがいくつありますか。",
+    "questionRomaji": "Banguradeshu de kisetsu ga ikutsu arimasu ka?",
+    "questionBn": "বাংলাদেশে ঋতু কয়টি আছে?",
+    "answers": [
+      {
+        "jp": "6つあります。 (ろっき)",
+        "romaji": "Muttsu arimasu.",
+        "bn": "৬টি ঋতু আছে।"
+      }
+    ],
+    "audioPhrase": "バングラデシュできせつがいくつありますか。"
+  },
+  {
+    "id": "iv_181",
+    "number": 181,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "にほんできせつがいくつありますか。",
+    "questionRomaji": "Nihon de kisetsu ga ikutsu arimasu ka?",
+    "questionBn": "জাপানে ঋতু কয়টি আছে?",
+    "answers": [
+      {
+        "jp": "4つあります。 (はるなつあきふゆ)",
+        "romaji": "Yottsu arimasu.",
+        "bn": "৪টি ঋতু আছে (বসন্ত, গ্রীষ্ম, শরৎ, শীত)।"
+      }
+    ],
+    "audioPhrase": "にほんできせつがいくつありますか。"
+  },
+  {
+    "id": "iv_182",
+    "number": 182,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "きょうのてんきはどうですか。",
+    "questionRomaji": "Kyou no tenki wa dou desu ka?",
+    "questionBn": "আজকের আবহাওয়া কেমন?",
+    "answers": [
+      {
+        "jp": "はれです。 / あめです。 / くもりです。",
+        "romaji": "Hare desu. / Ame desu. / Kumori desu.",
+        "bn": "রোদ ঝলমলে / বৃষ্টি হচ্ছে / মেঘলা।"
+      }
+    ],
+    "audioPhrase": "きょうのてんきはどうですか。"
+  },
+  {
+    "id": "iv_183",
+    "number": 183,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "あしたもあめだとおもいますか。",
+    "questionRomaji": "Ashita mo ame da to omoimasu ka?",
+    "questionBn": "আগামীকালও বৃষ্টি হবে মনে করেন কি?",
+    "answers": [
+      {
+        "jp": "はい、そうだとおもいます。",
+        "romaji": "Hai, sou da to omoimasu.",
+        "bn": "হ্যাঁ, তাই মনে হয়।"
+      },
+      {
+        "jp": "いいえ、はれるとおもいます。",
+        "romaji": "Iie, hareru to omoimasu.",
+        "bn": "না, রোদ উঠবে মনে হয়।"
+      }
+    ],
+    "audioPhrase": "あしたもあめだとおもいますか。"
+  },
+  {
+    "id": "iv_184",
+    "number": 184,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "あしたのてんきはどうだとおもいますか。",
+    "questionRomaji": "Ashita no tenki wa dou da to omoimasu ka?",
+    "questionBn": "আগামীকালের আবহাওয়া কেমন হবে মনে করেন?",
+    "answers": [
+      {
+        "jp": "あしたはあめがふるとおもいます。",
+        "romaji": "Ashita wa ame ga furu to omoimasu.",
+        "bn": "আগামীকাল বৃষ্টি হবে বলে মনে হয়।"
+      }
+    ],
+    "audioPhrase": "あしたのてんきはどうだとおもいますか。"
+  },
+  {
+    "id": "iv_185",
+    "number": 185,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "ようびのなまえがいえますか。 (おしえてください)",
+    "questionRomaji": "Youbi no namae ga iemasu ka?",
+    "questionBn": "সপ্তাহের সাত দিনের নাম বলতে পারেন কি?",
+    "answers": [
+      {
+        "jp": "げつようび、かようび、すいようび、もくようび、きんようび、どようび、にちようびです。",
+        "romaji": "Getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kinyoubi, doyoubi, nichiyoubi desu.",
+        "bn": "সোমবার, মঙ্গলবার, বুধবার, বৃহস্পতিবার, শুক্রবার, শনিবার এবং রবিবার।"
+      }
+    ],
+    "audioPhrase": "ようびのなまえがいえますか。 (おしえてください)"
+  },
+  {
+    "id": "iv_186",
+    "number": 186,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "がつのなまえがいえますか。",
+    "questionRomaji": "Gatsu no namae ga iemasu ka?",
+    "questionBn": "বারো মাসের নাম বলতে পারেন কি?",
+    "answers": [
+      {
+        "jp": "いちがつ、にがつ、さんがつ、しがつ、ごがつ、ろくがつ、しちがつ、はちがつ、くがつ、じゅうがつ、じゅういちがつ、じゅうにがつです。",
+        "romaji": "Ichigatsu, nigatsu, sangatsu, shigatsu, gogatsu, rokugatsu, shichigatsu, hachigatsu, kugatsu, juugatsu, juuichigatsu, juunigatsu desu.",
+        "bn": "জানুয়ারি থেকে ডিসেম্বর (১月 থেকে ১২月)।"
+      }
+    ],
+    "audioPhrase": "がつのなまえがいえますか。"
+  },
+  {
+    "id": "iv_187",
+    "number": 187,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "にほんごのきょうかしょの なまえは なんですか。",
+    "questionRomaji": "Nihongo no kyoukasho no namae wa nan desu ka?",
+    "questionBn": "জাপানিজ পাঠ্যবইয়ের নাম কি?",
+    "answers": [
+      {
+        "jp": "みんなのにほんごです。",
+        "romaji": "Minna no Nihongo desu.",
+        "bn": "মিন্না নো নিহঙ্গো (Minna no Nihongo)।"
+      }
+    ],
+    "audioPhrase": "にほんごのきょうかしょの なまえは なんですか。"
+  },
+  {
+    "id": "iv_188",
+    "number": 188,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "バングラデシュのなかでどこがいちばん ゆうめいですか。",
+    "questionRomaji": "Banguradeshu no naka de doko ga ichiban yuumei desu ka?",
+    "questionBn": "বাংলাদেশে কোথায় সবচেয়ে বেশি জনপ্রিয় বা বিখ্যাত?",
+    "answers": [
+      {
+        "jp": "コックスバザールが いちばん ゆうめいです。せかいで いちばん ながい すなはまです。",
+        "romaji": "Kokkusu Bazaaru ga ichiban yuumei desu.",
+        "bn": "কক্সবাজার সবচেয়ে বেশি বিখ্যাত (বিশ্বের দীর্ঘতম সমুদ্র সৈকত)।"
+      }
+    ],
+    "audioPhrase": "バングラデシュのなかでどこがいちばん ゆうめいですか。"
+  },
+  {
+    "id": "iv_189",
+    "number": 189,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "バングラデシュのなかでいつがいちばん あついですか。",
+    "questionRomaji": "Banguradeshu no naka de itsu ga ichiban atsui desu ka?",
+    "questionBn": "বাংলাদেশে কখন সবচেয়ে বেশি গরম পড়ে?",
+    "answers": [
+      {
+        "jp": "しがつがいちばん あついです。",
+        "romaji": "Shigatsu ga ichiban atsui desu.",
+        "bn": "এপ্রিল মাসে সবচেয়ে বেশি গরম পড়ে।"
+      }
+    ],
+    "audioPhrase": "バングラデシュのなかでいつがいちばん あついですか。"
+  },
+  {
+    "id": "iv_190",
+    "number": 190,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "えいごで はなすことが できますか。",
+    "questionRomaji": "Eigo de hanasu koto ga dekimasu ka?",
+    "questionBn": "ইংরেজিতে কথা বলতে পারেন কি?",
+    "answers": [
+      {
+        "jp": "はい、すくなしできます。 / はい、はなせます。",
+        "romaji": "Hai, sukoshi dekimasu. / Hai, hanasemasu.",
+        "bn": "হ্যাঁ, কিছুটা পারি / হ্যাঁ, কথা বলতে পারি।"
+      }
+    ],
+    "audioPhrase": "えいごで はなすことが できますか。"
+  },
+  {
+    "id": "iv_191",
+    "number": 191,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "えいごでじこしょうかいを してください。",
+    "questionRomaji": "Eigo de jikoshoukai o shite kudasai.",
+    "questionBn": "ইংরেজিতে নিজের পরিচয় দিন।",
+    "answers": [
+      {
+        "jp": "Hello, my name is ... I am ... years old. I graduated from ... Now I am studying Japanese. My hobby is playing cricket. Nice to meet you.",
+        "romaji": "Hello, my name is ...",
+        "bn": "হ্যালো, আমার নাম ...। বয়স ... বছর। ... পাশ করেছি। এখন জাপানিজ ভাষা শিখছি। আমার শখ ক্রিকেট খেলা। ধন্যবাদ।"
+      }
+    ],
+    "audioPhrase": "えいごでじこしょうかいを してください。"
+  },
+  {
+    "id": "iv_192",
+    "number": 192,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "ほかに どこかに もうしこみしたことが ありますか。",
+    "questionRomaji": "Hoka ni dokoka ni moushikomi shita koto ga arimasu ka?",
+    "questionBn": "অন্য কোথাও আবেদন করার অভিজ্ঞতা আছে কি?",
+    "answers": [
+      {
+        "jp": "いいえ、ありません。このがっこうだけです。",
+        "romaji": "Iie, arimasen. Kono gakkou dake desu.",
+        "bn": "না, অন্য কোথাও করিনি। শুধুমাত্র এই স্কুলেই আবেদন করেছি।"
+      }
+    ],
+    "audioPhrase": "ほかに どこかに もうしこみしたことが ありますか。"
+  },
+  {
+    "id": "iv_193",
+    "number": 193,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "なにか しつもんが ありますか。",
+    "questionRomaji": "Nanika shitsumon ga arimasu ka?",
+    "questionBn": "আপনার কোনো প্রশ্ন আছে কি?",
+    "answers": [
+      {
+        "jp": "はい、しがつのじゅぎょうはいつからはじまりますか。",
+        "romaji": "Hai, shigatsu no jugyou wa itsu kara hajimarimasu ka?",
+        "bn": "হ্যাঁ, এপ্রিলের ক্লাস কবে থেকে শুরু হবে?"
+      },
+      {
+        "jp": "いちにちになにじかんじゅぎょうがありますか。",
+        "romaji": "Ichinichi ni nanjikan jugyou ga arimasu ka?",
+        "bn": "দিনে কত ঘণ্টা ক্লাস হয়?"
+      }
+    ],
+    "audioPhrase": "なにか しつもんが ありますか。"
+  },
+  {
+    "id": "iv_194",
+    "number": 194,
+    "category": "General Knowledge",
+    "categoryBn": "সাধারণ প্রশ্ন",
+    "questionJp": "ほかに なにか しつもんが ありますか。",
+    "questionRomaji": "Hoka ni nanika shitsumon ga arimasu ka?",
+    "questionBn": "অন্য আর কোনো প্রশ্ন আছে কি?",
+    "answers": [
+      {
+        "jp": "いいえ、ありませんせんせい。どうも ありがとうございました。",
+        "romaji": "Iie, arimasen sensei. Doumo arigatou gozaimashita.",
+        "bn": "না, আর কোনো প্রশ্ন নেই স্যার। আপনাকে অসংখ্য ধন্যবাদ।"
+      }
+    ],
+    "audioPhrase": "ほかに なにか しつもんが ありますか。"
+  }
+]

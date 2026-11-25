@@ -1,0 +1,117 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Default deny catch-all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // Validation helpers
+    function isValidUserProfile(data) {
+      return data.userId is string && data.userId.size() > 0 && data.userId.size() <= 128 &&
+             data.displayName is string && data.displayName.size() <= 100 &&
+             (!('email' in data) || data.email == null || (data.email is string && data.email.size() <= 150)) &&
+             (!('photoUrl' in data) || data.photoUrl == null || (data.photoUrl is string && data.photoUrl.size() <= 1000)) &&
+             data.studySeconds is int && data.studySeconds >= 0 &&
+             data.quizCount is int && data.quizCount >= 0 &&
+             data.quizCorrect is int && data.quizCorrect >= 0;
+    }
+
+    function isValidQuizHistory(data) {
+      return data.quizId is string && data.quizId.size() > 0 && data.quizId.size() <= 128 &&
+             data.userId is string && data.userId == request.auth.uid &&
+             data.category is string && data.category.size() <= 50 &&
+             data.lesson is int && data.lesson >= 0 && data.lesson <= 100 &&
+             data.score is int && data.score >= 0 &&
+             data.totalQuestions is int && data.totalQuestions >= 0 &&
+             data.percentage is int && data.percentage >= 0 && data.percentage <= 100;
+    }
+
+    function isValidBookmark(data) {
+      return data.bookmarkId is string && data.bookmarkId.size() > 0 && data.bookmarkId.size() <= 128 &&
+             data.userId is string && data.userId == request.auth.uid &&
+             data.itemId is string && data.itemId.size() <= 128 &&
+             data.category is string && data.category.size() <= 50 &&
+             data.japanese is string && data.japanese.size() <= 300 &&
+             data.romaji is string && data.romaji.size() <= 300 &&
+             data.bangla is string && data.bangla.size() <= 500;
+    }
+
+    // User profile document
+    match /users/{userId} {
+      allow get: if isOwner(userId);
+      allow list: if isOwner(userId);
+
+      allow create: if isOwner(userId) &&
+                       incoming().userId == request.auth.uid &&
+                       incoming().keys().hasAll(['userId', 'displayName', 'studySeconds', 'quizCount', 'quizCorrect', 'createdAt', 'updatedAt']) &&
+                       incoming().keys().hasOnly(['userId', 'displayName', 'email', 'photoUrl', 'studySeconds', 'quizCount', 'quizCorrect', 'createdAt', 'updatedAt']) &&
+                       incoming().createdAt is timestamp &&
+                       incoming().createdAt <= request.time &&
+                       incoming().updatedAt is timestamp &&
+                       incoming().updatedAt <= request.time &&
+                       isValidUserProfile(incoming());
+
+      allow update: if isOwner(userId) &&
+                       incoming().userId == existing().userId &&
+                       incoming().createdAt == existing().createdAt &&
+                       incoming().updatedAt is timestamp &&
+                       incoming().updatedAt <= request.time &&
+                       isValidUserProfile(incoming()) &&
+                       incoming().diff(existing()).affectedKeys().hasOnly(['displayName', 'email', 'photoUrl', 'studySeconds', 'quizCount', 'quizCorrect', 'updatedAt']);
+
+      allow delete: if isOwner(userId);
+
+      // Quiz History subcollection
+      match /quiz_history/{quizId} {
+        allow get, list: if isOwner(userId);
+
+        allow create: if isOwner(userId) &&
+                         isValidId(quizId) &&
+                         incoming().quizId == quizId &&
+                         incoming().userId == request.auth.uid &&
+                         incoming().createdAt is timestamp &&
+                         incoming().createdAt <= request.time &&
+                         isValidQuizHistory(incoming());
+
+        allow update, delete: if isOwner(userId);
+      }
+
+      // Bookmarks subcollection
+      match /bookmarks/{bookmarkId} {
+        allow get, list: if isOwner(userId);
+
+        allow create: if isOwner(userId) &&
+                         isValidId(bookmarkId) &&
+                         incoming().bookmarkId == bookmarkId &&
+                         incoming().userId == request.auth.uid &&
+                         incoming().createdAt is timestamp &&
+                         incoming().createdAt <= request.time &&
+                         isValidBookmark(incoming());
+
+        allow update, delete: if isOwner(userId);
+      }
+    }
+  }
+}
